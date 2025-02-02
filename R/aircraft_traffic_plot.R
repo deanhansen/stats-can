@@ -4,7 +4,7 @@ aircraft_traffic <- readr::read_csv(file = "data-raw/aircraft_traffic_data.csv")
 aircraft_weight  <- readr::read_csv(file = "data-raw/aircraft_weight_data.csv")
 
 
-# Plot --------------------------------------------------------------------
+# Number of Aircraft Flying from Canadian Airports by Weight Category --------------------------------------------------------------------
 
 aircraft_weight |> 
   dplyr::filter(AIRPORT_LOCATION == "All Airports") |> 
