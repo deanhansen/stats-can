@@ -1,0 +1,3481 @@
+YEAR,MONTH,DAY,REF_DATE,GEO,FUEL_TYPE,VEHICLE_TYPE,NUMBER_OF_CARS
+2017,1,1,2017-01-01,CAN,Gas,Passenger cars,125547
+2017,1,1,2017-01-01,CAN,Gas,Pickup trucks,78414
+2017,1,1,2017-01-01,CAN,Gas,Vans,25883
+2017,1,1,2017-01-01,CAN,Diesel,Passenger cars,264
+2017,1,1,2017-01-01,CAN,Diesel,Pickup trucks,11383
+2017,1,1,2017-01-01,CAN,Diesel,Vans,1663
+2017,1,1,2017-01-01,CAN,Electric,Passenger cars,1133
+2017,1,1,2017-01-01,CAN,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,CAN,Electric,Vans,0
+2017,1,1,2017-01-01,CAN,Hybrid,Passenger cars,2241
+2017,1,1,2017-01-01,CAN,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,CAN,Hybrid,Vans,0
+2017,1,1,2017-01-01,CAN,Hybrid,Passenger cars,1556
+2017,1,1,2017-01-01,CAN,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,CAN,Hybrid,Vans,22
+2017,1,1,2017-01-01,PEI,Gas,Passenger cars,422
+2017,1,1,2017-01-01,PEI,Gas,Pickup trucks,346
+2017,1,1,2017-01-01,PEI,Gas,Vans,61
+2017,1,1,2017-01-01,PEI,Diesel,Passenger cars,0
+2017,1,1,2017-01-01,PEI,Diesel,Pickup trucks,25
+2017,1,1,2017-01-01,PEI,Diesel,Vans,1
+2017,1,1,2017-01-01,PEI,Electric,Passenger cars,0
+2017,1,1,2017-01-01,PEI,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,PEI,Electric,Vans,0
+2017,1,1,2017-01-01,PEI,Hybrid,Passenger cars,6
+2017,1,1,2017-01-01,PEI,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,PEI,Hybrid,Vans,0
+2017,1,1,2017-01-01,PEI,Hybrid,Passenger cars,0
+2017,1,1,2017-01-01,PEI,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,PEI,Hybrid,Vans,0
+2017,1,1,2017-01-01,NB,Gas,Passenger cars,2368
+2017,1,1,2017-01-01,NB,Gas,Pickup trucks,2082
+2017,1,1,2017-01-01,NB,Gas,Vans,367
+2017,1,1,2017-01-01,NB,Diesel,Passenger cars,3
+2017,1,1,2017-01-01,NB,Diesel,Pickup trucks,171
+2017,1,1,2017-01-01,NB,Diesel,Vans,5
+2017,1,1,2017-01-01,NB,Electric,Passenger cars,0
+2017,1,1,2017-01-01,NB,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,NB,Electric,Vans,0
+2017,1,1,2017-01-01,NB,Hybrid,Passenger cars,21
+2017,1,1,2017-01-01,NB,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,NB,Hybrid,Vans,0
+2017,1,1,2017-01-01,NB,Hybrid,Passenger cars,1
+2017,1,1,2017-01-01,NB,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,NB,Hybrid,Vans,2
+2017,1,1,2017-01-01,QUE,Gas,Passenger cars,33703
+2017,1,1,2017-01-01,QUE,Gas,Pickup trucks,12488
+2017,1,1,2017-01-01,QUE,Gas,Vans,4663
+2017,1,1,2017-01-01,QUE,Diesel,Passenger cars,43
+2017,1,1,2017-01-01,QUE,Diesel,Pickup trucks,1412
+2017,1,1,2017-01-01,QUE,Diesel,Vans,389
+2017,1,1,2017-01-01,QUE,Electric,Passenger cars,443
+2017,1,1,2017-01-01,QUE,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,QUE,Electric,Vans,0
+2017,1,1,2017-01-01,QUE,Hybrid,Passenger cars,544
+2017,1,1,2017-01-01,QUE,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,QUE,Hybrid,Vans,0
+2017,1,1,2017-01-01,QUE,Hybrid,Passenger cars,586
+2017,1,1,2017-01-01,QUE,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,QUE,Hybrid,Vans,4
+2017,1,1,2017-01-01,ON,Gas,Passenger cars,51383
+2017,1,1,2017-01-01,ON,Gas,Pickup trucks,28548
+2017,1,1,2017-01-01,ON,Gas,Vans,12114
+2017,1,1,2017-01-01,ON,Diesel,Passenger cars,124
+2017,1,1,2017-01-01,ON,Diesel,Pickup trucks,2589
+2017,1,1,2017-01-01,ON,Diesel,Vans,698
+2017,1,1,2017-01-01,ON,Electric,Passenger cars,414
+2017,1,1,2017-01-01,ON,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,ON,Electric,Vans,0
+2017,1,1,2017-01-01,ON,Hybrid,Passenger cars,918
+2017,1,1,2017-01-01,ON,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,ON,Hybrid,Vans,0
+2017,1,1,2017-01-01,ON,Hybrid,Passenger cars,627
+2017,1,1,2017-01-01,ON,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,ON,Hybrid,Vans,9
+2017,1,1,2017-01-01,MB,Gas,Passenger cars,2888
+2017,1,1,2017-01-01,MB,Gas,Pickup trucks,3160
+2017,1,1,2017-01-01,MB,Gas,Vans,751
+2017,1,1,2017-01-01,MB,Diesel,Passenger cars,6
+2017,1,1,2017-01-01,MB,Diesel,Pickup trucks,266
+2017,1,1,2017-01-01,MB,Diesel,Vans,37
+2017,1,1,2017-01-01,MB,Electric,Passenger cars,5
+2017,1,1,2017-01-01,MB,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,MB,Electric,Vans,0
+2017,1,1,2017-01-01,MB,Hybrid,Passenger cars,31
+2017,1,1,2017-01-01,MB,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,MB,Hybrid,Vans,0
+2017,1,1,2017-01-01,MB,Hybrid,Passenger cars,4
+2017,1,1,2017-01-01,MB,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,MB,Hybrid,Vans,1
+2017,1,1,2017-01-01,SAS,Gas,Passenger cars,1880
+2017,1,1,2017-01-01,SAS,Gas,Pickup trucks,4179
+2017,1,1,2017-01-01,SAS,Gas,Vans,675
+2017,1,1,2017-01-01,SAS,Diesel,Passenger cars,5
+2017,1,1,2017-01-01,SAS,Diesel,Pickup trucks,839
+2017,1,1,2017-01-01,SAS,Diesel,Vans,15
+2017,1,1,2017-01-01,SAS,Electric,Passenger cars,2
+2017,1,1,2017-01-01,SAS,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,SAS,Electric,Vans,0
+2017,1,1,2017-01-01,SAS,Hybrid,Passenger cars,53
+2017,1,1,2017-01-01,SAS,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,SAS,Hybrid,Vans,0
+2017,1,1,2017-01-01,SAS,Hybrid,Passenger cars,2
+2017,1,1,2017-01-01,SAS,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,SAS,Hybrid,Vans,1
+2017,1,1,2017-01-01,BC,Gas,Passenger cars,17038
+2017,1,1,2017-01-01,BC,Gas,Pickup trucks,8992
+2017,1,1,2017-01-01,BC,Gas,Vans,3148
+2017,1,1,2017-01-01,BC,Diesel,Passenger cars,56
+2017,1,1,2017-01-01,BC,Diesel,Pickup trucks,2225
+2017,1,1,2017-01-01,BC,Diesel,Vans,369
+2017,1,1,2017-01-01,BC,Electric,Passenger cars,251
+2017,1,1,2017-01-01,BC,Electric,Pickup trucks,0
+2017,1,1,2017-01-01,BC,Electric,Vans,0
+2017,1,1,2017-01-01,BC,Hybrid,Passenger cars,471
+2017,1,1,2017-01-01,BC,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,BC,Hybrid,Vans,0
+2017,1,1,2017-01-01,BC,Hybrid,Passenger cars,304
+2017,1,1,2017-01-01,BC,Hybrid,Pickup trucks,0
+2017,1,1,2017-01-01,BC,Hybrid,Vans,4
+2017,4,1,2017-04-01,CAN,Gas,Passenger cars,192729
+2017,4,1,2017-04-01,CAN,Gas,Pickup trucks,111945
+2017,4,1,2017-04-01,CAN,Gas,Vans,39382
+2017,4,1,2017-04-01,CAN,Diesel,Passenger cars,425
+2017,4,1,2017-04-01,CAN,Diesel,Pickup trucks,14497
+2017,4,1,2017-04-01,CAN,Diesel,Vans,1699
+2017,4,1,2017-04-01,CAN,Electric,Passenger cars,1651
+2017,4,1,2017-04-01,CAN,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,CAN,Electric,Vans,0
+2017,4,1,2017-04-01,CAN,Hybrid,Passenger cars,4189
+2017,4,1,2017-04-01,CAN,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,CAN,Hybrid,Vans,0
+2017,4,1,2017-04-01,CAN,Hybrid,Passenger cars,2267
+2017,4,1,2017-04-01,CAN,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,CAN,Hybrid,Vans,234
+2017,4,1,2017-04-01,PEI,Gas,Passenger cars,1077
+2017,4,1,2017-04-01,PEI,Gas,Pickup trucks,520
+2017,4,1,2017-04-01,PEI,Gas,Vans,141
+2017,4,1,2017-04-01,PEI,Diesel,Passenger cars,0
+2017,4,1,2017-04-01,PEI,Diesel,Pickup trucks,31
+2017,4,1,2017-04-01,PEI,Diesel,Vans,3
+2017,4,1,2017-04-01,PEI,Electric,Passenger cars,0
+2017,4,1,2017-04-01,PEI,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,PEI,Electric,Vans,0
+2017,4,1,2017-04-01,PEI,Hybrid,Passenger cars,14
+2017,4,1,2017-04-01,PEI,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,PEI,Hybrid,Vans,0
+2017,4,1,2017-04-01,PEI,Hybrid,Passenger cars,1
+2017,4,1,2017-04-01,PEI,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,PEI,Hybrid,Vans,0
+2017,4,1,2017-04-01,NB,Gas,Passenger cars,4602
+2017,4,1,2017-04-01,NB,Gas,Pickup trucks,3336
+2017,4,1,2017-04-01,NB,Gas,Vans,583
+2017,4,1,2017-04-01,NB,Diesel,Passenger cars,4
+2017,4,1,2017-04-01,NB,Diesel,Pickup trucks,224
+2017,4,1,2017-04-01,NB,Diesel,Vans,17
+2017,4,1,2017-04-01,NB,Electric,Passenger cars,0
+2017,4,1,2017-04-01,NB,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,NB,Electric,Vans,0
+2017,4,1,2017-04-01,NB,Hybrid,Passenger cars,52
+2017,4,1,2017-04-01,NB,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,NB,Hybrid,Vans,0
+2017,4,1,2017-04-01,NB,Hybrid,Passenger cars,3
+2017,4,1,2017-04-01,NB,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,NB,Hybrid,Vans,0
+2017,4,1,2017-04-01,QUE,Gas,Passenger cars,57921
+2017,4,1,2017-04-01,QUE,Gas,Pickup trucks,19924
+2017,4,1,2017-04-01,QUE,Gas,Vans,8622
+2017,4,1,2017-04-01,QUE,Diesel,Passenger cars,82
+2017,4,1,2017-04-01,QUE,Diesel,Pickup trucks,2246
+2017,4,1,2017-04-01,QUE,Diesel,Vans,488
+2017,4,1,2017-04-01,QUE,Electric,Passenger cars,714
+2017,4,1,2017-04-01,QUE,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,QUE,Electric,Vans,0
+2017,4,1,2017-04-01,QUE,Hybrid,Passenger cars,1411
+2017,4,1,2017-04-01,QUE,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,QUE,Hybrid,Vans,0
+2017,4,1,2017-04-01,QUE,Hybrid,Passenger cars,1076
+2017,4,1,2017-04-01,QUE,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,QUE,Hybrid,Vans,46
+2017,4,1,2017-04-01,ON,Gas,Passenger cars,75040
+2017,4,1,2017-04-01,ON,Gas,Pickup trucks,40736
+2017,4,1,2017-04-01,ON,Gas,Vans,16276
+2017,4,1,2017-04-01,ON,Diesel,Passenger cars,219
+2017,4,1,2017-04-01,ON,Diesel,Pickup trucks,3128
+2017,4,1,2017-04-01,ON,Diesel,Vans,543
+2017,4,1,2017-04-01,ON,Electric,Passenger cars,604
+2017,4,1,2017-04-01,ON,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,ON,Electric,Vans,0
+2017,4,1,2017-04-01,ON,Hybrid,Passenger cars,1385
+2017,4,1,2017-04-01,ON,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,ON,Hybrid,Vans,0
+2017,4,1,2017-04-01,ON,Hybrid,Passenger cars,938
+2017,4,1,2017-04-01,ON,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,ON,Hybrid,Vans,167
+2017,4,1,2017-04-01,MB,Gas,Passenger cars,3997
+2017,4,1,2017-04-01,MB,Gas,Pickup trucks,4283
+2017,4,1,2017-04-01,MB,Gas,Vans,1113
+2017,4,1,2017-04-01,MB,Diesel,Passenger cars,10
+2017,4,1,2017-04-01,MB,Diesel,Pickup trucks,347
+2017,4,1,2017-04-01,MB,Diesel,Vans,36
+2017,4,1,2017-04-01,MB,Electric,Passenger cars,3
+2017,4,1,2017-04-01,MB,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,MB,Electric,Vans,0
+2017,4,1,2017-04-01,MB,Hybrid,Passenger cars,51
+2017,4,1,2017-04-01,MB,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,MB,Hybrid,Vans,0
+2017,4,1,2017-04-01,MB,Hybrid,Passenger cars,7
+2017,4,1,2017-04-01,MB,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,MB,Hybrid,Vans,0
+2017,4,1,2017-04-01,SAS,Gas,Passenger cars,2608
+2017,4,1,2017-04-01,SAS,Gas,Pickup trucks,5313
+2017,4,1,2017-04-01,SAS,Gas,Vans,859
+2017,4,1,2017-04-01,SAS,Diesel,Passenger cars,8
+2017,4,1,2017-04-01,SAS,Diesel,Pickup trucks,906
+2017,4,1,2017-04-01,SAS,Diesel,Vans,21
+2017,4,1,2017-04-01,SAS,Electric,Passenger cars,1
+2017,4,1,2017-04-01,SAS,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,SAS,Electric,Vans,0
+2017,4,1,2017-04-01,SAS,Hybrid,Passenger cars,28
+2017,4,1,2017-04-01,SAS,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,SAS,Hybrid,Vans,0
+2017,4,1,2017-04-01,SAS,Hybrid,Passenger cars,4
+2017,4,1,2017-04-01,SAS,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,SAS,Hybrid,Vans,0
+2017,4,1,2017-04-01,BC,Gas,Passenger cars,21302
+2017,4,1,2017-04-01,BC,Gas,Pickup trucks,11872
+2017,4,1,2017-04-01,BC,Gas,Vans,4730
+2017,4,1,2017-04-01,BC,Diesel,Passenger cars,67
+2017,4,1,2017-04-01,BC,Diesel,Pickup trucks,2758
+2017,4,1,2017-04-01,BC,Diesel,Vans,404
+2017,4,1,2017-04-01,BC,Electric,Passenger cars,307
+2017,4,1,2017-04-01,BC,Electric,Pickup trucks,0
+2017,4,1,2017-04-01,BC,Electric,Vans,0
+2017,4,1,2017-04-01,BC,Hybrid,Passenger cars,835
+2017,4,1,2017-04-01,BC,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,BC,Hybrid,Vans,0
+2017,4,1,2017-04-01,BC,Hybrid,Passenger cars,203
+2017,4,1,2017-04-01,BC,Hybrid,Pickup trucks,0
+2017,4,1,2017-04-01,BC,Hybrid,Vans,15
+2017,7,1,2017-07-01,CAN,Gas,Passenger cars,164930
+2017,7,1,2017-07-01,CAN,Gas,Pickup trucks,99149
+2017,7,1,2017-07-01,CAN,Gas,Vans,31585
+2017,7,1,2017-07-01,CAN,Diesel,Passenger cars,548
+2017,7,1,2017-07-01,CAN,Diesel,Pickup trucks,15002
+2017,7,1,2017-07-01,CAN,Diesel,Vans,1481
+2017,7,1,2017-07-01,CAN,Electric,Passenger cars,1755
+2017,7,1,2017-07-01,CAN,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,CAN,Electric,Vans,0
+2017,7,1,2017-07-01,CAN,Hybrid,Passenger cars,4167
+2017,7,1,2017-07-01,CAN,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,CAN,Hybrid,Vans,0
+2017,7,1,2017-07-01,CAN,Hybrid,Passenger cars,2352
+2017,7,1,2017-07-01,CAN,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,CAN,Hybrid,Vans,192
+2017,7,1,2017-07-01,PEI,Gas,Passenger cars,776
+2017,7,1,2017-07-01,PEI,Gas,Pickup trucks,530
+2017,7,1,2017-07-01,PEI,Gas,Vans,140
+2017,7,1,2017-07-01,PEI,Diesel,Passenger cars,1
+2017,7,1,2017-07-01,PEI,Diesel,Pickup trucks,43
+2017,7,1,2017-07-01,PEI,Diesel,Vans,0
+2017,7,1,2017-07-01,PEI,Electric,Passenger cars,0
+2017,7,1,2017-07-01,PEI,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,PEI,Electric,Vans,0
+2017,7,1,2017-07-01,PEI,Hybrid,Passenger cars,14
+2017,7,1,2017-07-01,PEI,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,PEI,Hybrid,Vans,0
+2017,7,1,2017-07-01,PEI,Hybrid,Passenger cars,0
+2017,7,1,2017-07-01,PEI,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,PEI,Hybrid,Vans,0
+2017,7,1,2017-07-01,NB,Gas,Passenger cars,3583
+2017,7,1,2017-07-01,NB,Gas,Pickup trucks,2970
+2017,7,1,2017-07-01,NB,Gas,Vans,445
+2017,7,1,2017-07-01,NB,Diesel,Passenger cars,2
+2017,7,1,2017-07-01,NB,Diesel,Pickup trucks,241
+2017,7,1,2017-07-01,NB,Diesel,Vans,10
+2017,7,1,2017-07-01,NB,Electric,Passenger cars,1
+2017,7,1,2017-07-01,NB,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,NB,Electric,Vans,0
+2017,7,1,2017-07-01,NB,Hybrid,Passenger cars,55
+2017,7,1,2017-07-01,NB,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,NB,Hybrid,Vans,0
+2017,7,1,2017-07-01,NB,Hybrid,Passenger cars,2
+2017,7,1,2017-07-01,NB,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,NB,Hybrid,Vans,2
+2017,7,1,2017-07-01,QUE,Gas,Passenger cars,49845
+2017,7,1,2017-07-01,QUE,Gas,Pickup trucks,16839
+2017,7,1,2017-07-01,QUE,Gas,Vans,6129
+2017,7,1,2017-07-01,QUE,Diesel,Passenger cars,116
+2017,7,1,2017-07-01,QUE,Diesel,Pickup trucks,2322
+2017,7,1,2017-07-01,QUE,Diesel,Vans,372
+2017,7,1,2017-07-01,QUE,Electric,Passenger cars,717
+2017,7,1,2017-07-01,QUE,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,QUE,Electric,Vans,0
+2017,7,1,2017-07-01,QUE,Hybrid,Passenger cars,1147
+2017,7,1,2017-07-01,QUE,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,QUE,Hybrid,Vans,0
+2017,7,1,2017-07-01,QUE,Hybrid,Passenger cars,1093
+2017,7,1,2017-07-01,QUE,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,QUE,Hybrid,Vans,82
+2017,7,1,2017-07-01,ON,Gas,Passenger cars,66716
+2017,7,1,2017-07-01,ON,Gas,Pickup trucks,35273
+2017,7,1,2017-07-01,ON,Gas,Vans,15307
+2017,7,1,2017-07-01,ON,Diesel,Passenger cars,255
+2017,7,1,2017-07-01,ON,Diesel,Pickup trucks,3709
+2017,7,1,2017-07-01,ON,Diesel,Vans,573
+2017,7,1,2017-07-01,ON,Electric,Passenger cars,685
+2017,7,1,2017-07-01,ON,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,ON,Electric,Vans,0
+2017,7,1,2017-07-01,ON,Hybrid,Passenger cars,1504
+2017,7,1,2017-07-01,ON,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,ON,Hybrid,Vans,0
+2017,7,1,2017-07-01,ON,Hybrid,Passenger cars,985
+2017,7,1,2017-07-01,ON,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,ON,Hybrid,Vans,97
+2017,7,1,2017-07-01,MB,Gas,Passenger cars,3552
+2017,7,1,2017-07-01,MB,Gas,Pickup trucks,3797
+2017,7,1,2017-07-01,MB,Gas,Vans,867
+2017,7,1,2017-07-01,MB,Diesel,Passenger cars,9
+2017,7,1,2017-07-01,MB,Diesel,Pickup trucks,402
+2017,7,1,2017-07-01,MB,Diesel,Vans,25
+2017,7,1,2017-07-01,MB,Electric,Passenger cars,6
+2017,7,1,2017-07-01,MB,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,MB,Electric,Vans,0
+2017,7,1,2017-07-01,MB,Hybrid,Passenger cars,65
+2017,7,1,2017-07-01,MB,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,MB,Hybrid,Vans,0
+2017,7,1,2017-07-01,MB,Hybrid,Passenger cars,8
+2017,7,1,2017-07-01,MB,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,MB,Hybrid,Vans,0
+2017,7,1,2017-07-01,SAS,Gas,Passenger cars,2378
+2017,7,1,2017-07-01,SAS,Gas,Pickup trucks,4621
+2017,7,1,2017-07-01,SAS,Gas,Vans,656
+2017,7,1,2017-07-01,SAS,Diesel,Passenger cars,15
+2017,7,1,2017-07-01,SAS,Diesel,Pickup trucks,964
+2017,7,1,2017-07-01,SAS,Diesel,Vans,19
+2017,7,1,2017-07-01,SAS,Electric,Passenger cars,3
+2017,7,1,2017-07-01,SAS,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,SAS,Electric,Vans,0
+2017,7,1,2017-07-01,SAS,Hybrid,Passenger cars,24
+2017,7,1,2017-07-01,SAS,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,SAS,Hybrid,Vans,0
+2017,7,1,2017-07-01,SAS,Hybrid,Passenger cars,2
+2017,7,1,2017-07-01,SAS,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,SAS,Hybrid,Vans,0
+2017,7,1,2017-07-01,BC,Gas,Passenger cars,17618
+2017,7,1,2017-07-01,BC,Gas,Pickup trucks,11360
+2017,7,1,2017-07-01,BC,Gas,Vans,3417
+2017,7,1,2017-07-01,BC,Diesel,Passenger cars,98
+2017,7,1,2017-07-01,BC,Diesel,Pickup trucks,2423
+2017,7,1,2017-07-01,BC,Diesel,Vans,327
+2017,7,1,2017-07-01,BC,Electric,Passenger cars,314
+2017,7,1,2017-07-01,BC,Electric,Pickup trucks,0
+2017,7,1,2017-07-01,BC,Electric,Vans,0
+2017,7,1,2017-07-01,BC,Hybrid,Passenger cars,933
+2017,7,1,2017-07-01,BC,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,BC,Hybrid,Vans,0
+2017,7,1,2017-07-01,BC,Hybrid,Passenger cars,224
+2017,7,1,2017-07-01,BC,Hybrid,Pickup trucks,0
+2017,7,1,2017-07-01,BC,Hybrid,Vans,11
+2017,10,1,2017-10-01,CAN,Gas,Passenger cars,117087
+2017,10,1,2017-10-01,CAN,Gas,Pickup trucks,76791
+2017,10,1,2017-10-01,CAN,Gas,Vans,26003
+2017,10,1,2017-10-01,CAN,Diesel,Passenger cars,360
+2017,10,1,2017-10-01,CAN,Diesel,Pickup trucks,12760
+2017,10,1,2017-10-01,CAN,Diesel,Vans,1356
+2017,10,1,2017-10-01,CAN,Electric,Passenger cars,2114
+2017,10,1,2017-10-01,CAN,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,CAN,Electric,Vans,0
+2017,10,1,2017-10-01,CAN,Hybrid,Passenger cars,2918
+2017,10,1,2017-10-01,CAN,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,CAN,Hybrid,Vans,0
+2017,10,1,2017-10-01,CAN,Hybrid,Passenger cars,2554
+2017,10,1,2017-10-01,CAN,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,CAN,Hybrid,Vans,391
+2017,10,1,2017-10-01,PEI,Gas,Passenger cars,588
+2017,10,1,2017-10-01,PEI,Gas,Pickup trucks,441
+2017,10,1,2017-10-01,PEI,Gas,Vans,87
+2017,10,1,2017-10-01,PEI,Diesel,Passenger cars,0
+2017,10,1,2017-10-01,PEI,Diesel,Pickup trucks,28
+2017,10,1,2017-10-01,PEI,Diesel,Vans,4
+2017,10,1,2017-10-01,PEI,Electric,Passenger cars,0
+2017,10,1,2017-10-01,PEI,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,PEI,Electric,Vans,0
+2017,10,1,2017-10-01,PEI,Hybrid,Passenger cars,12
+2017,10,1,2017-10-01,PEI,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,PEI,Hybrid,Vans,0
+2017,10,1,2017-10-01,PEI,Hybrid,Passenger cars,1
+2017,10,1,2017-10-01,PEI,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,PEI,Hybrid,Vans,0
+2017,10,1,2017-10-01,NB,Gas,Passenger cars,2223
+2017,10,1,2017-10-01,NB,Gas,Pickup trucks,2258
+2017,10,1,2017-10-01,NB,Gas,Vans,375
+2017,10,1,2017-10-01,NB,Diesel,Passenger cars,6
+2017,10,1,2017-10-01,NB,Diesel,Pickup trucks,196
+2017,10,1,2017-10-01,NB,Diesel,Vans,7
+2017,10,1,2017-10-01,NB,Electric,Passenger cars,3
+2017,10,1,2017-10-01,NB,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,NB,Electric,Vans,0
+2017,10,1,2017-10-01,NB,Hybrid,Passenger cars,30
+2017,10,1,2017-10-01,NB,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,NB,Hybrid,Vans,0
+2017,10,1,2017-10-01,NB,Hybrid,Passenger cars,3
+2017,10,1,2017-10-01,NB,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,NB,Hybrid,Vans,0
+2017,10,1,2017-10-01,QUE,Gas,Passenger cars,35935
+2017,10,1,2017-10-01,QUE,Gas,Pickup trucks,12385
+2017,10,1,2017-10-01,QUE,Gas,Vans,5218
+2017,10,1,2017-10-01,QUE,Diesel,Passenger cars,71
+2017,10,1,2017-10-01,QUE,Diesel,Pickup trucks,1992
+2017,10,1,2017-10-01,QUE,Diesel,Vans,346
+2017,10,1,2017-10-01,QUE,Electric,Passenger cars,902
+2017,10,1,2017-10-01,QUE,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,QUE,Electric,Vans,0
+2017,10,1,2017-10-01,QUE,Hybrid,Passenger cars,841
+2017,10,1,2017-10-01,QUE,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,QUE,Hybrid,Vans,0
+2017,10,1,2017-10-01,QUE,Hybrid,Passenger cars,1226
+2017,10,1,2017-10-01,QUE,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,QUE,Hybrid,Vans,82
+2017,10,1,2017-10-01,ON,Gas,Passenger cars,48235
+2017,10,1,2017-10-01,ON,Gas,Pickup trucks,26763
+2017,10,1,2017-10-01,ON,Gas,Vans,12290
+2017,10,1,2017-10-01,ON,Diesel,Passenger cars,167
+2017,10,1,2017-10-01,ON,Diesel,Pickup trucks,3317
+2017,10,1,2017-10-01,ON,Diesel,Vans,528
+2017,10,1,2017-10-01,ON,Electric,Passenger cars,829
+2017,10,1,2017-10-01,ON,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,ON,Electric,Vans,0
+2017,10,1,2017-10-01,ON,Hybrid,Passenger cars,1115
+2017,10,1,2017-10-01,ON,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,ON,Hybrid,Vans,0
+2017,10,1,2017-10-01,ON,Hybrid,Passenger cars,1109
+2017,10,1,2017-10-01,ON,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,ON,Hybrid,Vans,249
+2017,10,1,2017-10-01,MB,Gas,Passenger cars,2472
+2017,10,1,2017-10-01,MB,Gas,Pickup trucks,3301
+2017,10,1,2017-10-01,MB,Gas,Vans,609
+2017,10,1,2017-10-01,MB,Diesel,Passenger cars,9
+2017,10,1,2017-10-01,MB,Diesel,Pickup trucks,310
+2017,10,1,2017-10-01,MB,Diesel,Vans,26
+2017,10,1,2017-10-01,MB,Electric,Passenger cars,4
+2017,10,1,2017-10-01,MB,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,MB,Electric,Vans,0
+2017,10,1,2017-10-01,MB,Hybrid,Passenger cars,51
+2017,10,1,2017-10-01,MB,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,MB,Hybrid,Vans,0
+2017,10,1,2017-10-01,MB,Hybrid,Passenger cars,4
+2017,10,1,2017-10-01,MB,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,MB,Hybrid,Vans,3
+2017,10,1,2017-10-01,SAS,Gas,Passenger cars,1494
+2017,10,1,2017-10-01,SAS,Gas,Pickup trucks,4056
+2017,10,1,2017-10-01,SAS,Gas,Vans,597
+2017,10,1,2017-10-01,SAS,Diesel,Passenger cars,16
+2017,10,1,2017-10-01,SAS,Diesel,Pickup trucks,786
+2017,10,1,2017-10-01,SAS,Diesel,Vans,16
+2017,10,1,2017-10-01,SAS,Electric,Passenger cars,4
+2017,10,1,2017-10-01,SAS,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,SAS,Electric,Vans,0
+2017,10,1,2017-10-01,SAS,Hybrid,Passenger cars,27
+2017,10,1,2017-10-01,SAS,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,SAS,Hybrid,Vans,0
+2017,10,1,2017-10-01,SAS,Hybrid,Passenger cars,1
+2017,10,1,2017-10-01,SAS,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,SAS,Hybrid,Vans,2
+2017,10,1,2017-10-01,BC,Gas,Passenger cars,12211
+2017,10,1,2017-10-01,BC,Gas,Pickup trucks,8475
+2017,10,1,2017-10-01,BC,Gas,Vans,3043
+2017,10,1,2017-10-01,BC,Diesel,Passenger cars,52
+2017,10,1,2017-10-01,BC,Diesel,Pickup trucks,1990
+2017,10,1,2017-10-01,BC,Diesel,Vans,301
+2017,10,1,2017-10-01,BC,Electric,Passenger cars,328
+2017,10,1,2017-10-01,BC,Electric,Pickup trucks,0
+2017,10,1,2017-10-01,BC,Electric,Vans,0
+2017,10,1,2017-10-01,BC,Hybrid,Passenger cars,523
+2017,10,1,2017-10-01,BC,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,BC,Hybrid,Vans,0
+2017,10,1,2017-10-01,BC,Hybrid,Passenger cars,186
+2017,10,1,2017-10-01,BC,Hybrid,Pickup trucks,0
+2017,10,1,2017-10-01,BC,Hybrid,Vans,46
+2018,1,1,2018-01-01,CAN,Gas,Passenger cars,106260
+2018,1,1,2018-01-01,CAN,Gas,Pickup trucks,68710
+2018,1,1,2018-01-01,CAN,Gas,Vans,25994
+2018,1,1,2018-01-01,CAN,Diesel,Passenger cars,287
+2018,1,1,2018-01-01,CAN,Diesel,Pickup trucks,11830
+2018,1,1,2018-01-01,CAN,Diesel,Vans,1256
+2018,1,1,2018-01-01,CAN,Electric,Passenger cars,2088
+2018,1,1,2018-01-01,CAN,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,CAN,Electric,Vans,0
+2018,1,1,2018-01-01,CAN,Hybrid,Passenger cars,2041
+2018,1,1,2018-01-01,CAN,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,CAN,Hybrid,Vans,0
+2018,1,1,2018-01-01,CAN,Hybrid,Passenger cars,2811
+2018,1,1,2018-01-01,CAN,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,CAN,Hybrid,Vans,327
+2018,1,1,2018-01-01,PEI,Gas,Passenger cars,345
+2018,1,1,2018-01-01,PEI,Gas,Pickup trucks,286
+2018,1,1,2018-01-01,PEI,Gas,Vans,74
+2018,1,1,2018-01-01,PEI,Diesel,Passenger cars,1
+2018,1,1,2018-01-01,PEI,Diesel,Pickup trucks,29
+2018,1,1,2018-01-01,PEI,Diesel,Vans,3
+2018,1,1,2018-01-01,PEI,Electric,Passenger cars,2
+2018,1,1,2018-01-01,PEI,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,PEI,Electric,Vans,0
+2018,1,1,2018-01-01,PEI,Hybrid,Passenger cars,7
+2018,1,1,2018-01-01,PEI,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,PEI,Hybrid,Vans,0
+2018,1,1,2018-01-01,PEI,Hybrid,Passenger cars,1
+2018,1,1,2018-01-01,PEI,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,PEI,Hybrid,Vans,1
+2018,1,1,2018-01-01,NB,Gas,Passenger cars,1712
+2018,1,1,2018-01-01,NB,Gas,Pickup trucks,1776
+2018,1,1,2018-01-01,NB,Gas,Vans,306
+2018,1,1,2018-01-01,NB,Diesel,Passenger cars,6
+2018,1,1,2018-01-01,NB,Diesel,Pickup trucks,161
+2018,1,1,2018-01-01,NB,Diesel,Vans,15
+2018,1,1,2018-01-01,NB,Electric,Passenger cars,3
+2018,1,1,2018-01-01,NB,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,NB,Electric,Vans,0
+2018,1,1,2018-01-01,NB,Hybrid,Passenger cars,17
+2018,1,1,2018-01-01,NB,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,NB,Hybrid,Vans,0
+2018,1,1,2018-01-01,NB,Hybrid,Passenger cars,4
+2018,1,1,2018-01-01,NB,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,NB,Hybrid,Vans,0
+2018,1,1,2018-01-01,QUE,Gas,Passenger cars,29357
+2018,1,1,2018-01-01,QUE,Gas,Pickup trucks,10555
+2018,1,1,2018-01-01,QUE,Gas,Vans,5074
+2018,1,1,2018-01-01,QUE,Diesel,Passenger cars,46
+2018,1,1,2018-01-01,QUE,Diesel,Pickup trucks,1598
+2018,1,1,2018-01-01,QUE,Diesel,Vans,305
+2018,1,1,2018-01-01,QUE,Electric,Passenger cars,832
+2018,1,1,2018-01-01,QUE,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,QUE,Electric,Vans,0
+2018,1,1,2018-01-01,QUE,Hybrid,Passenger cars,569
+2018,1,1,2018-01-01,QUE,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,QUE,Hybrid,Vans,0
+2018,1,1,2018-01-01,QUE,Hybrid,Passenger cars,1103
+2018,1,1,2018-01-01,QUE,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,QUE,Hybrid,Vans,70
+2018,1,1,2018-01-01,ON,Gas,Passenger cars,44959
+2018,1,1,2018-01-01,ON,Gas,Pickup trucks,24967
+2018,1,1,2018-01-01,ON,Gas,Vans,12536
+2018,1,1,2018-01-01,ON,Diesel,Passenger cars,131
+2018,1,1,2018-01-01,ON,Diesel,Pickup trucks,3061
+2018,1,1,2018-01-01,ON,Diesel,Vans,533
+2018,1,1,2018-01-01,ON,Electric,Passenger cars,754
+2018,1,1,2018-01-01,ON,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,ON,Electric,Vans,0
+2018,1,1,2018-01-01,ON,Hybrid,Passenger cars,749
+2018,1,1,2018-01-01,ON,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,ON,Hybrid,Vans,0
+2018,1,1,2018-01-01,ON,Hybrid,Passenger cars,1252
+2018,1,1,2018-01-01,ON,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,ON,Hybrid,Vans,209
+2018,1,1,2018-01-01,MB,Gas,Passenger cars,2408
+2018,1,1,2018-01-01,MB,Gas,Pickup trucks,2654
+2018,1,1,2018-01-01,MB,Gas,Vans,755
+2018,1,1,2018-01-01,MB,Diesel,Passenger cars,6
+2018,1,1,2018-01-01,MB,Diesel,Pickup trucks,258
+2018,1,1,2018-01-01,MB,Diesel,Vans,17
+2018,1,1,2018-01-01,MB,Electric,Passenger cars,5
+2018,1,1,2018-01-01,MB,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,MB,Electric,Vans,0
+2018,1,1,2018-01-01,MB,Hybrid,Passenger cars,32
+2018,1,1,2018-01-01,MB,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,MB,Hybrid,Vans,0
+2018,1,1,2018-01-01,MB,Hybrid,Passenger cars,6
+2018,1,1,2018-01-01,MB,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,MB,Hybrid,Vans,0
+2018,1,1,2018-01-01,SAS,Gas,Passenger cars,1702
+2018,1,1,2018-01-01,SAS,Gas,Pickup trucks,3362
+2018,1,1,2018-01-01,SAS,Gas,Vans,597
+2018,1,1,2018-01-01,SAS,Diesel,Passenger cars,9
+2018,1,1,2018-01-01,SAS,Diesel,Pickup trucks,729
+2018,1,1,2018-01-01,SAS,Diesel,Vans,14
+2018,1,1,2018-01-01,SAS,Electric,Passenger cars,1
+2018,1,1,2018-01-01,SAS,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,SAS,Electric,Vans,0
+2018,1,1,2018-01-01,SAS,Hybrid,Passenger cars,20
+2018,1,1,2018-01-01,SAS,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,SAS,Hybrid,Vans,0
+2018,1,1,2018-01-01,SAS,Hybrid,Passenger cars,1
+2018,1,1,2018-01-01,SAS,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,SAS,Hybrid,Vans,3
+2018,1,1,2018-01-01,BC,Gas,Passenger cars,13067
+2018,1,1,2018-01-01,BC,Gas,Pickup trucks,7998
+2018,1,1,2018-01-01,BC,Gas,Vans,2970
+2018,1,1,2018-01-01,BC,Diesel,Passenger cars,53
+2018,1,1,2018-01-01,BC,Diesel,Pickup trucks,2244
+2018,1,1,2018-01-01,BC,Diesel,Vans,268
+2018,1,1,2018-01-01,BC,Electric,Passenger cars,463
+2018,1,1,2018-01-01,BC,Electric,Pickup trucks,0
+2018,1,1,2018-01-01,BC,Electric,Vans,0
+2018,1,1,2018-01-01,BC,Hybrid,Passenger cars,457
+2018,1,1,2018-01-01,BC,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,BC,Hybrid,Vans,0
+2018,1,1,2018-01-01,BC,Hybrid,Passenger cars,409
+2018,1,1,2018-01-01,BC,Hybrid,Pickup trucks,0
+2018,1,1,2018-01-01,BC,Hybrid,Vans,38
+2018,4,1,2018-04-01,CAN,Gas,Passenger cars,171844
+2018,4,1,2018-04-01,CAN,Gas,Pickup trucks,101585
+2018,4,1,2018-04-01,CAN,Gas,Vans,34751
+2018,4,1,2018-04-01,CAN,Diesel,Passenger cars,475
+2018,4,1,2018-04-01,CAN,Diesel,Pickup trucks,17526
+2018,4,1,2018-04-01,CAN,Diesel,Vans,2031
+2018,4,1,2018-04-01,CAN,Electric,Passenger cars,6598
+2018,4,1,2018-04-01,CAN,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,CAN,Electric,Vans,0
+2018,4,1,2018-04-01,CAN,Hybrid,Passenger cars,4277
+2018,4,1,2018-04-01,CAN,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,CAN,Hybrid,Vans,0
+2018,4,1,2018-04-01,CAN,Hybrid,Passenger cars,4977
+2018,4,1,2018-04-01,CAN,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,CAN,Hybrid,Vans,567
+2018,4,1,2018-04-01,PEI,Gas,Passenger cars,834
+2018,4,1,2018-04-01,PEI,Gas,Pickup trucks,537
+2018,4,1,2018-04-01,PEI,Gas,Vans,183
+2018,4,1,2018-04-01,PEI,Diesel,Passenger cars,0
+2018,4,1,2018-04-01,PEI,Diesel,Pickup trucks,53
+2018,4,1,2018-04-01,PEI,Diesel,Vans,2
+2018,4,1,2018-04-01,PEI,Electric,Passenger cars,2
+2018,4,1,2018-04-01,PEI,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,PEI,Electric,Vans,0
+2018,4,1,2018-04-01,PEI,Hybrid,Passenger cars,12
+2018,4,1,2018-04-01,PEI,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,PEI,Hybrid,Vans,0
+2018,4,1,2018-04-01,PEI,Hybrid,Passenger cars,1
+2018,4,1,2018-04-01,PEI,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,PEI,Hybrid,Vans,0
+2018,4,1,2018-04-01,NB,Gas,Passenger cars,3658
+2018,4,1,2018-04-01,NB,Gas,Pickup trucks,2965
+2018,4,1,2018-04-01,NB,Gas,Vans,514
+2018,4,1,2018-04-01,NB,Diesel,Passenger cars,2
+2018,4,1,2018-04-01,NB,Diesel,Pickup trucks,250
+2018,4,1,2018-04-01,NB,Diesel,Vans,16
+2018,4,1,2018-04-01,NB,Electric,Passenger cars,2
+2018,4,1,2018-04-01,NB,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,NB,Electric,Vans,0
+2018,4,1,2018-04-01,NB,Hybrid,Passenger cars,57
+2018,4,1,2018-04-01,NB,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,NB,Hybrid,Vans,0
+2018,4,1,2018-04-01,NB,Hybrid,Passenger cars,7
+2018,4,1,2018-04-01,NB,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,NB,Hybrid,Vans,1
+2018,4,1,2018-04-01,QUE,Gas,Passenger cars,50332
+2018,4,1,2018-04-01,QUE,Gas,Pickup trucks,17511
+2018,4,1,2018-04-01,QUE,Gas,Vans,7909
+2018,4,1,2018-04-01,QUE,Diesel,Passenger cars,106
+2018,4,1,2018-04-01,QUE,Diesel,Pickup trucks,2995
+2018,4,1,2018-04-01,QUE,Diesel,Vans,561
+2018,4,1,2018-04-01,QUE,Electric,Passenger cars,1934
+2018,4,1,2018-04-01,QUE,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,QUE,Electric,Vans,0
+2018,4,1,2018-04-01,QUE,Hybrid,Passenger cars,1276
+2018,4,1,2018-04-01,QUE,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,QUE,Hybrid,Vans,0
+2018,4,1,2018-04-01,QUE,Hybrid,Passenger cars,2111
+2018,4,1,2018-04-01,QUE,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,QUE,Hybrid,Vans,83
+2018,4,1,2018-04-01,ON,Gas,Passenger cars,70260
+2018,4,1,2018-04-01,ON,Gas,Pickup trucks,36501
+2018,4,1,2018-04-01,ON,Gas,Vans,14988
+2018,4,1,2018-04-01,ON,Diesel,Passenger cars,211
+2018,4,1,2018-04-01,ON,Diesel,Pickup trucks,4654
+2018,4,1,2018-04-01,ON,Diesel,Vans,723
+2018,4,1,2018-04-01,ON,Electric,Passenger cars,3303
+2018,4,1,2018-04-01,ON,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,ON,Electric,Vans,0
+2018,4,1,2018-04-01,ON,Hybrid,Passenger cars,1464
+2018,4,1,2018-04-01,ON,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,ON,Hybrid,Vans,0
+2018,4,1,2018-04-01,ON,Hybrid,Passenger cars,2216
+2018,4,1,2018-04-01,ON,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,ON,Hybrid,Vans,408
+2018,4,1,2018-04-01,MB,Gas,Passenger cars,3550
+2018,4,1,2018-04-01,MB,Gas,Pickup trucks,3473
+2018,4,1,2018-04-01,MB,Gas,Vans,993
+2018,4,1,2018-04-01,MB,Diesel,Passenger cars,7
+2018,4,1,2018-04-01,MB,Diesel,Pickup trucks,352
+2018,4,1,2018-04-01,MB,Diesel,Vans,35
+2018,4,1,2018-04-01,MB,Electric,Passenger cars,13
+2018,4,1,2018-04-01,MB,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,MB,Electric,Vans,0
+2018,4,1,2018-04-01,MB,Hybrid,Passenger cars,52
+2018,4,1,2018-04-01,MB,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,MB,Hybrid,Vans,0
+2018,4,1,2018-04-01,MB,Hybrid,Passenger cars,7
+2018,4,1,2018-04-01,MB,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,MB,Hybrid,Vans,3
+2018,4,1,2018-04-01,SAS,Gas,Passenger cars,2343
+2018,4,1,2018-04-01,SAS,Gas,Pickup trucks,4651
+2018,4,1,2018-04-01,SAS,Gas,Vans,638
+2018,4,1,2018-04-01,SAS,Diesel,Passenger cars,7
+2018,4,1,2018-04-01,SAS,Diesel,Pickup trucks,963
+2018,4,1,2018-04-01,SAS,Diesel,Vans,28
+2018,4,1,2018-04-01,SAS,Electric,Passenger cars,10
+2018,4,1,2018-04-01,SAS,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,SAS,Electric,Vans,0
+2018,4,1,2018-04-01,SAS,Hybrid,Passenger cars,38
+2018,4,1,2018-04-01,SAS,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,SAS,Hybrid,Vans,0
+2018,4,1,2018-04-01,SAS,Hybrid,Passenger cars,8
+2018,4,1,2018-04-01,SAS,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,SAS,Hybrid,Vans,1
+2018,4,1,2018-04-01,BC,Gas,Passenger cars,18587
+2018,4,1,2018-04-01,BC,Gas,Pickup trucks,10790
+2018,4,1,2018-04-01,BC,Gas,Vans,3667
+2018,4,1,2018-04-01,BC,Diesel,Passenger cars,94
+2018,4,1,2018-04-01,BC,Diesel,Pickup trucks,3225
+2018,4,1,2018-04-01,BC,Diesel,Vans,426
+2018,4,1,2018-04-01,BC,Electric,Passenger cars,1241
+2018,4,1,2018-04-01,BC,Electric,Pickup trucks,0
+2018,4,1,2018-04-01,BC,Electric,Vans,0
+2018,4,1,2018-04-01,BC,Hybrid,Passenger cars,881
+2018,4,1,2018-04-01,BC,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,BC,Hybrid,Vans,0
+2018,4,1,2018-04-01,BC,Hybrid,Passenger cars,564
+2018,4,1,2018-04-01,BC,Hybrid,Pickup trucks,0
+2018,4,1,2018-04-01,BC,Hybrid,Vans,56
+2018,7,1,2018-07-01,CAN,Gas,Passenger cars,143017
+2018,7,1,2018-07-01,CAN,Gas,Pickup trucks,92383
+2018,7,1,2018-07-01,CAN,Gas,Vans,28415
+2018,7,1,2018-07-01,CAN,Diesel,Passenger cars,487
+2018,7,1,2018-07-01,CAN,Diesel,Pickup trucks,15374
+2018,7,1,2018-07-01,CAN,Diesel,Vans,1723
+2018,7,1,2018-07-01,CAN,Electric,Passenger cars,5701
+2018,7,1,2018-07-01,CAN,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,CAN,Electric,Vans,0
+2018,7,1,2018-07-01,CAN,Hybrid,Passenger cars,3352
+2018,7,1,2018-07-01,CAN,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,CAN,Hybrid,Vans,0
+2018,7,1,2018-07-01,CAN,Hybrid,Passenger cars,3560
+2018,7,1,2018-07-01,CAN,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,CAN,Hybrid,Vans,349
+2018,7,1,2018-07-01,PEI,Gas,Passenger cars,778
+2018,7,1,2018-07-01,PEI,Gas,Pickup trucks,471
+2018,7,1,2018-07-01,PEI,Gas,Vans,94
+2018,7,1,2018-07-01,PEI,Diesel,Passenger cars,0
+2018,7,1,2018-07-01,PEI,Diesel,Pickup trucks,31
+2018,7,1,2018-07-01,PEI,Diesel,Vans,3
+2018,7,1,2018-07-01,PEI,Electric,Passenger cars,4
+2018,7,1,2018-07-01,PEI,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,PEI,Electric,Vans,0
+2018,7,1,2018-07-01,PEI,Hybrid,Passenger cars,8
+2018,7,1,2018-07-01,PEI,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,PEI,Hybrid,Vans,0
+2018,7,1,2018-07-01,PEI,Hybrid,Passenger cars,1
+2018,7,1,2018-07-01,PEI,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,PEI,Hybrid,Vans,0
+2018,7,1,2018-07-01,NB,Gas,Passenger cars,3187
+2018,7,1,2018-07-01,NB,Gas,Pickup trucks,2577
+2018,7,1,2018-07-01,NB,Gas,Vans,418
+2018,7,1,2018-07-01,NB,Diesel,Passenger cars,5
+2018,7,1,2018-07-01,NB,Diesel,Pickup trucks,233
+2018,7,1,2018-07-01,NB,Diesel,Vans,25
+2018,7,1,2018-07-01,NB,Electric,Passenger cars,4
+2018,7,1,2018-07-01,NB,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,NB,Electric,Vans,0
+2018,7,1,2018-07-01,NB,Hybrid,Passenger cars,32
+2018,7,1,2018-07-01,NB,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,NB,Hybrid,Vans,0
+2018,7,1,2018-07-01,NB,Hybrid,Passenger cars,4
+2018,7,1,2018-07-01,NB,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,NB,Hybrid,Vans,0
+2018,7,1,2018-07-01,QUE,Gas,Passenger cars,41865
+2018,7,1,2018-07-01,QUE,Gas,Pickup trucks,15539
+2018,7,1,2018-07-01,QUE,Gas,Vans,5409
+2018,7,1,2018-07-01,QUE,Diesel,Passenger cars,83
+2018,7,1,2018-07-01,QUE,Diesel,Pickup trucks,2451
+2018,7,1,2018-07-01,QUE,Diesel,Vans,430
+2018,7,1,2018-07-01,QUE,Electric,Passenger cars,1921
+2018,7,1,2018-07-01,QUE,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,QUE,Electric,Vans,0
+2018,7,1,2018-07-01,QUE,Hybrid,Passenger cars,844
+2018,7,1,2018-07-01,QUE,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,QUE,Hybrid,Vans,0
+2018,7,1,2018-07-01,QUE,Hybrid,Passenger cars,1367
+2018,7,1,2018-07-01,QUE,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,QUE,Hybrid,Vans,77
+2018,7,1,2018-07-01,ON,Gas,Passenger cars,60286
+2018,7,1,2018-07-01,ON,Gas,Pickup trucks,32820
+2018,7,1,2018-07-01,ON,Gas,Vans,13525
+2018,7,1,2018-07-01,ON,Diesel,Passenger cars,234
+2018,7,1,2018-07-01,ON,Diesel,Pickup trucks,4053
+2018,7,1,2018-07-01,ON,Diesel,Vans,689
+2018,7,1,2018-07-01,ON,Electric,Passenger cars,2212
+2018,7,1,2018-07-01,ON,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,ON,Electric,Vans,0
+2018,7,1,2018-07-01,ON,Hybrid,Passenger cars,1342
+2018,7,1,2018-07-01,ON,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,ON,Hybrid,Vans,0
+2018,7,1,2018-07-01,ON,Hybrid,Passenger cars,1679
+2018,7,1,2018-07-01,ON,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,ON,Hybrid,Vans,213
+2018,7,1,2018-07-01,MB,Gas,Passenger cars,3301
+2018,7,1,2018-07-01,MB,Gas,Pickup trucks,3466
+2018,7,1,2018-07-01,MB,Gas,Vans,738
+2018,7,1,2018-07-01,MB,Diesel,Passenger cars,8
+2018,7,1,2018-07-01,MB,Diesel,Pickup trucks,338
+2018,7,1,2018-07-01,MB,Diesel,Vans,26
+2018,7,1,2018-07-01,MB,Electric,Passenger cars,16
+2018,7,1,2018-07-01,MB,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,MB,Electric,Vans,0
+2018,7,1,2018-07-01,MB,Hybrid,Passenger cars,65
+2018,7,1,2018-07-01,MB,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,MB,Hybrid,Vans,0
+2018,7,1,2018-07-01,MB,Hybrid,Passenger cars,8
+2018,7,1,2018-07-01,MB,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,MB,Hybrid,Vans,0
+2018,7,1,2018-07-01,SAS,Gas,Passenger cars,1926
+2018,7,1,2018-07-01,SAS,Gas,Pickup trucks,4247
+2018,7,1,2018-07-01,SAS,Gas,Vans,616
+2018,7,1,2018-07-01,SAS,Diesel,Passenger cars,12
+2018,7,1,2018-07-01,SAS,Diesel,Pickup trucks,879
+2018,7,1,2018-07-01,SAS,Diesel,Vans,18
+2018,7,1,2018-07-01,SAS,Electric,Passenger cars,10
+2018,7,1,2018-07-01,SAS,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,SAS,Electric,Vans,0
+2018,7,1,2018-07-01,SAS,Hybrid,Passenger cars,25
+2018,7,1,2018-07-01,SAS,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,SAS,Hybrid,Vans,0
+2018,7,1,2018-07-01,SAS,Hybrid,Passenger cars,3
+2018,7,1,2018-07-01,SAS,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,SAS,Hybrid,Vans,2
+2018,7,1,2018-07-01,BC,Gas,Passenger cars,14102
+2018,7,1,2018-07-01,BC,Gas,Pickup trucks,10315
+2018,7,1,2018-07-01,BC,Gas,Vans,3361
+2018,7,1,2018-07-01,BC,Diesel,Passenger cars,97
+2018,7,1,2018-07-01,BC,Diesel,Pickup trucks,2614
+2018,7,1,2018-07-01,BC,Diesel,Vans,331
+2018,7,1,2018-07-01,BC,Electric,Passenger cars,1318
+2018,7,1,2018-07-01,BC,Electric,Pickup trucks,0
+2018,7,1,2018-07-01,BC,Electric,Vans,0
+2018,7,1,2018-07-01,BC,Hybrid,Passenger cars,675
+2018,7,1,2018-07-01,BC,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,BC,Hybrid,Vans,0
+2018,7,1,2018-07-01,BC,Hybrid,Passenger cars,450
+2018,7,1,2018-07-01,BC,Hybrid,Pickup trucks,0
+2018,7,1,2018-07-01,BC,Hybrid,Vans,51
+2018,10,1,2018-10-01,CAN,Gas,Passenger cars,105034
+2018,10,1,2018-10-01,CAN,Gas,Pickup trucks,69682
+2018,10,1,2018-10-01,CAN,Gas,Vans,20418
+2018,10,1,2018-10-01,CAN,Diesel,Passenger cars,307
+2018,10,1,2018-10-01,CAN,Diesel,Pickup trucks,11971
+2018,10,1,2018-10-01,CAN,Diesel,Vans,1290
+2018,10,1,2018-10-01,CAN,Electric,Passenger cars,5511
+2018,10,1,2018-10-01,CAN,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,CAN,Electric,Vans,0
+2018,10,1,2018-10-01,CAN,Hybrid,Passenger cars,3081
+2018,10,1,2018-10-01,CAN,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,CAN,Hybrid,Vans,0
+2018,10,1,2018-10-01,CAN,Hybrid,Passenger cars,2467
+2018,10,1,2018-10-01,CAN,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,CAN,Hybrid,Vans,171
+2018,10,1,2018-10-01,PEI,Gas,Passenger cars,317
+2018,10,1,2018-10-01,PEI,Gas,Pickup trucks,266
+2018,10,1,2018-10-01,PEI,Gas,Vans,54
+2018,10,1,2018-10-01,PEI,Diesel,Passenger cars,0
+2018,10,1,2018-10-01,PEI,Diesel,Pickup trucks,25
+2018,10,1,2018-10-01,PEI,Diesel,Vans,2
+2018,10,1,2018-10-01,PEI,Electric,Passenger cars,1
+2018,10,1,2018-10-01,PEI,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,PEI,Electric,Vans,0
+2018,10,1,2018-10-01,PEI,Hybrid,Passenger cars,5
+2018,10,1,2018-10-01,PEI,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,PEI,Hybrid,Vans,0
+2018,10,1,2018-10-01,PEI,Hybrid,Passenger cars,0
+2018,10,1,2018-10-01,PEI,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,PEI,Hybrid,Vans,0
+2018,10,1,2018-10-01,NB,Gas,Passenger cars,1987
+2018,10,1,2018-10-01,NB,Gas,Pickup trucks,1889
+2018,10,1,2018-10-01,NB,Gas,Vans,250
+2018,10,1,2018-10-01,NB,Diesel,Passenger cars,0
+2018,10,1,2018-10-01,NB,Diesel,Pickup trucks,177
+2018,10,1,2018-10-01,NB,Diesel,Vans,16
+2018,10,1,2018-10-01,NB,Electric,Passenger cars,11
+2018,10,1,2018-10-01,NB,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,NB,Electric,Vans,0
+2018,10,1,2018-10-01,NB,Hybrid,Passenger cars,41
+2018,10,1,2018-10-01,NB,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,NB,Hybrid,Vans,0
+2018,10,1,2018-10-01,NB,Hybrid,Passenger cars,3
+2018,10,1,2018-10-01,NB,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,NB,Hybrid,Vans,0
+2018,10,1,2018-10-01,QUE,Gas,Passenger cars,31145
+2018,10,1,2018-10-01,QUE,Gas,Pickup trucks,11766
+2018,10,1,2018-10-01,QUE,Gas,Vans,4135
+2018,10,1,2018-10-01,QUE,Diesel,Passenger cars,81
+2018,10,1,2018-10-01,QUE,Diesel,Pickup trucks,1848
+2018,10,1,2018-10-01,QUE,Diesel,Vans,292
+2018,10,1,2018-10-01,QUE,Electric,Passenger cars,3162
+2018,10,1,2018-10-01,QUE,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,QUE,Electric,Vans,0
+2018,10,1,2018-10-01,QUE,Hybrid,Passenger cars,840
+2018,10,1,2018-10-01,QUE,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,QUE,Hybrid,Vans,0
+2018,10,1,2018-10-01,QUE,Hybrid,Passenger cars,1640
+2018,10,1,2018-10-01,QUE,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,QUE,Hybrid,Vans,78
+2018,10,1,2018-10-01,ON,Gas,Passenger cars,46755
+2018,10,1,2018-10-01,ON,Gas,Pickup trucks,25673
+2018,10,1,2018-10-01,ON,Gas,Vans,9986
+2018,10,1,2018-10-01,ON,Diesel,Passenger cars,130
+2018,10,1,2018-10-01,ON,Diesel,Pickup trucks,3632
+2018,10,1,2018-10-01,ON,Diesel,Vans,573
+2018,10,1,2018-10-01,ON,Electric,Passenger cars,1042
+2018,10,1,2018-10-01,ON,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,ON,Electric,Vans,0
+2018,10,1,2018-10-01,ON,Hybrid,Passenger cars,1176
+2018,10,1,2018-10-01,ON,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,ON,Hybrid,Vans,0
+2018,10,1,2018-10-01,ON,Hybrid,Passenger cars,370
+2018,10,1,2018-10-01,ON,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,ON,Hybrid,Vans,45
+2018,10,1,2018-10-01,MB,Gas,Passenger cars,2259
+2018,10,1,2018-10-01,MB,Gas,Pickup trucks,2857
+2018,10,1,2018-10-01,MB,Gas,Vans,610
+2018,10,1,2018-10-01,MB,Diesel,Passenger cars,7
+2018,10,1,2018-10-01,MB,Diesel,Pickup trucks,286
+2018,10,1,2018-10-01,MB,Diesel,Vans,23
+2018,10,1,2018-10-01,MB,Electric,Passenger cars,29
+2018,10,1,2018-10-01,MB,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,MB,Electric,Vans,0
+2018,10,1,2018-10-01,MB,Hybrid,Passenger cars,37
+2018,10,1,2018-10-01,MB,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,MB,Hybrid,Vans,0
+2018,10,1,2018-10-01,MB,Hybrid,Passenger cars,10
+2018,10,1,2018-10-01,MB,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,MB,Hybrid,Vans,1
+2018,10,1,2018-10-01,SAS,Gas,Passenger cars,1396
+2018,10,1,2018-10-01,SAS,Gas,Pickup trucks,3529
+2018,10,1,2018-10-01,SAS,Gas,Vans,472
+2018,10,1,2018-10-01,SAS,Diesel,Passenger cars,15
+2018,10,1,2018-10-01,SAS,Diesel,Pickup trucks,724
+2018,10,1,2018-10-01,SAS,Diesel,Vans,20
+2018,10,1,2018-10-01,SAS,Electric,Passenger cars,16
+2018,10,1,2018-10-01,SAS,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,SAS,Electric,Vans,0
+2018,10,1,2018-10-01,SAS,Hybrid,Passenger cars,20
+2018,10,1,2018-10-01,SAS,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,SAS,Hybrid,Vans,0
+2018,10,1,2018-10-01,SAS,Hybrid,Passenger cars,5
+2018,10,1,2018-10-01,SAS,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,SAS,Hybrid,Vans,0
+2018,10,1,2018-10-01,BC,Gas,Passenger cars,10137
+2018,10,1,2018-10-01,BC,Gas,Pickup trucks,8143
+2018,10,1,2018-10-01,BC,Gas,Vans,2479
+2018,10,1,2018-10-01,BC,Diesel,Passenger cars,51
+2018,10,1,2018-10-01,BC,Diesel,Pickup trucks,2038
+2018,10,1,2018-10-01,BC,Diesel,Vans,258
+2018,10,1,2018-10-01,BC,Electric,Passenger cars,1133
+2018,10,1,2018-10-01,BC,Electric,Pickup trucks,0
+2018,10,1,2018-10-01,BC,Electric,Vans,0
+2018,10,1,2018-10-01,BC,Hybrid,Passenger cars,601
+2018,10,1,2018-10-01,BC,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,BC,Hybrid,Vans,0
+2018,10,1,2018-10-01,BC,Hybrid,Passenger cars,398
+2018,10,1,2018-10-01,BC,Hybrid,Pickup trucks,0
+2018,10,1,2018-10-01,BC,Hybrid,Vans,37
+2019,1,1,2019-01-01,CAN,Gas,Passenger cars,94110
+2019,1,1,2019-01-01,CAN,Gas,Pickup trucks,69687
+2019,1,1,2019-01-01,CAN,Gas,Vans,23283
+2019,1,1,2019-01-01,CAN,Diesel,Passenger cars,164
+2019,1,1,2019-01-01,CAN,Diesel,Pickup trucks,11077
+2019,1,1,2019-01-01,CAN,Diesel,Vans,1152
+2019,1,1,2019-01-01,CAN,Electric,Passenger cars,3521
+2019,1,1,2019-01-01,CAN,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,CAN,Electric,Vans,0
+2019,1,1,2019-01-01,CAN,Hybrid,Passenger cars,4468
+2019,1,1,2019-01-01,CAN,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,CAN,Hybrid,Vans,0
+2019,1,1,2019-01-01,CAN,Hybrid,Passenger cars,1955
+2019,1,1,2019-01-01,CAN,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,CAN,Hybrid,Vans,153
+2019,1,1,2019-01-01,PEI,Gas,Passenger cars,282
+2019,1,1,2019-01-01,PEI,Gas,Pickup trucks,272
+2019,1,1,2019-01-01,PEI,Gas,Vans,52
+2019,1,1,2019-01-01,PEI,Diesel,Passenger cars,0
+2019,1,1,2019-01-01,PEI,Diesel,Pickup trucks,17
+2019,1,1,2019-01-01,PEI,Diesel,Vans,1
+2019,1,1,2019-01-01,PEI,Electric,Passenger cars,3
+2019,1,1,2019-01-01,PEI,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,PEI,Electric,Vans,0
+2019,1,1,2019-01-01,PEI,Hybrid,Passenger cars,32
+2019,1,1,2019-01-01,PEI,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,PEI,Hybrid,Vans,0
+2019,1,1,2019-01-01,PEI,Hybrid,Passenger cars,1
+2019,1,1,2019-01-01,PEI,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,PEI,Hybrid,Vans,0
+2019,1,1,2019-01-01,NB,Gas,Passenger cars,1641
+2019,1,1,2019-01-01,NB,Gas,Pickup trucks,1787
+2019,1,1,2019-01-01,NB,Gas,Vans,298
+2019,1,1,2019-01-01,NB,Diesel,Passenger cars,1
+2019,1,1,2019-01-01,NB,Diesel,Pickup trucks,147
+2019,1,1,2019-01-01,NB,Diesel,Vans,8
+2019,1,1,2019-01-01,NB,Electric,Passenger cars,4
+2019,1,1,2019-01-01,NB,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,NB,Electric,Vans,0
+2019,1,1,2019-01-01,NB,Hybrid,Passenger cars,20
+2019,1,1,2019-01-01,NB,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,NB,Hybrid,Vans,0
+2019,1,1,2019-01-01,NB,Hybrid,Passenger cars,3
+2019,1,1,2019-01-01,NB,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,NB,Hybrid,Vans,0
+2019,1,1,2019-01-01,QUE,Gas,Passenger cars,23466
+2019,1,1,2019-01-01,QUE,Gas,Pickup trucks,10975
+2019,1,1,2019-01-01,QUE,Gas,Vans,4554
+2019,1,1,2019-01-01,QUE,Diesel,Passenger cars,33
+2019,1,1,2019-01-01,QUE,Diesel,Pickup trucks,1591
+2019,1,1,2019-01-01,QUE,Diesel,Vans,227
+2019,1,1,2019-01-01,QUE,Electric,Passenger cars,1368
+2019,1,1,2019-01-01,QUE,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,QUE,Electric,Vans,0
+2019,1,1,2019-01-01,QUE,Hybrid,Passenger cars,841
+2019,1,1,2019-01-01,QUE,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,QUE,Hybrid,Vans,0
+2019,1,1,2019-01-01,QUE,Hybrid,Passenger cars,1126
+2019,1,1,2019-01-01,QUE,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,QUE,Hybrid,Vans,63
+2019,1,1,2019-01-01,ON,Gas,Passenger cars,41608
+2019,1,1,2019-01-01,ON,Gas,Pickup trucks,25349
+2019,1,1,2019-01-01,ON,Gas,Vans,11645
+2019,1,1,2019-01-01,ON,Diesel,Passenger cars,69
+2019,1,1,2019-01-01,ON,Diesel,Pickup trucks,3111
+2019,1,1,2019-01-01,ON,Diesel,Vans,584
+2019,1,1,2019-01-01,ON,Electric,Passenger cars,564
+2019,1,1,2019-01-01,ON,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,ON,Electric,Vans,0
+2019,1,1,2019-01-01,ON,Hybrid,Passenger cars,1907
+2019,1,1,2019-01-01,ON,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,ON,Hybrid,Vans,0
+2019,1,1,2019-01-01,ON,Hybrid,Passenger cars,280
+2019,1,1,2019-01-01,ON,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,ON,Hybrid,Vans,24
+2019,1,1,2019-01-01,MB,Gas,Passenger cars,2202
+2019,1,1,2019-01-01,MB,Gas,Pickup trucks,2705
+2019,1,1,2019-01-01,MB,Gas,Vans,527
+2019,1,1,2019-01-01,MB,Diesel,Passenger cars,1
+2019,1,1,2019-01-01,MB,Diesel,Pickup trucks,216
+2019,1,1,2019-01-01,MB,Diesel,Vans,14
+2019,1,1,2019-01-01,MB,Electric,Passenger cars,8
+2019,1,1,2019-01-01,MB,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,MB,Electric,Vans,0
+2019,1,1,2019-01-01,MB,Hybrid,Passenger cars,64
+2019,1,1,2019-01-01,MB,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,MB,Hybrid,Vans,0
+2019,1,1,2019-01-01,MB,Hybrid,Passenger cars,8
+2019,1,1,2019-01-01,MB,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,MB,Hybrid,Vans,4
+2019,1,1,2019-01-01,SAS,Gas,Passenger cars,1458
+2019,1,1,2019-01-01,SAS,Gas,Pickup trucks,3476
+2019,1,1,2019-01-01,SAS,Gas,Vans,538
+2019,1,1,2019-01-01,SAS,Diesel,Passenger cars,7
+2019,1,1,2019-01-01,SAS,Diesel,Pickup trucks,637
+2019,1,1,2019-01-01,SAS,Diesel,Vans,12
+2019,1,1,2019-01-01,SAS,Electric,Passenger cars,8
+2019,1,1,2019-01-01,SAS,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,SAS,Electric,Vans,0
+2019,1,1,2019-01-01,SAS,Hybrid,Passenger cars,71
+2019,1,1,2019-01-01,SAS,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,SAS,Hybrid,Vans,0
+2019,1,1,2019-01-01,SAS,Hybrid,Passenger cars,7
+2019,1,1,2019-01-01,SAS,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,SAS,Hybrid,Vans,3
+2019,1,1,2019-01-01,BC,Gas,Passenger cars,11023
+2019,1,1,2019-01-01,BC,Gas,Pickup trucks,7584
+2019,1,1,2019-01-01,BC,Gas,Vans,2375
+2019,1,1,2019-01-01,BC,Diesel,Passenger cars,33
+2019,1,1,2019-01-01,BC,Diesel,Pickup trucks,1904
+2019,1,1,2019-01-01,BC,Diesel,Vans,225
+2019,1,1,2019-01-01,BC,Electric,Passenger cars,1436
+2019,1,1,2019-01-01,BC,Electric,Pickup trucks,0
+2019,1,1,2019-01-01,BC,Electric,Vans,0
+2019,1,1,2019-01-01,BC,Hybrid,Passenger cars,887
+2019,1,1,2019-01-01,BC,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,BC,Hybrid,Vans,0
+2019,1,1,2019-01-01,BC,Hybrid,Passenger cars,473
+2019,1,1,2019-01-01,BC,Hybrid,Pickup trucks,0
+2019,1,1,2019-01-01,BC,Hybrid,Vans,53
+2019,4,1,2019-04-01,CAN,Gas,Passenger cars,142309
+2019,4,1,2019-04-01,CAN,Gas,Pickup trucks,102656
+2019,4,1,2019-04-01,CAN,Gas,Vans,30705
+2019,4,1,2019-04-01,CAN,Diesel,Passenger cars,122
+2019,4,1,2019-04-01,CAN,Diesel,Pickup trucks,13489
+2019,4,1,2019-04-01,CAN,Diesel,Vans,1727
+2019,4,1,2019-04-01,CAN,Electric,Passenger cars,10399
+2019,4,1,2019-04-01,CAN,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,CAN,Electric,Vans,0
+2019,4,1,2019-04-01,CAN,Hybrid,Passenger cars,5975
+2019,4,1,2019-04-01,CAN,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,CAN,Hybrid,Vans,0
+2019,4,1,2019-04-01,CAN,Hybrid,Passenger cars,4597
+2019,4,1,2019-04-01,CAN,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,CAN,Hybrid,Vans,312
+2019,4,1,2019-04-01,PEI,Gas,Passenger cars,684
+2019,4,1,2019-04-01,PEI,Gas,Pickup trucks,542
+2019,4,1,2019-04-01,PEI,Gas,Vans,71
+2019,4,1,2019-04-01,PEI,Diesel,Passenger cars,0
+2019,4,1,2019-04-01,PEI,Diesel,Pickup trucks,52
+2019,4,1,2019-04-01,PEI,Diesel,Vans,1
+2019,4,1,2019-04-01,PEI,Electric,Passenger cars,6
+2019,4,1,2019-04-01,PEI,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,PEI,Electric,Vans,0
+2019,4,1,2019-04-01,PEI,Hybrid,Passenger cars,30
+2019,4,1,2019-04-01,PEI,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,PEI,Hybrid,Vans,0
+2019,4,1,2019-04-01,PEI,Hybrid,Passenger cars,1
+2019,4,1,2019-04-01,PEI,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,PEI,Hybrid,Vans,0
+2019,4,1,2019-04-01,NB,Gas,Passenger cars,3383
+2019,4,1,2019-04-01,NB,Gas,Pickup trucks,3182
+2019,4,1,2019-04-01,NB,Gas,Vans,542
+2019,4,1,2019-04-01,NB,Diesel,Passenger cars,3
+2019,4,1,2019-04-01,NB,Diesel,Pickup trucks,290
+2019,4,1,2019-04-01,NB,Diesel,Vans,17
+2019,4,1,2019-04-01,NB,Electric,Passenger cars,21
+2019,4,1,2019-04-01,NB,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,NB,Electric,Vans,0
+2019,4,1,2019-04-01,NB,Hybrid,Passenger cars,88
+2019,4,1,2019-04-01,NB,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,NB,Hybrid,Vans,0
+2019,4,1,2019-04-01,NB,Hybrid,Passenger cars,15
+2019,4,1,2019-04-01,NB,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,NB,Hybrid,Vans,0
+2019,4,1,2019-04-01,QUE,Gas,Passenger cars,42968
+2019,4,1,2019-04-01,QUE,Gas,Pickup trucks,18897
+2019,4,1,2019-04-01,QUE,Gas,Vans,7079
+2019,4,1,2019-04-01,QUE,Diesel,Passenger cars,30
+2019,4,1,2019-04-01,QUE,Diesel,Pickup trucks,2421
+2019,4,1,2019-04-01,QUE,Diesel,Vans,444
+2019,4,1,2019-04-01,QUE,Electric,Passenger cars,4231
+2019,4,1,2019-04-01,QUE,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,QUE,Electric,Vans,0
+2019,4,1,2019-04-01,QUE,Hybrid,Passenger cars,1258
+2019,4,1,2019-04-01,QUE,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,QUE,Hybrid,Vans,0
+2019,4,1,2019-04-01,QUE,Hybrid,Passenger cars,3011
+2019,4,1,2019-04-01,QUE,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,QUE,Hybrid,Vans,132
+2019,4,1,2019-04-01,ON,Gas,Passenger cars,58543
+2019,4,1,2019-04-01,ON,Gas,Pickup trucks,37442
+2019,4,1,2019-04-01,ON,Gas,Vans,13129
+2019,4,1,2019-04-01,ON,Diesel,Passenger cars,39
+2019,4,1,2019-04-01,ON,Diesel,Pickup trucks,3194
+2019,4,1,2019-04-01,ON,Diesel,Vans,738
+2019,4,1,2019-04-01,ON,Electric,Passenger cars,1658
+2019,4,1,2019-04-01,ON,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,ON,Electric,Vans,0
+2019,4,1,2019-04-01,ON,Hybrid,Passenger cars,1862
+2019,4,1,2019-04-01,ON,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,ON,Hybrid,Vans,0
+2019,4,1,2019-04-01,ON,Hybrid,Passenger cars,498
+2019,4,1,2019-04-01,ON,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,ON,Hybrid,Vans,37
+2019,4,1,2019-04-01,MB,Gas,Passenger cars,2851
+2019,4,1,2019-04-01,MB,Gas,Pickup trucks,3438
+2019,4,1,2019-04-01,MB,Gas,Vans,838
+2019,4,1,2019-04-01,MB,Diesel,Passenger cars,9
+2019,4,1,2019-04-01,MB,Diesel,Pickup trucks,322
+2019,4,1,2019-04-01,MB,Diesel,Vans,25
+2019,4,1,2019-04-01,MB,Electric,Passenger cars,40
+2019,4,1,2019-04-01,MB,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,MB,Electric,Vans,0
+2019,4,1,2019-04-01,MB,Hybrid,Passenger cars,81
+2019,4,1,2019-04-01,MB,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,MB,Hybrid,Vans,0
+2019,4,1,2019-04-01,MB,Hybrid,Passenger cars,19
+2019,4,1,2019-04-01,MB,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,MB,Hybrid,Vans,3
+2019,4,1,2019-04-01,SAS,Gas,Passenger cars,1915
+2019,4,1,2019-04-01,SAS,Gas,Pickup trucks,4612
+2019,4,1,2019-04-01,SAS,Gas,Vans,708
+2019,4,1,2019-04-01,SAS,Diesel,Passenger cars,10
+2019,4,1,2019-04-01,SAS,Diesel,Pickup trucks,714
+2019,4,1,2019-04-01,SAS,Diesel,Vans,14
+2019,4,1,2019-04-01,SAS,Electric,Passenger cars,27
+2019,4,1,2019-04-01,SAS,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,SAS,Electric,Vans,0
+2019,4,1,2019-04-01,SAS,Hybrid,Passenger cars,52
+2019,4,1,2019-04-01,SAS,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,SAS,Hybrid,Vans,0
+2019,4,1,2019-04-01,SAS,Hybrid,Passenger cars,8
+2019,4,1,2019-04-01,SAS,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,SAS,Hybrid,Vans,1
+2019,4,1,2019-04-01,BC,Gas,Passenger cars,13912
+2019,4,1,2019-04-01,BC,Gas,Pickup trucks,10188
+2019,4,1,2019-04-01,BC,Gas,Vans,3442
+2019,4,1,2019-04-01,BC,Diesel,Passenger cars,15
+2019,4,1,2019-04-01,BC,Diesel,Pickup trucks,2646
+2019,4,1,2019-04-01,BC,Diesel,Vans,328
+2019,4,1,2019-04-01,BC,Electric,Passenger cars,4159
+2019,4,1,2019-04-01,BC,Electric,Pickup trucks,0
+2019,4,1,2019-04-01,BC,Electric,Vans,0
+2019,4,1,2019-04-01,BC,Hybrid,Passenger cars,1563
+2019,4,1,2019-04-01,BC,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,BC,Hybrid,Vans,0
+2019,4,1,2019-04-01,BC,Hybrid,Passenger cars,942
+2019,4,1,2019-04-01,BC,Hybrid,Pickup trucks,0
+2019,4,1,2019-04-01,BC,Hybrid,Vans,126
+2019,7,1,2019-07-01,CAN,Gas,Passenger cars,117561
+2019,7,1,2019-07-01,CAN,Gas,Pickup trucks,99769
+2019,7,1,2019-07-01,CAN,Gas,Vans,26292
+2019,7,1,2019-07-01,CAN,Diesel,Passenger cars,83
+2019,7,1,2019-07-01,CAN,Diesel,Pickup trucks,14584
+2019,7,1,2019-07-01,CAN,Diesel,Vans,1523
+2019,7,1,2019-07-01,CAN,Electric,Passenger cars,8260
+2019,7,1,2019-07-01,CAN,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,CAN,Electric,Vans,0
+2019,7,1,2019-07-01,CAN,Hybrid,Passenger cars,5083
+2019,7,1,2019-07-01,CAN,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,CAN,Hybrid,Vans,0
+2019,7,1,2019-07-01,CAN,Hybrid,Passenger cars,4181
+2019,7,1,2019-07-01,CAN,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,CAN,Hybrid,Vans,98
+2019,7,1,2019-07-01,PEI,Gas,Passenger cars,560
+2019,7,1,2019-07-01,PEI,Gas,Pickup trucks,478
+2019,7,1,2019-07-01,PEI,Gas,Vans,81
+2019,7,1,2019-07-01,PEI,Diesel,Passenger cars,0
+2019,7,1,2019-07-01,PEI,Diesel,Pickup trucks,32
+2019,7,1,2019-07-01,PEI,Diesel,Vans,2
+2019,7,1,2019-07-01,PEI,Electric,Passenger cars,12
+2019,7,1,2019-07-01,PEI,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,PEI,Electric,Vans,0
+2019,7,1,2019-07-01,PEI,Hybrid,Passenger cars,14
+2019,7,1,2019-07-01,PEI,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,PEI,Hybrid,Vans,0
+2019,7,1,2019-07-01,PEI,Hybrid,Passenger cars,3
+2019,7,1,2019-07-01,PEI,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,PEI,Hybrid,Vans,0
+2019,7,1,2019-07-01,NB,Gas,Passenger cars,2285
+2019,7,1,2019-07-01,NB,Gas,Pickup trucks,2616
+2019,7,1,2019-07-01,NB,Gas,Vans,292
+2019,7,1,2019-07-01,NB,Diesel,Passenger cars,1
+2019,7,1,2019-07-01,NB,Diesel,Pickup trucks,227
+2019,7,1,2019-07-01,NB,Diesel,Vans,16
+2019,7,1,2019-07-01,NB,Electric,Passenger cars,23
+2019,7,1,2019-07-01,NB,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,NB,Electric,Vans,0
+2019,7,1,2019-07-01,NB,Hybrid,Passenger cars,53
+2019,7,1,2019-07-01,NB,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,NB,Hybrid,Vans,0
+2019,7,1,2019-07-01,NB,Hybrid,Passenger cars,11
+2019,7,1,2019-07-01,NB,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,NB,Hybrid,Vans,0
+2019,7,1,2019-07-01,QUE,Gas,Passenger cars,34406
+2019,7,1,2019-07-01,QUE,Gas,Pickup trucks,17655
+2019,7,1,2019-07-01,QUE,Gas,Vans,5909
+2019,7,1,2019-07-01,QUE,Diesel,Passenger cars,10
+2019,7,1,2019-07-01,QUE,Diesel,Pickup trucks,2257
+2019,7,1,2019-07-01,QUE,Diesel,Vans,414
+2019,7,1,2019-07-01,QUE,Electric,Passenger cars,3413
+2019,7,1,2019-07-01,QUE,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,QUE,Electric,Vans,0
+2019,7,1,2019-07-01,QUE,Hybrid,Passenger cars,1154
+2019,7,1,2019-07-01,QUE,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,QUE,Hybrid,Vans,0
+2019,7,1,2019-07-01,QUE,Hybrid,Passenger cars,2652
+2019,7,1,2019-07-01,QUE,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,QUE,Hybrid,Vans,56
+2019,7,1,2019-07-01,ON,Gas,Passenger cars,51543
+2019,7,1,2019-07-01,ON,Gas,Pickup trucks,38514
+2019,7,1,2019-07-01,ON,Gas,Vans,12264
+2019,7,1,2019-07-01,ON,Diesel,Passenger cars,32
+2019,7,1,2019-07-01,ON,Diesel,Pickup trucks,3826
+2019,7,1,2019-07-01,ON,Diesel,Vans,627
+2019,7,1,2019-07-01,ON,Electric,Passenger cars,1844
+2019,7,1,2019-07-01,ON,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,ON,Electric,Vans,0
+2019,7,1,2019-07-01,ON,Hybrid,Passenger cars,2150
+2019,7,1,2019-07-01,ON,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,ON,Hybrid,Vans,0
+2019,7,1,2019-07-01,ON,Hybrid,Passenger cars,644
+2019,7,1,2019-07-01,ON,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,ON,Hybrid,Vans,18
+2019,7,1,2019-07-01,MB,Gas,Passenger cars,2654
+2019,7,1,2019-07-01,MB,Gas,Pickup trucks,3713
+2019,7,1,2019-07-01,MB,Gas,Vans,729
+2019,7,1,2019-07-01,MB,Diesel,Passenger cars,1
+2019,7,1,2019-07-01,MB,Diesel,Pickup trucks,352
+2019,7,1,2019-07-01,MB,Diesel,Vans,14
+2019,7,1,2019-07-01,MB,Electric,Passenger cars,46
+2019,7,1,2019-07-01,MB,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,MB,Electric,Vans,0
+2019,7,1,2019-07-01,MB,Hybrid,Passenger cars,61
+2019,7,1,2019-07-01,MB,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,MB,Hybrid,Vans,0
+2019,7,1,2019-07-01,MB,Hybrid,Passenger cars,18
+2019,7,1,2019-07-01,MB,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,MB,Hybrid,Vans,0
+2019,7,1,2019-07-01,SAS,Gas,Passenger cars,1693
+2019,7,1,2019-07-01,SAS,Gas,Pickup trucks,4354
+2019,7,1,2019-07-01,SAS,Gas,Vans,647
+2019,7,1,2019-07-01,SAS,Diesel,Passenger cars,7
+2019,7,1,2019-07-01,SAS,Diesel,Pickup trucks,945
+2019,7,1,2019-07-01,SAS,Diesel,Vans,22
+2019,7,1,2019-07-01,SAS,Electric,Passenger cars,26
+2019,7,1,2019-07-01,SAS,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,SAS,Electric,Vans,0
+2019,7,1,2019-07-01,SAS,Hybrid,Passenger cars,48
+2019,7,1,2019-07-01,SAS,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,SAS,Hybrid,Vans,0
+2019,7,1,2019-07-01,SAS,Hybrid,Passenger cars,9
+2019,7,1,2019-07-01,SAS,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,SAS,Hybrid,Vans,0
+2019,7,1,2019-07-01,BC,Gas,Passenger cars,11212
+2019,7,1,2019-07-01,BC,Gas,Pickup trucks,10624
+2019,7,1,2019-07-01,BC,Gas,Vans,2829
+2019,7,1,2019-07-01,BC,Diesel,Passenger cars,9
+2019,7,1,2019-07-01,BC,Diesel,Pickup trucks,2702
+2019,7,1,2019-07-01,BC,Diesel,Vans,265
+2019,7,1,2019-07-01,BC,Electric,Passenger cars,2603
+2019,7,1,2019-07-01,BC,Electric,Pickup trucks,0
+2019,7,1,2019-07-01,BC,Electric,Vans,0
+2019,7,1,2019-07-01,BC,Hybrid,Passenger cars,940
+2019,7,1,2019-07-01,BC,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,BC,Hybrid,Vans,0
+2019,7,1,2019-07-01,BC,Hybrid,Passenger cars,774
+2019,7,1,2019-07-01,BC,Hybrid,Pickup trucks,0
+2019,7,1,2019-07-01,BC,Hybrid,Vans,21
+2019,10,1,2019-10-01,CAN,Gas,Passenger cars,82877
+2019,10,1,2019-10-01,CAN,Gas,Pickup trucks,75251
+2019,10,1,2019-10-01,CAN,Gas,Vans,19836
+2019,10,1,2019-10-01,CAN,Diesel,Passenger cars,34
+2019,10,1,2019-10-01,CAN,Diesel,Pickup trucks,11313
+2019,10,1,2019-10-01,CAN,Diesel,Vans,1255
+2019,10,1,2019-10-01,CAN,Electric,Passenger cars,5827
+2019,10,1,2019-10-01,CAN,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,CAN,Electric,Vans,0
+2019,10,1,2019-10-01,CAN,Hybrid,Passenger cars,3648
+2019,10,1,2019-10-01,CAN,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,CAN,Hybrid,Vans,0
+2019,10,1,2019-10-01,CAN,Hybrid,Passenger cars,2782
+2019,10,1,2019-10-01,CAN,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,CAN,Hybrid,Vans,26
+2019,10,1,2019-10-01,PEI,Gas,Passenger cars,264
+2019,10,1,2019-10-01,PEI,Gas,Pickup trucks,392
+2019,10,1,2019-10-01,PEI,Gas,Vans,47
+2019,10,1,2019-10-01,PEI,Diesel,Passenger cars,0
+2019,10,1,2019-10-01,PEI,Diesel,Pickup trucks,35
+2019,10,1,2019-10-01,PEI,Diesel,Vans,2
+2019,10,1,2019-10-01,PEI,Electric,Passenger cars,3
+2019,10,1,2019-10-01,PEI,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,PEI,Electric,Vans,0
+2019,10,1,2019-10-01,PEI,Hybrid,Passenger cars,3
+2019,10,1,2019-10-01,PEI,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,PEI,Hybrid,Vans,0
+2019,10,1,2019-10-01,PEI,Hybrid,Passenger cars,3
+2019,10,1,2019-10-01,PEI,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,PEI,Hybrid,Vans,0
+2019,10,1,2019-10-01,NB,Gas,Passenger cars,1492
+2019,10,1,2019-10-01,NB,Gas,Pickup trucks,2135
+2019,10,1,2019-10-01,NB,Gas,Vans,248
+2019,10,1,2019-10-01,NB,Diesel,Passenger cars,1
+2019,10,1,2019-10-01,NB,Diesel,Pickup trucks,190
+2019,10,1,2019-10-01,NB,Diesel,Vans,6
+2019,10,1,2019-10-01,NB,Electric,Passenger cars,11
+2019,10,1,2019-10-01,NB,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,NB,Electric,Vans,0
+2019,10,1,2019-10-01,NB,Hybrid,Passenger cars,31
+2019,10,1,2019-10-01,NB,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,NB,Hybrid,Vans,0
+2019,10,1,2019-10-01,NB,Hybrid,Passenger cars,11
+2019,10,1,2019-10-01,NB,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,NB,Hybrid,Vans,0
+2019,10,1,2019-10-01,QUE,Gas,Passenger cars,23940
+2019,10,1,2019-10-01,QUE,Gas,Pickup trucks,13247
+2019,10,1,2019-10-01,QUE,Gas,Vans,4162
+2019,10,1,2019-10-01,QUE,Diesel,Passenger cars,6
+2019,10,1,2019-10-01,QUE,Diesel,Pickup trucks,1846
+2019,10,1,2019-10-01,QUE,Diesel,Vans,342
+2019,10,1,2019-10-01,QUE,Electric,Passenger cars,2744
+2019,10,1,2019-10-01,QUE,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,QUE,Electric,Vans,0
+2019,10,1,2019-10-01,QUE,Hybrid,Passenger cars,754
+2019,10,1,2019-10-01,QUE,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,QUE,Hybrid,Vans,0
+2019,10,1,2019-10-01,QUE,Hybrid,Passenger cars,1709
+2019,10,1,2019-10-01,QUE,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,QUE,Hybrid,Vans,5
+2019,10,1,2019-10-01,ON,Gas,Passenger cars,39079
+2019,10,1,2019-10-01,ON,Gas,Pickup trucks,29897
+2019,10,1,2019-10-01,ON,Gas,Vans,10039
+2019,10,1,2019-10-01,ON,Diesel,Passenger cars,16
+2019,10,1,2019-10-01,ON,Diesel,Pickup trucks,3328
+2019,10,1,2019-10-01,ON,Diesel,Vans,481
+2019,10,1,2019-10-01,ON,Electric,Passenger cars,1194
+2019,10,1,2019-10-01,ON,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,ON,Electric,Vans,0
+2019,10,1,2019-10-01,ON,Hybrid,Passenger cars,1792
+2019,10,1,2019-10-01,ON,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,ON,Hybrid,Vans,0
+2019,10,1,2019-10-01,ON,Hybrid,Passenger cars,442
+2019,10,1,2019-10-01,ON,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,ON,Hybrid,Vans,13
+2019,10,1,2019-10-01,MB,Gas,Passenger cars,1597
+2019,10,1,2019-10-01,MB,Gas,Pickup trucks,2728
+2019,10,1,2019-10-01,MB,Gas,Vans,591
+2019,10,1,2019-10-01,MB,Diesel,Passenger cars,1
+2019,10,1,2019-10-01,MB,Diesel,Pickup trucks,272
+2019,10,1,2019-10-01,MB,Diesel,Vans,15
+2019,10,1,2019-10-01,MB,Electric,Passenger cars,26
+2019,10,1,2019-10-01,MB,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,MB,Electric,Vans,0
+2019,10,1,2019-10-01,MB,Hybrid,Passenger cars,47
+2019,10,1,2019-10-01,MB,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,MB,Hybrid,Vans,0
+2019,10,1,2019-10-01,MB,Hybrid,Passenger cars,21
+2019,10,1,2019-10-01,MB,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,MB,Hybrid,Vans,2
+2019,10,1,2019-10-01,SAS,Gas,Passenger cars,833
+2019,10,1,2019-10-01,SAS,Gas,Pickup trucks,3096
+2019,10,1,2019-10-01,SAS,Gas,Vans,415
+2019,10,1,2019-10-01,SAS,Diesel,Passenger cars,3
+2019,10,1,2019-10-01,SAS,Diesel,Pickup trucks,607
+2019,10,1,2019-10-01,SAS,Diesel,Vans,8
+2019,10,1,2019-10-01,SAS,Electric,Passenger cars,22
+2019,10,1,2019-10-01,SAS,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,SAS,Electric,Vans,0
+2019,10,1,2019-10-01,SAS,Hybrid,Passenger cars,42
+2019,10,1,2019-10-01,SAS,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,SAS,Hybrid,Vans,0
+2019,10,1,2019-10-01,SAS,Hybrid,Passenger cars,13
+2019,10,1,2019-10-01,SAS,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,SAS,Hybrid,Vans,0
+2019,10,1,2019-10-01,BC,Gas,Passenger cars,7688
+2019,10,1,2019-10-01,BC,Gas,Pickup trucks,7951
+2019,10,1,2019-10-01,BC,Gas,Vans,2195
+2019,10,1,2019-10-01,BC,Diesel,Passenger cars,4
+2019,10,1,2019-10-01,BC,Diesel,Pickup trucks,1963
+2019,10,1,2019-10-01,BC,Diesel,Vans,277
+2019,10,1,2019-10-01,BC,Electric,Passenger cars,1666
+2019,10,1,2019-10-01,BC,Electric,Pickup trucks,0
+2019,10,1,2019-10-01,BC,Electric,Vans,0
+2019,10,1,2019-10-01,BC,Hybrid,Passenger cars,580
+2019,10,1,2019-10-01,BC,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,BC,Hybrid,Vans,0
+2019,10,1,2019-10-01,BC,Hybrid,Passenger cars,523
+2019,10,1,2019-10-01,BC,Hybrid,Pickup trucks,0
+2019,10,1,2019-10-01,BC,Hybrid,Vans,6
+2020,1,1,2020-01-01,CAN,Gas,Passenger cars,60757
+2020,1,1,2020-01-01,CAN,Gas,Pickup trucks,69771
+2020,1,1,2020-01-01,CAN,Gas,Vans,16661
+2020,1,1,2020-01-01,CAN,Diesel,Passenger cars,22
+2020,1,1,2020-01-01,CAN,Diesel,Pickup trucks,12179
+2020,1,1,2020-01-01,CAN,Diesel,Vans,1082
+2020,1,1,2020-01-01,CAN,Electric,Passenger cars,6862
+2020,1,1,2020-01-01,CAN,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,CAN,Electric,Vans,0
+2020,1,1,2020-01-01,CAN,Hybrid,Passenger cars,3306
+2020,1,1,2020-01-01,CAN,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,CAN,Hybrid,Vans,0
+2020,1,1,2020-01-01,CAN,Hybrid,Passenger cars,2206
+2020,1,1,2020-01-01,CAN,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,CAN,Hybrid,Vans,153
+2020,1,1,2020-01-01,PEI,Gas,Passenger cars,154
+2020,1,1,2020-01-01,PEI,Gas,Pickup trucks,312
+2020,1,1,2020-01-01,PEI,Gas,Vans,48
+2020,1,1,2020-01-01,PEI,Diesel,Passenger cars,0
+2020,1,1,2020-01-01,PEI,Diesel,Pickup trucks,30
+2020,1,1,2020-01-01,PEI,Diesel,Vans,0
+2020,1,1,2020-01-01,PEI,Electric,Passenger cars,1
+2020,1,1,2020-01-01,PEI,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,PEI,Electric,Vans,0
+2020,1,1,2020-01-01,PEI,Hybrid,Passenger cars,2
+2020,1,1,2020-01-01,PEI,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,PEI,Hybrid,Vans,0
+2020,1,1,2020-01-01,PEI,Hybrid,Passenger cars,4
+2020,1,1,2020-01-01,PEI,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,PEI,Hybrid,Vans,0
+2020,1,1,2020-01-01,NB,Gas,Passenger cars,1214
+2020,1,1,2020-01-01,NB,Gas,Pickup trucks,1730
+2020,1,1,2020-01-01,NB,Gas,Vans,215
+2020,1,1,2020-01-01,NB,Diesel,Passenger cars,0
+2020,1,1,2020-01-01,NB,Diesel,Pickup trucks,192
+2020,1,1,2020-01-01,NB,Diesel,Vans,5
+2020,1,1,2020-01-01,NB,Electric,Passenger cars,18
+2020,1,1,2020-01-01,NB,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,NB,Electric,Vans,0
+2020,1,1,2020-01-01,NB,Hybrid,Passenger cars,26
+2020,1,1,2020-01-01,NB,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,NB,Hybrid,Vans,0
+2020,1,1,2020-01-01,NB,Hybrid,Passenger cars,9
+2020,1,1,2020-01-01,NB,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,NB,Hybrid,Vans,0
+2020,1,1,2020-01-01,QUE,Gas,Passenger cars,15735
+2020,1,1,2020-01-01,QUE,Gas,Pickup trucks,10937
+2020,1,1,2020-01-01,QUE,Gas,Vans,3052
+2020,1,1,2020-01-01,QUE,Diesel,Passenger cars,2
+2020,1,1,2020-01-01,QUE,Diesel,Pickup trucks,1798
+2020,1,1,2020-01-01,QUE,Diesel,Vans,180
+2020,1,1,2020-01-01,QUE,Electric,Passenger cars,3119
+2020,1,1,2020-01-01,QUE,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,QUE,Electric,Vans,0
+2020,1,1,2020-01-01,QUE,Hybrid,Passenger cars,556
+2020,1,1,2020-01-01,QUE,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,QUE,Hybrid,Vans,0
+2020,1,1,2020-01-01,QUE,Hybrid,Passenger cars,1346
+2020,1,1,2020-01-01,QUE,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,QUE,Hybrid,Vans,72
+2020,1,1,2020-01-01,ON,Gas,Passenger cars,27654
+2020,1,1,2020-01-01,ON,Gas,Pickup trucks,26908
+2020,1,1,2020-01-01,ON,Gas,Vans,8449
+2020,1,1,2020-01-01,ON,Diesel,Passenger cars,7
+2020,1,1,2020-01-01,ON,Diesel,Pickup trucks,3334
+2020,1,1,2020-01-01,ON,Diesel,Vans,557
+2020,1,1,2020-01-01,ON,Electric,Passenger cars,1259
+2020,1,1,2020-01-01,ON,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,ON,Electric,Vans,0
+2020,1,1,2020-01-01,ON,Hybrid,Passenger cars,1523
+2020,1,1,2020-01-01,ON,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,ON,Hybrid,Vans,0
+2020,1,1,2020-01-01,ON,Hybrid,Passenger cars,280
+2020,1,1,2020-01-01,ON,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,ON,Hybrid,Vans,40
+2020,1,1,2020-01-01,MB,Gas,Passenger cars,1437
+2020,1,1,2020-01-01,MB,Gas,Pickup trucks,2661
+2020,1,1,2020-01-01,MB,Gas,Vans,561
+2020,1,1,2020-01-01,MB,Diesel,Passenger cars,0
+2020,1,1,2020-01-01,MB,Diesel,Pickup trucks,250
+2020,1,1,2020-01-01,MB,Diesel,Vans,10
+2020,1,1,2020-01-01,MB,Electric,Passenger cars,34
+2020,1,1,2020-01-01,MB,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,MB,Electric,Vans,0
+2020,1,1,2020-01-01,MB,Hybrid,Passenger cars,68
+2020,1,1,2020-01-01,MB,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,MB,Hybrid,Vans,0
+2020,1,1,2020-01-01,MB,Hybrid,Passenger cars,11
+2020,1,1,2020-01-01,MB,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,MB,Hybrid,Vans,0
+2020,1,1,2020-01-01,SAS,Gas,Passenger cars,937
+2020,1,1,2020-01-01,SAS,Gas,Pickup trucks,3443
+2020,1,1,2020-01-01,SAS,Gas,Vans,412
+2020,1,1,2020-01-01,SAS,Diesel,Passenger cars,1
+2020,1,1,2020-01-01,SAS,Diesel,Pickup trucks,786
+2020,1,1,2020-01-01,SAS,Diesel,Vans,10
+2020,1,1,2020-01-01,SAS,Electric,Passenger cars,18
+2020,1,1,2020-01-01,SAS,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,SAS,Electric,Vans,0
+2020,1,1,2020-01-01,SAS,Hybrid,Passenger cars,33
+2020,1,1,2020-01-01,SAS,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,SAS,Hybrid,Vans,0
+2020,1,1,2020-01-01,SAS,Hybrid,Passenger cars,13
+2020,1,1,2020-01-01,SAS,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,SAS,Hybrid,Vans,2
+2020,1,1,2020-01-01,BC,Gas,Passenger cars,6415
+2020,1,1,2020-01-01,BC,Gas,Pickup trucks,7279
+2020,1,1,2020-01-01,BC,Gas,Vans,1699
+2020,1,1,2020-01-01,BC,Diesel,Passenger cars,4
+2020,1,1,2020-01-01,BC,Diesel,Pickup trucks,2408
+2020,1,1,2020-01-01,BC,Diesel,Vans,219
+2020,1,1,2020-01-01,BC,Electric,Passenger cars,2249
+2020,1,1,2020-01-01,BC,Electric,Pickup trucks,0
+2020,1,1,2020-01-01,BC,Electric,Vans,0
+2020,1,1,2020-01-01,BC,Hybrid,Passenger cars,646
+2020,1,1,2020-01-01,BC,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,BC,Hybrid,Vans,0
+2020,1,1,2020-01-01,BC,Hybrid,Passenger cars,470
+2020,1,1,2020-01-01,BC,Hybrid,Pickup trucks,0
+2020,1,1,2020-01-01,BC,Hybrid,Vans,35
+2020,4,1,2020-04-01,CAN,Gas,Passenger cars,58184
+2020,4,1,2020-04-01,CAN,Gas,Pickup trucks,67245
+2020,4,1,2020-04-01,CAN,Gas,Vans,14177
+2020,4,1,2020-04-01,CAN,Diesel,Passenger cars,7
+2020,4,1,2020-04-01,CAN,Diesel,Pickup trucks,11705
+2020,4,1,2020-04-01,CAN,Diesel,Vans,937
+2020,4,1,2020-04-01,CAN,Electric,Passenger cars,4366
+2020,4,1,2020-04-01,CAN,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,CAN,Electric,Vans,0
+2020,4,1,2020-04-01,CAN,Hybrid,Passenger cars,2369
+2020,4,1,2020-04-01,CAN,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,CAN,Hybrid,Vans,0
+2020,4,1,2020-04-01,CAN,Hybrid,Passenger cars,1883
+2020,4,1,2020-04-01,CAN,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,CAN,Hybrid,Vans,157
+2020,4,1,2020-04-01,PEI,Gas,Passenger cars,195
+2020,4,1,2020-04-01,PEI,Gas,Pickup trucks,294
+2020,4,1,2020-04-01,PEI,Gas,Vans,59
+2020,4,1,2020-04-01,PEI,Diesel,Passenger cars,0
+2020,4,1,2020-04-01,PEI,Diesel,Pickup trucks,28
+2020,4,1,2020-04-01,PEI,Diesel,Vans,0
+2020,4,1,2020-04-01,PEI,Electric,Passenger cars,1
+2020,4,1,2020-04-01,PEI,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,PEI,Electric,Vans,0
+2020,4,1,2020-04-01,PEI,Hybrid,Passenger cars,2
+2020,4,1,2020-04-01,PEI,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,PEI,Hybrid,Vans,0
+2020,4,1,2020-04-01,PEI,Hybrid,Passenger cars,4
+2020,4,1,2020-04-01,PEI,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,PEI,Hybrid,Vans,0
+2020,4,1,2020-04-01,NB,Gas,Passenger cars,1365
+2020,4,1,2020-04-01,NB,Gas,Pickup trucks,1841
+2020,4,1,2020-04-01,NB,Gas,Vans,226
+2020,4,1,2020-04-01,NB,Diesel,Passenger cars,0
+2020,4,1,2020-04-01,NB,Diesel,Pickup trucks,155
+2020,4,1,2020-04-01,NB,Diesel,Vans,8
+2020,4,1,2020-04-01,NB,Electric,Passenger cars,9
+2020,4,1,2020-04-01,NB,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,NB,Electric,Vans,0
+2020,4,1,2020-04-01,NB,Hybrid,Passenger cars,30
+2020,4,1,2020-04-01,NB,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,NB,Hybrid,Vans,0
+2020,4,1,2020-04-01,NB,Hybrid,Passenger cars,7
+2020,4,1,2020-04-01,NB,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,NB,Hybrid,Vans,1
+2020,4,1,2020-04-01,QUE,Gas,Passenger cars,19720
+2020,4,1,2020-04-01,QUE,Gas,Pickup trucks,12574
+2020,4,1,2020-04-01,QUE,Gas,Vans,3803
+2020,4,1,2020-04-01,QUE,Diesel,Passenger cars,1
+2020,4,1,2020-04-01,QUE,Diesel,Pickup trucks,1987
+2020,4,1,2020-04-01,QUE,Diesel,Vans,244
+2020,4,1,2020-04-01,QUE,Electric,Passenger cars,1889
+2020,4,1,2020-04-01,QUE,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,QUE,Electric,Vans,0
+2020,4,1,2020-04-01,QUE,Hybrid,Passenger cars,468
+2020,4,1,2020-04-01,QUE,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,QUE,Hybrid,Vans,0
+2020,4,1,2020-04-01,QUE,Hybrid,Passenger cars,1335
+2020,4,1,2020-04-01,QUE,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,QUE,Hybrid,Vans,105
+2020,4,1,2020-04-01,ON,Gas,Passenger cars,21559
+2020,4,1,2020-04-01,ON,Gas,Pickup trucks,23088
+2020,4,1,2020-04-01,ON,Gas,Vans,5807
+2020,4,1,2020-04-01,ON,Diesel,Passenger cars,3
+2020,4,1,2020-04-01,ON,Diesel,Pickup trucks,2591
+2020,4,1,2020-04-01,ON,Diesel,Vans,358
+2020,4,1,2020-04-01,ON,Electric,Passenger cars,819
+2020,4,1,2020-04-01,ON,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,ON,Electric,Vans,0
+2020,4,1,2020-04-01,ON,Hybrid,Passenger cars,978
+2020,4,1,2020-04-01,ON,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,ON,Hybrid,Vans,0
+2020,4,1,2020-04-01,ON,Hybrid,Passenger cars,191
+2020,4,1,2020-04-01,ON,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,ON,Hybrid,Vans,21
+2020,4,1,2020-04-01,MB,Gas,Passenger cars,1442
+2020,4,1,2020-04-01,MB,Gas,Pickup trucks,2728
+2020,4,1,2020-04-01,MB,Gas,Vans,324
+2020,4,1,2020-04-01,MB,Diesel,Passenger cars,0
+2020,4,1,2020-04-01,MB,Diesel,Pickup trucks,304
+2020,4,1,2020-04-01,MB,Diesel,Vans,7
+2020,4,1,2020-04-01,MB,Electric,Passenger cars,35
+2020,4,1,2020-04-01,MB,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,MB,Electric,Vans,0
+2020,4,1,2020-04-01,MB,Hybrid,Passenger cars,42
+2020,4,1,2020-04-01,MB,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,MB,Hybrid,Vans,0
+2020,4,1,2020-04-01,MB,Hybrid,Passenger cars,14
+2020,4,1,2020-04-01,MB,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,MB,Hybrid,Vans,1
+2020,4,1,2020-04-01,SAS,Gas,Passenger cars,1080
+2020,4,1,2020-04-01,SAS,Gas,Pickup trucks,3254
+2020,4,1,2020-04-01,SAS,Gas,Vans,342
+2020,4,1,2020-04-01,SAS,Diesel,Passenger cars,0
+2020,4,1,2020-04-01,SAS,Diesel,Pickup trucks,776
+2020,4,1,2020-04-01,SAS,Diesel,Vans,12
+2020,4,1,2020-04-01,SAS,Electric,Passenger cars,18
+2020,4,1,2020-04-01,SAS,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,SAS,Electric,Vans,0
+2020,4,1,2020-04-01,SAS,Hybrid,Passenger cars,33
+2020,4,1,2020-04-01,SAS,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,SAS,Hybrid,Vans,0
+2020,4,1,2020-04-01,SAS,Hybrid,Passenger cars,5
+2020,4,1,2020-04-01,SAS,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,SAS,Hybrid,Vans,1
+2020,4,1,2020-04-01,BC,Gas,Passenger cars,5667
+2020,4,1,2020-04-01,BC,Gas,Pickup trucks,8306
+2020,4,1,2020-04-01,BC,Gas,Vans,1568
+2020,4,1,2020-04-01,BC,Diesel,Passenger cars,2
+2020,4,1,2020-04-01,BC,Diesel,Pickup trucks,2703
+2020,4,1,2020-04-01,BC,Diesel,Vans,197
+2020,4,1,2020-04-01,BC,Electric,Passenger cars,1428
+2020,4,1,2020-04-01,BC,Electric,Pickup trucks,0
+2020,4,1,2020-04-01,BC,Electric,Vans,0
+2020,4,1,2020-04-01,BC,Hybrid,Passenger cars,512
+2020,4,1,2020-04-01,BC,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,BC,Hybrid,Vans,0
+2020,4,1,2020-04-01,BC,Hybrid,Passenger cars,273
+2020,4,1,2020-04-01,BC,Hybrid,Pickup trucks,0
+2020,4,1,2020-04-01,BC,Hybrid,Vans,23
+2020,7,1,2020-07-01,CAN,Gas,Passenger cars,94168
+2020,7,1,2020-07-01,CAN,Gas,Pickup trucks,98192
+2020,7,1,2020-07-01,CAN,Gas,Vans,25056
+2020,7,1,2020-07-01,CAN,Diesel,Passenger cars,11
+2020,7,1,2020-07-01,CAN,Diesel,Pickup trucks,17534
+2020,7,1,2020-07-01,CAN,Diesel,Vans,1456
+2020,7,1,2020-07-01,CAN,Electric,Passenger cars,7220
+2020,7,1,2020-07-01,CAN,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,CAN,Electric,Vans,0
+2020,7,1,2020-07-01,CAN,Hybrid,Passenger cars,3391
+2020,7,1,2020-07-01,CAN,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,CAN,Hybrid,Vans,0
+2020,7,1,2020-07-01,CAN,Hybrid,Passenger cars,2548
+2020,7,1,2020-07-01,CAN,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,CAN,Hybrid,Vans,230
+2020,7,1,2020-07-01,PEI,Gas,Passenger cars,473
+2020,7,1,2020-07-01,PEI,Gas,Pickup trucks,528
+2020,7,1,2020-07-01,PEI,Gas,Vans,85
+2020,7,1,2020-07-01,PEI,Diesel,Passenger cars,0
+2020,7,1,2020-07-01,PEI,Diesel,Pickup trucks,83
+2020,7,1,2020-07-01,PEI,Diesel,Vans,1
+2020,7,1,2020-07-01,PEI,Electric,Passenger cars,12
+2020,7,1,2020-07-01,PEI,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,PEI,Electric,Vans,0
+2020,7,1,2020-07-01,PEI,Hybrid,Passenger cars,14
+2020,7,1,2020-07-01,PEI,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,PEI,Hybrid,Vans,0
+2020,7,1,2020-07-01,PEI,Hybrid,Passenger cars,5
+2020,7,1,2020-07-01,PEI,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,PEI,Hybrid,Vans,0
+2020,7,1,2020-07-01,NB,Gas,Passenger cars,2121
+2020,7,1,2020-07-01,NB,Gas,Pickup trucks,2826
+2020,7,1,2020-07-01,NB,Gas,Vans,381
+2020,7,1,2020-07-01,NB,Diesel,Passenger cars,0
+2020,7,1,2020-07-01,NB,Diesel,Pickup trucks,267
+2020,7,1,2020-07-01,NB,Diesel,Vans,5
+2020,7,1,2020-07-01,NB,Electric,Passenger cars,21
+2020,7,1,2020-07-01,NB,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,NB,Electric,Vans,0
+2020,7,1,2020-07-01,NB,Hybrid,Passenger cars,52
+2020,7,1,2020-07-01,NB,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,NB,Hybrid,Vans,0
+2020,7,1,2020-07-01,NB,Hybrid,Passenger cars,11
+2020,7,1,2020-07-01,NB,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,NB,Hybrid,Vans,0
+2020,7,1,2020-07-01,QUE,Gas,Passenger cars,30601
+2020,7,1,2020-07-01,QUE,Gas,Pickup trucks,17401
+2020,7,1,2020-07-01,QUE,Gas,Vans,6186
+2020,7,1,2020-07-01,QUE,Diesel,Passenger cars,1
+2020,7,1,2020-07-01,QUE,Diesel,Pickup trucks,3290
+2020,7,1,2020-07-01,QUE,Diesel,Vans,389
+2020,7,1,2020-07-01,QUE,Electric,Passenger cars,3465
+2020,7,1,2020-07-01,QUE,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,QUE,Electric,Vans,0
+2020,7,1,2020-07-01,QUE,Hybrid,Passenger cars,645
+2020,7,1,2020-07-01,QUE,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,QUE,Hybrid,Vans,0
+2020,7,1,2020-07-01,QUE,Hybrid,Passenger cars,1745
+2020,7,1,2020-07-01,QUE,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,QUE,Hybrid,Vans,161
+2020,7,1,2020-07-01,ON,Gas,Passenger cars,38176
+2020,7,1,2020-07-01,ON,Gas,Pickup trucks,37196
+2020,7,1,2020-07-01,ON,Gas,Vans,10829
+2020,7,1,2020-07-01,ON,Diesel,Passenger cars,1
+2020,7,1,2020-07-01,ON,Diesel,Pickup trucks,4696
+2020,7,1,2020-07-01,ON,Diesel,Vans,593
+2020,7,1,2020-07-01,ON,Electric,Passenger cars,1258
+2020,7,1,2020-07-01,ON,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,ON,Electric,Vans,0
+2020,7,1,2020-07-01,ON,Hybrid,Passenger cars,1468
+2020,7,1,2020-07-01,ON,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,ON,Hybrid,Vans,0
+2020,7,1,2020-07-01,ON,Hybrid,Passenger cars,316
+2020,7,1,2020-07-01,ON,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,ON,Hybrid,Vans,34
+2020,7,1,2020-07-01,MB,Gas,Passenger cars,2055
+2020,7,1,2020-07-01,MB,Gas,Pickup trucks,3626
+2020,7,1,2020-07-01,MB,Gas,Vans,719
+2020,7,1,2020-07-01,MB,Diesel,Passenger cars,0
+2020,7,1,2020-07-01,MB,Diesel,Pickup trucks,352
+2020,7,1,2020-07-01,MB,Diesel,Vans,20
+2020,7,1,2020-07-01,MB,Electric,Passenger cars,43
+2020,7,1,2020-07-01,MB,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,MB,Electric,Vans,0
+2020,7,1,2020-07-01,MB,Hybrid,Passenger cars,42
+2020,7,1,2020-07-01,MB,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,MB,Hybrid,Vans,0
+2020,7,1,2020-07-01,MB,Hybrid,Passenger cars,9
+2020,7,1,2020-07-01,MB,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,MB,Hybrid,Vans,2
+2020,7,1,2020-07-01,SAS,Gas,Passenger cars,1323
+2020,7,1,2020-07-01,SAS,Gas,Pickup trucks,4531
+2020,7,1,2020-07-01,SAS,Gas,Vans,591
+2020,7,1,2020-07-01,SAS,Diesel,Passenger cars,1
+2020,7,1,2020-07-01,SAS,Diesel,Pickup trucks,969
+2020,7,1,2020-07-01,SAS,Diesel,Vans,18
+2020,7,1,2020-07-01,SAS,Electric,Passenger cars,24
+2020,7,1,2020-07-01,SAS,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,SAS,Electric,Vans,0
+2020,7,1,2020-07-01,SAS,Hybrid,Passenger cars,35
+2020,7,1,2020-07-01,SAS,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,SAS,Hybrid,Vans,0
+2020,7,1,2020-07-01,SAS,Hybrid,Passenger cars,8
+2020,7,1,2020-07-01,SAS,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,SAS,Hybrid,Vans,0
+2020,7,1,2020-07-01,BC,Gas,Passenger cars,8241
+2020,7,1,2020-07-01,BC,Gas,Pickup trucks,10756
+2020,7,1,2020-07-01,BC,Gas,Vans,2623
+2020,7,1,2020-07-01,BC,Diesel,Passenger cars,1
+2020,7,1,2020-07-01,BC,Diesel,Pickup trucks,3138
+2020,7,1,2020-07-01,BC,Diesel,Vans,263
+2020,7,1,2020-07-01,BC,Electric,Passenger cars,2223
+2020,7,1,2020-07-01,BC,Electric,Pickup trucks,0
+2020,7,1,2020-07-01,BC,Electric,Vans,0
+2020,7,1,2020-07-01,BC,Hybrid,Passenger cars,831
+2020,7,1,2020-07-01,BC,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,BC,Hybrid,Vans,0
+2020,7,1,2020-07-01,BC,Hybrid,Passenger cars,395
+2020,7,1,2020-07-01,BC,Hybrid,Pickup trucks,0
+2020,7,1,2020-07-01,BC,Hybrid,Vans,31
+2020,10,1,2020-10-01,CAN,Gas,Passenger cars,61170
+2020,10,1,2020-10-01,CAN,Gas,Pickup trucks,68859
+2020,10,1,2020-10-01,CAN,Gas,Vans,18330
+2020,10,1,2020-10-01,CAN,Diesel,Passenger cars,8
+2020,10,1,2020-10-01,CAN,Diesel,Pickup trucks,17084
+2020,10,1,2020-10-01,CAN,Diesel,Vans,1311
+2020,10,1,2020-10-01,CAN,Electric,Passenger cars,7039
+2020,10,1,2020-10-01,CAN,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,CAN,Electric,Vans,0
+2020,10,1,2020-10-01,CAN,Hybrid,Passenger cars,2659
+2020,10,1,2020-10-01,CAN,Hybrid,Pickup trucks,12
+2020,10,1,2020-10-01,CAN,Hybrid,Vans,0
+2020,10,1,2020-10-01,CAN,Hybrid,Passenger cars,1921
+2020,10,1,2020-10-01,CAN,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,CAN,Hybrid,Vans,233
+2020,10,1,2020-10-01,PEI,Gas,Passenger cars,130
+2020,10,1,2020-10-01,PEI,Gas,Pickup trucks,168
+2020,10,1,2020-10-01,PEI,Gas,Vans,34
+2020,10,1,2020-10-01,PEI,Diesel,Passenger cars,0
+2020,10,1,2020-10-01,PEI,Diesel,Pickup trucks,47
+2020,10,1,2020-10-01,PEI,Diesel,Vans,2
+2020,10,1,2020-10-01,PEI,Electric,Passenger cars,1
+2020,10,1,2020-10-01,PEI,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,PEI,Electric,Vans,0
+2020,10,1,2020-10-01,PEI,Hybrid,Passenger cars,2
+2020,10,1,2020-10-01,PEI,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,PEI,Hybrid,Vans,0
+2020,10,1,2020-10-01,PEI,Hybrid,Passenger cars,1
+2020,10,1,2020-10-01,PEI,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,PEI,Hybrid,Vans,0
+2020,10,1,2020-10-01,NB,Gas,Passenger cars,1317
+2020,10,1,2020-10-01,NB,Gas,Pickup trucks,2087
+2020,10,1,2020-10-01,NB,Gas,Vans,239
+2020,10,1,2020-10-01,NB,Diesel,Passenger cars,0
+2020,10,1,2020-10-01,NB,Diesel,Pickup trucks,298
+2020,10,1,2020-10-01,NB,Diesel,Vans,6
+2020,10,1,2020-10-01,NB,Electric,Passenger cars,5
+2020,10,1,2020-10-01,NB,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,NB,Electric,Vans,0
+2020,10,1,2020-10-01,NB,Hybrid,Passenger cars,33
+2020,10,1,2020-10-01,NB,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,NB,Hybrid,Vans,0
+2020,10,1,2020-10-01,NB,Hybrid,Passenger cars,5
+2020,10,1,2020-10-01,NB,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,NB,Hybrid,Vans,0
+2020,10,1,2020-10-01,QUE,Gas,Passenger cars,17306
+2020,10,1,2020-10-01,QUE,Gas,Pickup trucks,12046
+2020,10,1,2020-10-01,QUE,Gas,Vans,4123
+2020,10,1,2020-10-01,QUE,Diesel,Passenger cars,2
+2020,10,1,2020-10-01,QUE,Diesel,Pickup trucks,3266
+2020,10,1,2020-10-01,QUE,Diesel,Vans,341
+2020,10,1,2020-10-01,QUE,Electric,Passenger cars,3241
+2020,10,1,2020-10-01,QUE,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,QUE,Electric,Vans,0
+2020,10,1,2020-10-01,QUE,Hybrid,Passenger cars,537
+2020,10,1,2020-10-01,QUE,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,QUE,Hybrid,Vans,0
+2020,10,1,2020-10-01,QUE,Hybrid,Passenger cars,1308
+2020,10,1,2020-10-01,QUE,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,QUE,Hybrid,Vans,165
+2020,10,1,2020-10-01,ON,Gas,Passenger cars,26386
+2020,10,1,2020-10-01,ON,Gas,Pickup trucks,25468
+2020,10,1,2020-10-01,ON,Gas,Vans,7970
+2020,10,1,2020-10-01,ON,Diesel,Passenger cars,1
+2020,10,1,2020-10-01,ON,Diesel,Pickup trucks,4479
+2020,10,1,2020-10-01,ON,Diesel,Vans,524
+2020,10,1,2020-10-01,ON,Electric,Passenger cars,1357
+2020,10,1,2020-10-01,ON,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,ON,Electric,Vans,0
+2020,10,1,2020-10-01,ON,Hybrid,Passenger cars,1196
+2020,10,1,2020-10-01,ON,Hybrid,Pickup trucks,10
+2020,10,1,2020-10-01,ON,Hybrid,Vans,0
+2020,10,1,2020-10-01,ON,Hybrid,Passenger cars,219
+2020,10,1,2020-10-01,ON,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,ON,Hybrid,Vans,40
+2020,10,1,2020-10-01,MB,Gas,Passenger cars,1415
+2020,10,1,2020-10-01,MB,Gas,Pickup trucks,2967
+2020,10,1,2020-10-01,MB,Gas,Vans,521
+2020,10,1,2020-10-01,MB,Diesel,Passenger cars,0
+2020,10,1,2020-10-01,MB,Diesel,Pickup trucks,425
+2020,10,1,2020-10-01,MB,Diesel,Vans,14
+2020,10,1,2020-10-01,MB,Electric,Passenger cars,29
+2020,10,1,2020-10-01,MB,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,MB,Electric,Vans,0
+2020,10,1,2020-10-01,MB,Hybrid,Passenger cars,53
+2020,10,1,2020-10-01,MB,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,MB,Hybrid,Vans,0
+2020,10,1,2020-10-01,MB,Hybrid,Passenger cars,11
+2020,10,1,2020-10-01,MB,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,MB,Hybrid,Vans,2
+2020,10,1,2020-10-01,SAS,Gas,Passenger cars,804
+2020,10,1,2020-10-01,SAS,Gas,Pickup trucks,3197
+2020,10,1,2020-10-01,SAS,Gas,Vans,433
+2020,10,1,2020-10-01,SAS,Diesel,Passenger cars,0
+2020,10,1,2020-10-01,SAS,Diesel,Pickup trucks,1054
+2020,10,1,2020-10-01,SAS,Diesel,Vans,11
+2020,10,1,2020-10-01,SAS,Electric,Passenger cars,11
+2020,10,1,2020-10-01,SAS,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,SAS,Electric,Vans,0
+2020,10,1,2020-10-01,SAS,Hybrid,Passenger cars,26
+2020,10,1,2020-10-01,SAS,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,SAS,Hybrid,Vans,0
+2020,10,1,2020-10-01,SAS,Hybrid,Passenger cars,7
+2020,10,1,2020-10-01,SAS,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,SAS,Hybrid,Vans,0
+2020,10,1,2020-10-01,BC,Gas,Passenger cars,6667
+2020,10,1,2020-10-01,BC,Gas,Pickup trucks,8115
+2020,10,1,2020-10-01,BC,Gas,Vans,2518
+2020,10,1,2020-10-01,BC,Diesel,Passenger cars,0
+2020,10,1,2020-10-01,BC,Diesel,Pickup trucks,3117
+2020,10,1,2020-10-01,BC,Diesel,Vans,250
+2020,10,1,2020-10-01,BC,Electric,Passenger cars,2233
+2020,10,1,2020-10-01,BC,Electric,Pickup trucks,0
+2020,10,1,2020-10-01,BC,Electric,Vans,0
+2020,10,1,2020-10-01,BC,Hybrid,Passenger cars,573
+2020,10,1,2020-10-01,BC,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,BC,Hybrid,Vans,0
+2020,10,1,2020-10-01,BC,Hybrid,Passenger cars,326
+2020,10,1,2020-10-01,BC,Hybrid,Pickup trucks,0
+2020,10,1,2020-10-01,BC,Hybrid,Vans,21
+2021,1,1,2021-01-01,CAN,Gas,Passenger cars,53122
+2021,1,1,2021-01-01,CAN,Gas,Pickup trucks,73215
+2021,1,1,2021-01-01,CAN,Gas,Vans,14756
+2021,1,1,2021-01-01,CAN,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,CAN,Diesel,Pickup trucks,16156
+2021,1,1,2021-01-01,CAN,Diesel,Vans,1433
+2021,1,1,2021-01-01,CAN,Electric,Passenger cars,5840
+2021,1,1,2021-01-01,CAN,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,CAN,Electric,Vans,0
+2021,1,1,2021-01-01,CAN,Hybrid,Passenger cars,3126
+2021,1,1,2021-01-01,CAN,Hybrid,Pickup trucks,1100
+2021,1,1,2021-01-01,CAN,Hybrid,Vans,1677
+2021,1,1,2021-01-01,CAN,Hybrid,Passenger cars,1351
+2021,1,1,2021-01-01,CAN,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,CAN,Hybrid,Vans,288
+2021,1,1,2021-01-01,PEI,Gas,Passenger cars,266
+2021,1,1,2021-01-01,PEI,Gas,Pickup trucks,380
+2021,1,1,2021-01-01,PEI,Gas,Vans,63
+2021,1,1,2021-01-01,PEI,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,PEI,Diesel,Pickup trucks,68
+2021,1,1,2021-01-01,PEI,Diesel,Vans,0
+2021,1,1,2021-01-01,PEI,Electric,Passenger cars,6
+2021,1,1,2021-01-01,PEI,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,PEI,Electric,Vans,0
+2021,1,1,2021-01-01,PEI,Hybrid,Passenger cars,10
+2021,1,1,2021-01-01,PEI,Hybrid,Pickup trucks,5
+2021,1,1,2021-01-01,PEI,Hybrid,Vans,5
+2021,1,1,2021-01-01,PEI,Hybrid,Passenger cars,2
+2021,1,1,2021-01-01,PEI,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,PEI,Hybrid,Vans,1
+2021,1,1,2021-01-01,NB,Gas,Passenger cars,1223
+2021,1,1,2021-01-01,NB,Gas,Pickup trucks,1730
+2021,1,1,2021-01-01,NB,Gas,Vans,196
+2021,1,1,2021-01-01,NB,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,NB,Diesel,Pickup trucks,274
+2021,1,1,2021-01-01,NB,Diesel,Vans,3
+2021,1,1,2021-01-01,NB,Electric,Passenger cars,19
+2021,1,1,2021-01-01,NB,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,NB,Electric,Vans,0
+2021,1,1,2021-01-01,NB,Hybrid,Passenger cars,54
+2021,1,1,2021-01-01,NB,Hybrid,Pickup trucks,30
+2021,1,1,2021-01-01,NB,Hybrid,Vans,22
+2021,1,1,2021-01-01,NB,Hybrid,Passenger cars,7
+2021,1,1,2021-01-01,NB,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,NB,Hybrid,Vans,1
+2021,1,1,2021-01-01,QUE,Gas,Passenger cars,13350
+2021,1,1,2021-01-01,QUE,Gas,Pickup trucks,13373
+2021,1,1,2021-01-01,QUE,Gas,Vans,2830
+2021,1,1,2021-01-01,QUE,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,QUE,Diesel,Pickup trucks,3116
+2021,1,1,2021-01-01,QUE,Diesel,Vans,474
+2021,1,1,2021-01-01,QUE,Electric,Passenger cars,2414
+2021,1,1,2021-01-01,QUE,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,QUE,Electric,Vans,0
+2021,1,1,2021-01-01,QUE,Hybrid,Passenger cars,577
+2021,1,1,2021-01-01,QUE,Hybrid,Pickup trucks,207
+2021,1,1,2021-01-01,QUE,Hybrid,Vans,341
+2021,1,1,2021-01-01,QUE,Hybrid,Passenger cars,758
+2021,1,1,2021-01-01,QUE,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,QUE,Hybrid,Vans,123
+2021,1,1,2021-01-01,ON,Gas,Passenger cars,22230
+2021,1,1,2021-01-01,ON,Gas,Pickup trucks,26718
+2021,1,1,2021-01-01,ON,Gas,Vans,6332
+2021,1,1,2021-01-01,ON,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,ON,Diesel,Pickup trucks,4172
+2021,1,1,2021-01-01,ON,Diesel,Vans,586
+2021,1,1,2021-01-01,ON,Electric,Passenger cars,989
+2021,1,1,2021-01-01,ON,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,ON,Electric,Vans,0
+2021,1,1,2021-01-01,ON,Hybrid,Passenger cars,1277
+2021,1,1,2021-01-01,ON,Hybrid,Pickup trucks,468
+2021,1,1,2021-01-01,ON,Hybrid,Vans,814
+2021,1,1,2021-01-01,ON,Hybrid,Passenger cars,182
+2021,1,1,2021-01-01,ON,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,ON,Hybrid,Vans,67
+2021,1,1,2021-01-01,MB,Gas,Passenger cars,1537
+2021,1,1,2021-01-01,MB,Gas,Pickup trucks,2865
+2021,1,1,2021-01-01,MB,Gas,Vans,632
+2021,1,1,2021-01-01,MB,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,MB,Diesel,Pickup trucks,387
+2021,1,1,2021-01-01,MB,Diesel,Vans,8
+2021,1,1,2021-01-01,MB,Electric,Passenger cars,29
+2021,1,1,2021-01-01,MB,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,MB,Electric,Vans,0
+2021,1,1,2021-01-01,MB,Hybrid,Passenger cars,62
+2021,1,1,2021-01-01,MB,Hybrid,Pickup trucks,24
+2021,1,1,2021-01-01,MB,Hybrid,Vans,40
+2021,1,1,2021-01-01,MB,Hybrid,Passenger cars,10
+2021,1,1,2021-01-01,MB,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,MB,Hybrid,Vans,1
+2021,1,1,2021-01-01,SAS,Gas,Passenger cars,1049
+2021,1,1,2021-01-01,SAS,Gas,Pickup trucks,3282
+2021,1,1,2021-01-01,SAS,Gas,Vans,431
+2021,1,1,2021-01-01,SAS,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,SAS,Diesel,Pickup trucks,961
+2021,1,1,2021-01-01,SAS,Diesel,Vans,4
+2021,1,1,2021-01-01,SAS,Electric,Passenger cars,31
+2021,1,1,2021-01-01,SAS,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,SAS,Electric,Vans,0
+2021,1,1,2021-01-01,SAS,Hybrid,Passenger cars,39
+2021,1,1,2021-01-01,SAS,Hybrid,Pickup trucks,31
+2021,1,1,2021-01-01,SAS,Hybrid,Vans,20
+2021,1,1,2021-01-01,SAS,Hybrid,Passenger cars,8
+2021,1,1,2021-01-01,SAS,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,SAS,Hybrid,Vans,3
+2021,1,1,2021-01-01,BC,Gas,Passenger cars,6680
+2021,1,1,2021-01-01,BC,Gas,Pickup trucks,8129
+2021,1,1,2021-01-01,BC,Gas,Vans,1897
+2021,1,1,2021-01-01,BC,Diesel,Passenger cars,0
+2021,1,1,2021-01-01,BC,Diesel,Pickup trucks,2892
+2021,1,1,2021-01-01,BC,Diesel,Vans,250
+2021,1,1,2021-01-01,BC,Electric,Passenger cars,2194
+2021,1,1,2021-01-01,BC,Electric,Pickup trucks,0
+2021,1,1,2021-01-01,BC,Electric,Vans,0
+2021,1,1,2021-01-01,BC,Hybrid,Passenger cars,792
+2021,1,1,2021-01-01,BC,Hybrid,Pickup trucks,114
+2021,1,1,2021-01-01,BC,Hybrid,Vans,242
+2021,1,1,2021-01-01,BC,Hybrid,Passenger cars,323
+2021,1,1,2021-01-01,BC,Hybrid,Pickup trucks,0
+2021,1,1,2021-01-01,BC,Hybrid,Vans,85
+2021,4,1,2021-04-01,CAN,Gas,Passenger cars,86472
+2021,4,1,2021-04-01,CAN,Gas,Pickup trucks,73009
+2021,4,1,2021-04-01,CAN,Gas,Vans,15941
+2021,4,1,2021-04-01,CAN,Diesel,Passenger cars,1
+2021,4,1,2021-04-01,CAN,Diesel,Pickup trucks,18217
+2021,4,1,2021-04-01,CAN,Diesel,Vans,876
+2021,4,1,2021-04-01,CAN,Electric,Passenger cars,7755
+2021,4,1,2021-04-01,CAN,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,CAN,Electric,Vans,0
+2021,4,1,2021-04-01,CAN,Hybrid,Passenger cars,5500
+2021,4,1,2021-04-01,CAN,Hybrid,Pickup trucks,1474
+2021,4,1,2021-04-01,CAN,Hybrid,Vans,3122
+2021,4,1,2021-04-01,CAN,Hybrid,Passenger cars,2387
+2021,4,1,2021-04-01,CAN,Hybrid,Pickup trucks,1
+2021,4,1,2021-04-01,CAN,Hybrid,Vans,345
+2021,4,1,2021-04-01,PEI,Gas,Passenger cars,445
+2021,4,1,2021-04-01,PEI,Gas,Pickup trucks,586
+2021,4,1,2021-04-01,PEI,Gas,Vans,107
+2021,4,1,2021-04-01,PEI,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,PEI,Diesel,Pickup trucks,100
+2021,4,1,2021-04-01,PEI,Diesel,Vans,0
+2021,4,1,2021-04-01,PEI,Electric,Passenger cars,2
+2021,4,1,2021-04-01,PEI,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,PEI,Electric,Vans,0
+2021,4,1,2021-04-01,PEI,Hybrid,Passenger cars,9
+2021,4,1,2021-04-01,PEI,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,PEI,Hybrid,Vans,0
+2021,4,1,2021-04-01,PEI,Hybrid,Passenger cars,19
+2021,4,1,2021-04-01,PEI,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,PEI,Hybrid,Vans,0
+2021,4,1,2021-04-01,NB,Gas,Passenger cars,1976
+2021,4,1,2021-04-01,NB,Gas,Pickup trucks,2137
+2021,4,1,2021-04-01,NB,Gas,Vans,217
+2021,4,1,2021-04-01,NB,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,NB,Diesel,Pickup trucks,320
+2021,4,1,2021-04-01,NB,Diesel,Vans,6
+2021,4,1,2021-04-01,NB,Electric,Passenger cars,20
+2021,4,1,2021-04-01,NB,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,NB,Electric,Vans,0
+2021,4,1,2021-04-01,NB,Hybrid,Passenger cars,97
+2021,4,1,2021-04-01,NB,Hybrid,Pickup trucks,51
+2021,4,1,2021-04-01,NB,Hybrid,Vans,32
+2021,4,1,2021-04-01,NB,Hybrid,Passenger cars,19
+2021,4,1,2021-04-01,NB,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,NB,Hybrid,Vans,1
+2021,4,1,2021-04-01,QUE,Gas,Passenger cars,25658
+2021,4,1,2021-04-01,QUE,Gas,Pickup trucks,14156
+2021,4,1,2021-04-01,QUE,Gas,Vans,4116
+2021,4,1,2021-04-01,QUE,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,QUE,Diesel,Pickup trucks,3878
+2021,4,1,2021-04-01,QUE,Diesel,Vans,304
+2021,4,1,2021-04-01,QUE,Electric,Passenger cars,3624
+2021,4,1,2021-04-01,QUE,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,QUE,Electric,Vans,0
+2021,4,1,2021-04-01,QUE,Hybrid,Passenger cars,1193
+2021,4,1,2021-04-01,QUE,Hybrid,Pickup trucks,267
+2021,4,1,2021-04-01,QUE,Hybrid,Vans,641
+2021,4,1,2021-04-01,QUE,Hybrid,Passenger cars,1563
+2021,4,1,2021-04-01,QUE,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,QUE,Hybrid,Vans,211
+2021,4,1,2021-04-01,ON,Gas,Passenger cars,34676
+2021,4,1,2021-04-01,ON,Gas,Pickup trucks,25458
+2021,4,1,2021-04-01,ON,Gas,Vans,6293
+2021,4,1,2021-04-01,ON,Diesel,Passenger cars,1
+2021,4,1,2021-04-01,ON,Diesel,Pickup trucks,4647
+2021,4,1,2021-04-01,ON,Diesel,Vans,341
+2021,4,1,2021-04-01,ON,Electric,Passenger cars,1648
+2021,4,1,2021-04-01,ON,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,ON,Electric,Vans,0
+2021,4,1,2021-04-01,ON,Hybrid,Passenger cars,2150
+2021,4,1,2021-04-01,ON,Hybrid,Pickup trucks,546
+2021,4,1,2021-04-01,ON,Hybrid,Vans,1608
+2021,4,1,2021-04-01,ON,Hybrid,Passenger cars,267
+2021,4,1,2021-04-01,ON,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,ON,Hybrid,Vans,56
+2021,4,1,2021-04-01,MB,Gas,Passenger cars,1950
+2021,4,1,2021-04-01,MB,Gas,Pickup trucks,2913
+2021,4,1,2021-04-01,MB,Gas,Vans,484
+2021,4,1,2021-04-01,MB,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,MB,Diesel,Pickup trucks,406
+2021,4,1,2021-04-01,MB,Diesel,Vans,27
+2021,4,1,2021-04-01,MB,Electric,Passenger cars,32
+2021,4,1,2021-04-01,MB,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,MB,Electric,Vans,0
+2021,4,1,2021-04-01,MB,Hybrid,Passenger cars,100
+2021,4,1,2021-04-01,MB,Hybrid,Pickup trucks,35
+2021,4,1,2021-04-01,MB,Hybrid,Vans,71
+2021,4,1,2021-04-01,MB,Hybrid,Passenger cars,9
+2021,4,1,2021-04-01,MB,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,MB,Hybrid,Vans,3
+2021,4,1,2021-04-01,SAS,Gas,Passenger cars,1340
+2021,4,1,2021-04-01,SAS,Gas,Pickup trucks,3222
+2021,4,1,2021-04-01,SAS,Gas,Vans,352
+2021,4,1,2021-04-01,SAS,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,SAS,Diesel,Pickup trucks,1012
+2021,4,1,2021-04-01,SAS,Diesel,Vans,4
+2021,4,1,2021-04-01,SAS,Electric,Passenger cars,35
+2021,4,1,2021-04-01,SAS,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,SAS,Electric,Vans,0
+2021,4,1,2021-04-01,SAS,Hybrid,Passenger cars,75
+2021,4,1,2021-04-01,SAS,Hybrid,Pickup trucks,65
+2021,4,1,2021-04-01,SAS,Hybrid,Vans,45
+2021,4,1,2021-04-01,SAS,Hybrid,Passenger cars,12
+2021,4,1,2021-04-01,SAS,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,SAS,Hybrid,Vans,3
+2021,4,1,2021-04-01,BC,Gas,Passenger cars,9487
+2021,4,1,2021-04-01,BC,Gas,Pickup trucks,8693
+2021,4,1,2021-04-01,BC,Gas,Vans,2131
+2021,4,1,2021-04-01,BC,Diesel,Passenger cars,0
+2021,4,1,2021-04-01,BC,Diesel,Pickup trucks,3220
+2021,4,1,2021-04-01,BC,Diesel,Vans,93
+2021,4,1,2021-04-01,BC,Electric,Passenger cars,2146
+2021,4,1,2021-04-01,BC,Electric,Pickup trucks,0
+2021,4,1,2021-04-01,BC,Electric,Vans,0
+2021,4,1,2021-04-01,BC,Hybrid,Passenger cars,1377
+2021,4,1,2021-04-01,BC,Hybrid,Pickup trucks,132
+2021,4,1,2021-04-01,BC,Hybrid,Vans,355
+2021,4,1,2021-04-01,BC,Hybrid,Passenger cars,411
+2021,4,1,2021-04-01,BC,Hybrid,Pickup trucks,0
+2021,4,1,2021-04-01,BC,Hybrid,Vans,60
+2021,7,1,2021-07-01,CAN,Gas,Passenger cars,79884
+2021,7,1,2021-07-01,CAN,Gas,Pickup trucks,64483
+2021,7,1,2021-07-01,CAN,Gas,Vans,13186
+2021,7,1,2021-07-01,CAN,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,CAN,Diesel,Pickup trucks,11982
+2021,7,1,2021-07-01,CAN,Diesel,Vans,1438
+2021,7,1,2021-07-01,CAN,Electric,Passenger cars,8005
+2021,7,1,2021-07-01,CAN,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,CAN,Electric,Vans,0
+2021,7,1,2021-07-01,CAN,Hybrid,Passenger cars,5809
+2021,7,1,2021-07-01,CAN,Hybrid,Pickup trucks,1898
+2021,7,1,2021-07-01,CAN,Hybrid,Vans,3302
+2021,7,1,2021-07-01,CAN,Hybrid,Passenger cars,2934
+2021,7,1,2021-07-01,CAN,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,CAN,Hybrid,Vans,452
+2021,7,1,2021-07-01,PEI,Gas,Passenger cars,478
+2021,7,1,2021-07-01,PEI,Gas,Pickup trucks,330
+2021,7,1,2021-07-01,PEI,Gas,Vans,38
+2021,7,1,2021-07-01,PEI,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,PEI,Diesel,Pickup trucks,72
+2021,7,1,2021-07-01,PEI,Diesel,Vans,0
+2021,7,1,2021-07-01,PEI,Electric,Passenger cars,29
+2021,7,1,2021-07-01,PEI,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,PEI,Electric,Vans,0
+2021,7,1,2021-07-01,PEI,Hybrid,Passenger cars,21
+2021,7,1,2021-07-01,PEI,Hybrid,Pickup trucks,13
+2021,7,1,2021-07-01,PEI,Hybrid,Vans,15
+2021,7,1,2021-07-01,PEI,Hybrid,Passenger cars,8
+2021,7,1,2021-07-01,PEI,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,PEI,Hybrid,Vans,0
+2021,7,1,2021-07-01,NB,Gas,Passenger cars,1726
+2021,7,1,2021-07-01,NB,Gas,Pickup trucks,1782
+2021,7,1,2021-07-01,NB,Gas,Vans,161
+2021,7,1,2021-07-01,NB,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,NB,Diesel,Pickup trucks,227
+2021,7,1,2021-07-01,NB,Diesel,Vans,14
+2021,7,1,2021-07-01,NB,Electric,Passenger cars,51
+2021,7,1,2021-07-01,NB,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,NB,Electric,Vans,0
+2021,7,1,2021-07-01,NB,Hybrid,Passenger cars,86
+2021,7,1,2021-07-01,NB,Hybrid,Pickup trucks,42
+2021,7,1,2021-07-01,NB,Hybrid,Vans,42
+2021,7,1,2021-07-01,NB,Hybrid,Passenger cars,19
+2021,7,1,2021-07-01,NB,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,NB,Hybrid,Vans,1
+2021,7,1,2021-07-01,QUE,Gas,Passenger cars,21555
+2021,7,1,2021-07-01,QUE,Gas,Pickup trucks,11850
+2021,7,1,2021-07-01,QUE,Gas,Vans,3026
+2021,7,1,2021-07-01,QUE,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,QUE,Diesel,Pickup trucks,2464
+2021,7,1,2021-07-01,QUE,Diesel,Vans,304
+2021,7,1,2021-07-01,QUE,Electric,Passenger cars,2989
+2021,7,1,2021-07-01,QUE,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,QUE,Electric,Vans,0
+2021,7,1,2021-07-01,QUE,Hybrid,Passenger cars,1086
+2021,7,1,2021-07-01,QUE,Hybrid,Pickup trucks,361
+2021,7,1,2021-07-01,QUE,Hybrid,Vans,722
+2021,7,1,2021-07-01,QUE,Hybrid,Passenger cars,1766
+2021,7,1,2021-07-01,QUE,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,QUE,Hybrid,Vans,209
+2021,7,1,2021-07-01,ON,Gas,Passenger cars,34889
+2021,7,1,2021-07-01,ON,Gas,Pickup trucks,24278
+2021,7,1,2021-07-01,ON,Gas,Vans,5345
+2021,7,1,2021-07-01,ON,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,ON,Diesel,Pickup trucks,3059
+2021,7,1,2021-07-01,ON,Diesel,Vans,707
+2021,7,1,2021-07-01,ON,Electric,Passenger cars,2019
+2021,7,1,2021-07-01,ON,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,ON,Electric,Vans,0
+2021,7,1,2021-07-01,ON,Hybrid,Passenger cars,2571
+2021,7,1,2021-07-01,ON,Hybrid,Pickup trucks,653
+2021,7,1,2021-07-01,ON,Hybrid,Vans,1533
+2021,7,1,2021-07-01,ON,Hybrid,Passenger cars,382
+2021,7,1,2021-07-01,ON,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,ON,Hybrid,Vans,130
+2021,7,1,2021-07-01,MB,Gas,Passenger cars,1831
+2021,7,1,2021-07-01,MB,Gas,Pickup trucks,2340
+2021,7,1,2021-07-01,MB,Gas,Vans,426
+2021,7,1,2021-07-01,MB,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,MB,Diesel,Pickup trucks,256
+2021,7,1,2021-07-01,MB,Diesel,Vans,11
+2021,7,1,2021-07-01,MB,Electric,Passenger cars,55
+2021,7,1,2021-07-01,MB,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,MB,Electric,Vans,0
+2021,7,1,2021-07-01,MB,Hybrid,Passenger cars,112
+2021,7,1,2021-07-01,MB,Hybrid,Pickup trucks,59
+2021,7,1,2021-07-01,MB,Hybrid,Vans,82
+2021,7,1,2021-07-01,MB,Hybrid,Passenger cars,14
+2021,7,1,2021-07-01,MB,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,MB,Hybrid,Vans,4
+2021,7,1,2021-07-01,SAS,Gas,Passenger cars,1118
+2021,7,1,2021-07-01,SAS,Gas,Pickup trucks,2736
+2021,7,1,2021-07-01,SAS,Gas,Vans,279
+2021,7,1,2021-07-01,SAS,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,SAS,Diesel,Pickup trucks,682
+2021,7,1,2021-07-01,SAS,Diesel,Vans,6
+2021,7,1,2021-07-01,SAS,Electric,Passenger cars,39
+2021,7,1,2021-07-01,SAS,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,SAS,Electric,Vans,0
+2021,7,1,2021-07-01,SAS,Hybrid,Passenger cars,59
+2021,7,1,2021-07-01,SAS,Hybrid,Pickup trucks,66
+2021,7,1,2021-07-01,SAS,Hybrid,Vans,57
+2021,7,1,2021-07-01,SAS,Hybrid,Passenger cars,8
+2021,7,1,2021-07-01,SAS,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,SAS,Hybrid,Vans,12
+2021,7,1,2021-07-01,BC,Gas,Passenger cars,8239
+2021,7,1,2021-07-01,BC,Gas,Pickup trucks,7278
+2021,7,1,2021-07-01,BC,Gas,Vans,1926
+2021,7,1,2021-07-01,BC,Diesel,Passenger cars,0
+2021,7,1,2021-07-01,BC,Diesel,Pickup trucks,2084
+2021,7,1,2021-07-01,BC,Diesel,Vans,302
+2021,7,1,2021-07-01,BC,Electric,Passenger cars,2513
+2021,7,1,2021-07-01,BC,Electric,Pickup trucks,0
+2021,7,1,2021-07-01,BC,Electric,Vans,0
+2021,7,1,2021-07-01,BC,Hybrid,Passenger cars,1248
+2021,7,1,2021-07-01,BC,Hybrid,Pickup trucks,258
+2021,7,1,2021-07-01,BC,Hybrid,Vans,443
+2021,7,1,2021-07-01,BC,Hybrid,Passenger cars,642
+2021,7,1,2021-07-01,BC,Hybrid,Pickup trucks,0
+2021,7,1,2021-07-01,BC,Hybrid,Vans,67
+2021,10,1,2021-10-01,CAN,Gas,Passenger cars,50859
+2021,10,1,2021-10-01,CAN,Gas,Pickup trucks,64045
+2021,10,1,2021-10-01,CAN,Gas,Vans,8214
+2021,10,1,2021-10-01,CAN,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,CAN,Diesel,Pickup trucks,11543
+2021,10,1,2021-10-01,CAN,Diesel,Vans,1132
+2021,10,1,2021-10-01,CAN,Electric,Passenger cars,6454
+2021,10,1,2021-10-01,CAN,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,CAN,Electric,Vans,0
+2021,10,1,2021-10-01,CAN,Hybrid,Passenger cars,2911
+2021,10,1,2021-10-01,CAN,Hybrid,Pickup trucks,1985
+2021,10,1,2021-10-01,CAN,Hybrid,Vans,2402
+2021,10,1,2021-10-01,CAN,Hybrid,Passenger cars,1515
+2021,10,1,2021-10-01,CAN,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,CAN,Hybrid,Vans,121
+2021,10,1,2021-10-01,PEI,Gas,Passenger cars,211
+2021,10,1,2021-10-01,PEI,Gas,Pickup trucks,314
+2021,10,1,2021-10-01,PEI,Gas,Vans,16
+2021,10,1,2021-10-01,PEI,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,PEI,Diesel,Pickup trucks,60
+2021,10,1,2021-10-01,PEI,Diesel,Vans,4
+2021,10,1,2021-10-01,PEI,Electric,Passenger cars,5
+2021,10,1,2021-10-01,PEI,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,PEI,Electric,Vans,0
+2021,10,1,2021-10-01,PEI,Hybrid,Passenger cars,6
+2021,10,1,2021-10-01,PEI,Hybrid,Pickup trucks,3
+2021,10,1,2021-10-01,PEI,Hybrid,Vans,12
+2021,10,1,2021-10-01,PEI,Hybrid,Passenger cars,2
+2021,10,1,2021-10-01,PEI,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,PEI,Hybrid,Vans,0
+2021,10,1,2021-10-01,NB,Gas,Passenger cars,1200
+2021,10,1,2021-10-01,NB,Gas,Pickup trucks,1741
+2021,10,1,2021-10-01,NB,Gas,Vans,104
+2021,10,1,2021-10-01,NB,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,NB,Diesel,Pickup trucks,209
+2021,10,1,2021-10-01,NB,Diesel,Vans,22
+2021,10,1,2021-10-01,NB,Electric,Passenger cars,18
+2021,10,1,2021-10-01,NB,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,NB,Electric,Vans,0
+2021,10,1,2021-10-01,NB,Hybrid,Passenger cars,43
+2021,10,1,2021-10-01,NB,Hybrid,Pickup trucks,49
+2021,10,1,2021-10-01,NB,Hybrid,Vans,29
+2021,10,1,2021-10-01,NB,Hybrid,Passenger cars,10
+2021,10,1,2021-10-01,NB,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,NB,Hybrid,Vans,0
+2021,10,1,2021-10-01,QUE,Gas,Passenger cars,14287
+2021,10,1,2021-10-01,QUE,Gas,Pickup trucks,12852
+2021,10,1,2021-10-01,QUE,Gas,Vans,2319
+2021,10,1,2021-10-01,QUE,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,QUE,Diesel,Pickup trucks,2479
+2021,10,1,2021-10-01,QUE,Diesel,Vans,423
+2021,10,1,2021-10-01,QUE,Electric,Passenger cars,1736
+2021,10,1,2021-10-01,QUE,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,QUE,Electric,Vans,0
+2021,10,1,2021-10-01,QUE,Hybrid,Passenger cars,598
+2021,10,1,2021-10-01,QUE,Hybrid,Pickup trucks,418
+2021,10,1,2021-10-01,QUE,Hybrid,Vans,531
+2021,10,1,2021-10-01,QUE,Hybrid,Passenger cars,850
+2021,10,1,2021-10-01,QUE,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,QUE,Hybrid,Vans,56
+2021,10,1,2021-10-01,ON,Gas,Passenger cars,21873
+2021,10,1,2021-10-01,ON,Gas,Pickup trucks,24044
+2021,10,1,2021-10-01,ON,Gas,Vans,2612
+2021,10,1,2021-10-01,ON,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,ON,Diesel,Pickup trucks,3190
+2021,10,1,2021-10-01,ON,Diesel,Vans,463
+2021,10,1,2021-10-01,ON,Electric,Passenger cars,2350
+2021,10,1,2021-10-01,ON,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,ON,Electric,Vans,0
+2021,10,1,2021-10-01,ON,Hybrid,Passenger cars,1131
+2021,10,1,2021-10-01,ON,Hybrid,Pickup trucks,661
+2021,10,1,2021-10-01,ON,Hybrid,Vans,1074
+2021,10,1,2021-10-01,ON,Hybrid,Passenger cars,198
+2021,10,1,2021-10-01,ON,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,ON,Hybrid,Vans,28
+2021,10,1,2021-10-01,MB,Gas,Passenger cars,1210
+2021,10,1,2021-10-01,MB,Gas,Pickup trucks,2440
+2021,10,1,2021-10-01,MB,Gas,Vans,330
+2021,10,1,2021-10-01,MB,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,MB,Diesel,Pickup trucks,300
+2021,10,1,2021-10-01,MB,Diesel,Vans,12
+2021,10,1,2021-10-01,MB,Electric,Passenger cars,51
+2021,10,1,2021-10-01,MB,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,MB,Electric,Vans,0
+2021,10,1,2021-10-01,MB,Hybrid,Passenger cars,63
+2021,10,1,2021-10-01,MB,Hybrid,Pickup trucks,74
+2021,10,1,2021-10-01,MB,Hybrid,Vans,56
+2021,10,1,2021-10-01,MB,Hybrid,Passenger cars,18
+2021,10,1,2021-10-01,MB,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,MB,Hybrid,Vans,5
+2021,10,1,2021-10-01,SAS,Gas,Passenger cars,734
+2021,10,1,2021-10-01,SAS,Gas,Pickup trucks,2826
+2021,10,1,2021-10-01,SAS,Gas,Vans,163
+2021,10,1,2021-10-01,SAS,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,SAS,Diesel,Pickup trucks,735
+2021,10,1,2021-10-01,SAS,Diesel,Vans,4
+2021,10,1,2021-10-01,SAS,Electric,Passenger cars,42
+2021,10,1,2021-10-01,SAS,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,SAS,Electric,Vans,0
+2021,10,1,2021-10-01,SAS,Hybrid,Passenger cars,42
+2021,10,1,2021-10-01,SAS,Hybrid,Pickup trucks,60
+2021,10,1,2021-10-01,SAS,Hybrid,Vans,36
+2021,10,1,2021-10-01,SAS,Hybrid,Passenger cars,11
+2021,10,1,2021-10-01,SAS,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,SAS,Hybrid,Vans,2
+2021,10,1,2021-10-01,BC,Gas,Passenger cars,5335
+2021,10,1,2021-10-01,BC,Gas,Pickup trucks,6456
+2021,10,1,2021-10-01,BC,Gas,Vans,1351
+2021,10,1,2021-10-01,BC,Diesel,Passenger cars,0
+2021,10,1,2021-10-01,BC,Diesel,Pickup trucks,1630
+2021,10,1,2021-10-01,BC,Diesel,Vans,117
+2021,10,1,2021-10-01,BC,Electric,Passenger cars,1913
+2021,10,1,2021-10-01,BC,Electric,Pickup trucks,0
+2021,10,1,2021-10-01,BC,Electric,Vans,0
+2021,10,1,2021-10-01,BC,Hybrid,Passenger cars,736
+2021,10,1,2021-10-01,BC,Hybrid,Pickup trucks,261
+2021,10,1,2021-10-01,BC,Hybrid,Vans,350
+2021,10,1,2021-10-01,BC,Hybrid,Passenger cars,358
+2021,10,1,2021-10-01,BC,Hybrid,Pickup trucks,0
+2021,10,1,2021-10-01,BC,Hybrid,Vans,15
+2022,1,1,2022-01-01,CAN,Gas,Passenger cars,43544
+2022,1,1,2022-01-01,CAN,Gas,Pickup trucks,60604
+2022,1,1,2022-01-01,CAN,Gas,Vans,8299
+2022,1,1,2022-01-01,CAN,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,CAN,Diesel,Pickup trucks,13487
+2022,1,1,2022-01-01,CAN,Diesel,Vans,1609
+2022,1,1,2022-01-01,CAN,Electric,Passenger cars,9396
+2022,1,1,2022-01-01,CAN,Electric,Pickup trucks,1
+2022,1,1,2022-01-01,CAN,Electric,Vans,69
+2022,1,1,2022-01-01,CAN,Hybrid,Passenger cars,4013
+2022,1,1,2022-01-01,CAN,Hybrid,Pickup trucks,1491
+2022,1,1,2022-01-01,CAN,Hybrid,Vans,1931
+2022,1,1,2022-01-01,CAN,Hybrid,Passenger cars,938
+2022,1,1,2022-01-01,CAN,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,CAN,Hybrid,Vans,937
+2022,1,1,2022-01-01,PEI,Gas,Passenger cars,120
+2022,1,1,2022-01-01,PEI,Gas,Pickup trucks,228
+2022,1,1,2022-01-01,PEI,Gas,Vans,23
+2022,1,1,2022-01-01,PEI,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,PEI,Diesel,Pickup trucks,54
+2022,1,1,2022-01-01,PEI,Diesel,Vans,5
+2022,1,1,2022-01-01,PEI,Electric,Passenger cars,10
+2022,1,1,2022-01-01,PEI,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,PEI,Electric,Vans,0
+2022,1,1,2022-01-01,PEI,Hybrid,Passenger cars,10
+2022,1,1,2022-01-01,PEI,Hybrid,Pickup trucks,8
+2022,1,1,2022-01-01,PEI,Hybrid,Vans,9
+2022,1,1,2022-01-01,PEI,Hybrid,Passenger cars,4
+2022,1,1,2022-01-01,PEI,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,PEI,Hybrid,Vans,3
+2022,1,1,2022-01-01,NB,Gas,Passenger cars,859
+2022,1,1,2022-01-01,NB,Gas,Pickup trucks,1553
+2022,1,1,2022-01-01,NB,Gas,Vans,138
+2022,1,1,2022-01-01,NB,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,NB,Diesel,Pickup trucks,263
+2022,1,1,2022-01-01,NB,Diesel,Vans,14
+2022,1,1,2022-01-01,NB,Electric,Passenger cars,35
+2022,1,1,2022-01-01,NB,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,NB,Electric,Vans,2
+2022,1,1,2022-01-01,NB,Hybrid,Passenger cars,38
+2022,1,1,2022-01-01,NB,Hybrid,Pickup trucks,36
+2022,1,1,2022-01-01,NB,Hybrid,Vans,21
+2022,1,1,2022-01-01,NB,Hybrid,Passenger cars,17
+2022,1,1,2022-01-01,NB,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,NB,Hybrid,Vans,18
+2022,1,1,2022-01-01,QUE,Gas,Passenger cars,11238
+2022,1,1,2022-01-01,QUE,Gas,Pickup trucks,10745
+2022,1,1,2022-01-01,QUE,Gas,Vans,1834
+2022,1,1,2022-01-01,QUE,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,QUE,Diesel,Pickup trucks,2645
+2022,1,1,2022-01-01,QUE,Diesel,Vans,406
+2022,1,1,2022-01-01,QUE,Electric,Passenger cars,3086
+2022,1,1,2022-01-01,QUE,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,QUE,Electric,Vans,53
+2022,1,1,2022-01-01,QUE,Hybrid,Passenger cars,736
+2022,1,1,2022-01-01,QUE,Hybrid,Pickup trucks,314
+2022,1,1,2022-01-01,QUE,Hybrid,Vans,354
+2022,1,1,2022-01-01,QUE,Hybrid,Passenger cars,499
+2022,1,1,2022-01-01,QUE,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,QUE,Hybrid,Vans,421
+2022,1,1,2022-01-01,ON,Gas,Passenger cars,19239
+2022,1,1,2022-01-01,ON,Gas,Pickup trucks,21802
+2022,1,1,2022-01-01,ON,Gas,Vans,3672
+2022,1,1,2022-01-01,ON,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,ON,Diesel,Pickup trucks,3857
+2022,1,1,2022-01-01,ON,Diesel,Vans,737
+2022,1,1,2022-01-01,ON,Electric,Passenger cars,2870
+2022,1,1,2022-01-01,ON,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,ON,Electric,Vans,4
+2022,1,1,2022-01-01,ON,Hybrid,Passenger cars,1845
+2022,1,1,2022-01-01,ON,Hybrid,Pickup trucks,561
+2022,1,1,2022-01-01,ON,Hybrid,Vans,885
+2022,1,1,2022-01-01,ON,Hybrid,Passenger cars,151
+2022,1,1,2022-01-01,ON,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,ON,Hybrid,Vans,241
+2022,1,1,2022-01-01,MB,Gas,Passenger cars,898
+2022,1,1,2022-01-01,MB,Gas,Pickup trucks,2244
+2022,1,1,2022-01-01,MB,Gas,Vans,208
+2022,1,1,2022-01-01,MB,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,MB,Diesel,Pickup trucks,256
+2022,1,1,2022-01-01,MB,Diesel,Vans,13
+2022,1,1,2022-01-01,MB,Electric,Passenger cars,49
+2022,1,1,2022-01-01,MB,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,MB,Electric,Vans,0
+2022,1,1,2022-01-01,MB,Hybrid,Passenger cars,73
+2022,1,1,2022-01-01,MB,Hybrid,Pickup trucks,37
+2022,1,1,2022-01-01,MB,Hybrid,Vans,37
+2022,1,1,2022-01-01,MB,Hybrid,Passenger cars,6
+2022,1,1,2022-01-01,MB,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,MB,Hybrid,Vans,11
+2022,1,1,2022-01-01,SAS,Gas,Passenger cars,614
+2022,1,1,2022-01-01,SAS,Gas,Pickup trucks,2587
+2022,1,1,2022-01-01,SAS,Gas,Vans,193
+2022,1,1,2022-01-01,SAS,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,SAS,Diesel,Pickup trucks,655
+2022,1,1,2022-01-01,SAS,Diesel,Vans,19
+2022,1,1,2022-01-01,SAS,Electric,Passenger cars,33
+2022,1,1,2022-01-01,SAS,Electric,Pickup trucks,0
+2022,1,1,2022-01-01,SAS,Electric,Vans,1
+2022,1,1,2022-01-01,SAS,Hybrid,Passenger cars,39
+2022,1,1,2022-01-01,SAS,Hybrid,Pickup trucks,53
+2022,1,1,2022-01-01,SAS,Hybrid,Vans,46
+2022,1,1,2022-01-01,SAS,Hybrid,Passenger cars,7
+2022,1,1,2022-01-01,SAS,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,SAS,Hybrid,Vans,17
+2022,1,1,2022-01-01,BC,Gas,Passenger cars,5230
+2022,1,1,2022-01-01,BC,Gas,Pickup trucks,7169
+2022,1,1,2022-01-01,BC,Gas,Vans,1023
+2022,1,1,2022-01-01,BC,Diesel,Passenger cars,0
+2022,1,1,2022-01-01,BC,Diesel,Pickup trucks,2063
+2022,1,1,2022-01-01,BC,Diesel,Vans,261
+2022,1,1,2022-01-01,BC,Electric,Passenger cars,2952
+2022,1,1,2022-01-01,BC,Electric,Pickup trucks,1
+2022,1,1,2022-01-01,BC,Electric,Vans,8
+2022,1,1,2022-01-01,BC,Hybrid,Passenger cars,961
+2022,1,1,2022-01-01,BC,Hybrid,Pickup trucks,169
+2022,1,1,2022-01-01,BC,Hybrid,Vans,327
+2022,1,1,2022-01-01,BC,Hybrid,Passenger cars,204
+2022,1,1,2022-01-01,BC,Hybrid,Pickup trucks,0
+2022,1,1,2022-01-01,BC,Hybrid,Vans,169
+2022,4,1,2022-04-01,CAN,Gas,Passenger cars,63451
+2022,4,1,2022-04-01,CAN,Gas,Pickup trucks,72731
+2022,4,1,2022-04-01,CAN,Gas,Vans,10441
+2022,4,1,2022-04-01,CAN,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,CAN,Diesel,Pickup trucks,21017
+2022,4,1,2022-04-01,CAN,Diesel,Vans,1098
+2022,4,1,2022-04-01,CAN,Electric,Passenger cars,8438
+2022,4,1,2022-04-01,CAN,Electric,Pickup trucks,155
+2022,4,1,2022-04-01,CAN,Electric,Vans,302
+2022,4,1,2022-04-01,CAN,Hybrid,Passenger cars,5132
+2022,4,1,2022-04-01,CAN,Hybrid,Pickup trucks,4145
+2022,4,1,2022-04-01,CAN,Hybrid,Vans,1823
+2022,4,1,2022-04-01,CAN,Hybrid,Passenger cars,1237
+2022,4,1,2022-04-01,CAN,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,CAN,Hybrid,Vans,597
+2022,4,1,2022-04-01,PEI,Gas,Passenger cars,300
+2022,4,1,2022-04-01,PEI,Gas,Pickup trucks,299
+2022,4,1,2022-04-01,PEI,Gas,Vans,37
+2022,4,1,2022-04-01,PEI,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,PEI,Diesel,Pickup trucks,80
+2022,4,1,2022-04-01,PEI,Diesel,Vans,0
+2022,4,1,2022-04-01,PEI,Electric,Passenger cars,10
+2022,4,1,2022-04-01,PEI,Electric,Pickup trucks,1
+2022,4,1,2022-04-01,PEI,Electric,Vans,1
+2022,4,1,2022-04-01,PEI,Hybrid,Passenger cars,17
+2022,4,1,2022-04-01,PEI,Hybrid,Pickup trucks,17
+2022,4,1,2022-04-01,PEI,Hybrid,Vans,5
+2022,4,1,2022-04-01,PEI,Hybrid,Passenger cars,3
+2022,4,1,2022-04-01,PEI,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,PEI,Hybrid,Vans,1
+2022,4,1,2022-04-01,NB,Gas,Passenger cars,1418
+2022,4,1,2022-04-01,NB,Gas,Pickup trucks,2006
+2022,4,1,2022-04-01,NB,Gas,Vans,167
+2022,4,1,2022-04-01,NB,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,NB,Diesel,Pickup trucks,529
+2022,4,1,2022-04-01,NB,Diesel,Vans,6
+2022,4,1,2022-04-01,NB,Electric,Passenger cars,33
+2022,4,1,2022-04-01,NB,Electric,Pickup trucks,3
+2022,4,1,2022-04-01,NB,Electric,Vans,4
+2022,4,1,2022-04-01,NB,Hybrid,Passenger cars,81
+2022,4,1,2022-04-01,NB,Hybrid,Pickup trucks,101
+2022,4,1,2022-04-01,NB,Hybrid,Vans,31
+2022,4,1,2022-04-01,NB,Hybrid,Passenger cars,13
+2022,4,1,2022-04-01,NB,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,NB,Hybrid,Vans,2
+2022,4,1,2022-04-01,QUE,Gas,Passenger cars,17217
+2022,4,1,2022-04-01,QUE,Gas,Pickup trucks,13967
+2022,4,1,2022-04-01,QUE,Gas,Vans,2546
+2022,4,1,2022-04-01,QUE,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,QUE,Diesel,Pickup trucks,4410
+2022,4,1,2022-04-01,QUE,Diesel,Vans,249
+2022,4,1,2022-04-01,QUE,Electric,Passenger cars,2608
+2022,4,1,2022-04-01,QUE,Electric,Pickup trucks,47
+2022,4,1,2022-04-01,QUE,Electric,Vans,189
+2022,4,1,2022-04-01,QUE,Hybrid,Passenger cars,1061
+2022,4,1,2022-04-01,QUE,Hybrid,Pickup trucks,1035
+2022,4,1,2022-04-01,QUE,Hybrid,Vans,382
+2022,4,1,2022-04-01,QUE,Hybrid,Passenger cars,624
+2022,4,1,2022-04-01,QUE,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,QUE,Hybrid,Vans,318
+2022,4,1,2022-04-01,ON,Gas,Passenger cars,27022
+2022,4,1,2022-04-01,ON,Gas,Pickup trucks,27274
+2022,4,1,2022-04-01,ON,Gas,Vans,4164
+2022,4,1,2022-04-01,ON,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,ON,Diesel,Pickup trucks,5965
+2022,4,1,2022-04-01,ON,Diesel,Vans,513
+2022,4,1,2022-04-01,ON,Electric,Passenger cars,2905
+2022,4,1,2022-04-01,ON,Electric,Pickup trucks,59
+2022,4,1,2022-04-01,ON,Electric,Vans,44
+2022,4,1,2022-04-01,ON,Hybrid,Passenger cars,2285
+2022,4,1,2022-04-01,ON,Hybrid,Pickup trucks,1510
+2022,4,1,2022-04-01,ON,Hybrid,Vans,766
+2022,4,1,2022-04-01,ON,Hybrid,Passenger cars,270
+2022,4,1,2022-04-01,ON,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,ON,Hybrid,Vans,117
+2022,4,1,2022-04-01,MB,Gas,Passenger cars,1551
+2022,4,1,2022-04-01,MB,Gas,Pickup trucks,2655
+2022,4,1,2022-04-01,MB,Gas,Vans,288
+2022,4,1,2022-04-01,MB,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,MB,Diesel,Pickup trucks,567
+2022,4,1,2022-04-01,MB,Diesel,Vans,10
+2022,4,1,2022-04-01,MB,Electric,Passenger cars,41
+2022,4,1,2022-04-01,MB,Electric,Pickup trucks,4
+2022,4,1,2022-04-01,MB,Electric,Vans,4
+2022,4,1,2022-04-01,MB,Hybrid,Passenger cars,73
+2022,4,1,2022-04-01,MB,Hybrid,Pickup trucks,94
+2022,4,1,2022-04-01,MB,Hybrid,Vans,51
+2022,4,1,2022-04-01,MB,Hybrid,Passenger cars,8
+2022,4,1,2022-04-01,MB,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,MB,Hybrid,Vans,12
+2022,4,1,2022-04-01,SAS,Gas,Passenger cars,1095
+2022,4,1,2022-04-01,SAS,Gas,Pickup trucks,3463
+2022,4,1,2022-04-01,SAS,Gas,Vans,310
+2022,4,1,2022-04-01,SAS,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,SAS,Diesel,Pickup trucks,1444
+2022,4,1,2022-04-01,SAS,Diesel,Vans,14
+2022,4,1,2022-04-01,SAS,Electric,Passenger cars,53
+2022,4,1,2022-04-01,SAS,Electric,Pickup trucks,5
+2022,4,1,2022-04-01,SAS,Electric,Vans,1
+2022,4,1,2022-04-01,SAS,Hybrid,Passenger cars,53
+2022,4,1,2022-04-01,SAS,Hybrid,Pickup trucks,120
+2022,4,1,2022-04-01,SAS,Hybrid,Vans,48
+2022,4,1,2022-04-01,SAS,Hybrid,Passenger cars,3
+2022,4,1,2022-04-01,SAS,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,SAS,Hybrid,Vans,12
+2022,4,1,2022-04-01,BC,Gas,Passenger cars,6731
+2022,4,1,2022-04-01,BC,Gas,Pickup trucks,7419
+2022,4,1,2022-04-01,BC,Gas,Vans,1416
+2022,4,1,2022-04-01,BC,Diesel,Passenger cars,0
+2022,4,1,2022-04-01,BC,Diesel,Pickup trucks,2736
+2022,4,1,2022-04-01,BC,Diesel,Vans,187
+2022,4,1,2022-04-01,BC,Electric,Passenger cars,2451
+2022,4,1,2022-04-01,BC,Electric,Pickup trucks,16
+2022,4,1,2022-04-01,BC,Electric,Vans,46
+2022,4,1,2022-04-01,BC,Hybrid,Passenger cars,1144
+2022,4,1,2022-04-01,BC,Hybrid,Pickup trucks,542
+2022,4,1,2022-04-01,BC,Hybrid,Vans,258
+2022,4,1,2022-04-01,BC,Hybrid,Passenger cars,264
+2022,4,1,2022-04-01,BC,Hybrid,Pickup trucks,0
+2022,4,1,2022-04-01,BC,Hybrid,Vans,85
+2022,7,1,2022-07-01,CAN,Gas,Passenger cars,58403
+2022,7,1,2022-07-01,CAN,Gas,Pickup trucks,68167
+2022,7,1,2022-07-01,CAN,Gas,Vans,8037
+2022,7,1,2022-07-01,CAN,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,CAN,Diesel,Pickup trucks,17962
+2022,7,1,2022-07-01,CAN,Diesel,Vans,1051
+2022,7,1,2022-07-01,CAN,Electric,Passenger cars,13807
+2022,7,1,2022-07-01,CAN,Electric,Pickup trucks,1260
+2022,7,1,2022-07-01,CAN,Electric,Vans,230
+2022,7,1,2022-07-01,CAN,Hybrid,Passenger cars,3592
+2022,7,1,2022-07-01,CAN,Hybrid,Pickup trucks,3565
+2022,7,1,2022-07-01,CAN,Hybrid,Vans,968
+2022,7,1,2022-07-01,CAN,Hybrid,Passenger cars,1009
+2022,7,1,2022-07-01,CAN,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,CAN,Hybrid,Vans,471
+2022,7,1,2022-07-01,PEI,Gas,Passenger cars,252
+2022,7,1,2022-07-01,PEI,Gas,Pickup trucks,278
+2022,7,1,2022-07-01,PEI,Gas,Vans,12
+2022,7,1,2022-07-01,PEI,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,PEI,Diesel,Pickup trucks,71
+2022,7,1,2022-07-01,PEI,Diesel,Vans,1
+2022,7,1,2022-07-01,PEI,Electric,Passenger cars,27
+2022,7,1,2022-07-01,PEI,Electric,Pickup trucks,5
+2022,7,1,2022-07-01,PEI,Electric,Vans,1
+2022,7,1,2022-07-01,PEI,Hybrid,Passenger cars,7
+2022,7,1,2022-07-01,PEI,Hybrid,Pickup trucks,15
+2022,7,1,2022-07-01,PEI,Hybrid,Vans,5
+2022,7,1,2022-07-01,PEI,Hybrid,Passenger cars,1
+2022,7,1,2022-07-01,PEI,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,PEI,Hybrid,Vans,1
+2022,7,1,2022-07-01,NB,Gas,Passenger cars,1273
+2022,7,1,2022-07-01,NB,Gas,Pickup trucks,1894
+2022,7,1,2022-07-01,NB,Gas,Vans,136
+2022,7,1,2022-07-01,NB,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,NB,Diesel,Pickup trucks,344
+2022,7,1,2022-07-01,NB,Diesel,Vans,1
+2022,7,1,2022-07-01,NB,Electric,Passenger cars,79
+2022,7,1,2022-07-01,NB,Electric,Pickup trucks,13
+2022,7,1,2022-07-01,NB,Electric,Vans,1
+2022,7,1,2022-07-01,NB,Hybrid,Passenger cars,66
+2022,7,1,2022-07-01,NB,Hybrid,Pickup trucks,82
+2022,7,1,2022-07-01,NB,Hybrid,Vans,11
+2022,7,1,2022-07-01,NB,Hybrid,Passenger cars,8
+2022,7,1,2022-07-01,NB,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,NB,Hybrid,Vans,3
+2022,7,1,2022-07-01,QUE,Gas,Passenger cars,16399
+2022,7,1,2022-07-01,QUE,Gas,Pickup trucks,12688
+2022,7,1,2022-07-01,QUE,Gas,Vans,1887
+2022,7,1,2022-07-01,QUE,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,QUE,Diesel,Pickup trucks,3536
+2022,7,1,2022-07-01,QUE,Diesel,Vans,226
+2022,7,1,2022-07-01,QUE,Electric,Passenger cars,5283
+2022,7,1,2022-07-01,QUE,Electric,Pickup trucks,299
+2022,7,1,2022-07-01,QUE,Electric,Vans,114
+2022,7,1,2022-07-01,QUE,Hybrid,Passenger cars,938
+2022,7,1,2022-07-01,QUE,Hybrid,Pickup trucks,805
+2022,7,1,2022-07-01,QUE,Hybrid,Vans,161
+2022,7,1,2022-07-01,QUE,Hybrid,Passenger cars,515
+2022,7,1,2022-07-01,QUE,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,QUE,Hybrid,Vans,336
+2022,7,1,2022-07-01,ON,Gas,Passenger cars,24914
+2022,7,1,2022-07-01,ON,Gas,Pickup trucks,24987
+2022,7,1,2022-07-01,ON,Gas,Vans,3386
+2022,7,1,2022-07-01,ON,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,ON,Diesel,Pickup trucks,5151
+2022,7,1,2022-07-01,ON,Diesel,Vans,473
+2022,7,1,2022-07-01,ON,Electric,Passenger cars,3998
+2022,7,1,2022-07-01,ON,Electric,Pickup trucks,470
+2022,7,1,2022-07-01,ON,Electric,Vans,46
+2022,7,1,2022-07-01,ON,Hybrid,Passenger cars,1530
+2022,7,1,2022-07-01,ON,Hybrid,Pickup trucks,1418
+2022,7,1,2022-07-01,ON,Hybrid,Vans,499
+2022,7,1,2022-07-01,ON,Hybrid,Passenger cars,201
+2022,7,1,2022-07-01,ON,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,ON,Hybrid,Vans,95
+2022,7,1,2022-07-01,MB,Gas,Passenger cars,1342
+2022,7,1,2022-07-01,MB,Gas,Pickup trucks,2342
+2022,7,1,2022-07-01,MB,Gas,Vans,246
+2022,7,1,2022-07-01,MB,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,MB,Diesel,Pickup trucks,425
+2022,7,1,2022-07-01,MB,Diesel,Vans,7
+2022,7,1,2022-07-01,MB,Electric,Passenger cars,75
+2022,7,1,2022-07-01,MB,Electric,Pickup trucks,30
+2022,7,1,2022-07-01,MB,Electric,Vans,10
+2022,7,1,2022-07-01,MB,Hybrid,Passenger cars,56
+2022,7,1,2022-07-01,MB,Hybrid,Pickup trucks,80
+2022,7,1,2022-07-01,MB,Hybrid,Vans,23
+2022,7,1,2022-07-01,MB,Hybrid,Passenger cars,9
+2022,7,1,2022-07-01,MB,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,MB,Hybrid,Vans,1
+2022,7,1,2022-07-01,SAS,Gas,Passenger cars,845
+2022,7,1,2022-07-01,SAS,Gas,Pickup trucks,3011
+2022,7,1,2022-07-01,SAS,Gas,Vans,195
+2022,7,1,2022-07-01,SAS,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,SAS,Diesel,Pickup trucks,1113
+2022,7,1,2022-07-01,SAS,Diesel,Vans,6
+2022,7,1,2022-07-01,SAS,Electric,Passenger cars,48
+2022,7,1,2022-07-01,SAS,Electric,Pickup trucks,31
+2022,7,1,2022-07-01,SAS,Electric,Vans,1
+2022,7,1,2022-07-01,SAS,Hybrid,Passenger cars,30
+2022,7,1,2022-07-01,SAS,Hybrid,Pickup trucks,76
+2022,7,1,2022-07-01,SAS,Hybrid,Vans,11
+2022,7,1,2022-07-01,SAS,Hybrid,Passenger cars,5
+2022,7,1,2022-07-01,SAS,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,SAS,Hybrid,Vans,1
+2022,7,1,2022-07-01,BC,Gas,Passenger cars,6118
+2022,7,1,2022-07-01,BC,Gas,Pickup trucks,6882
+2022,7,1,2022-07-01,BC,Gas,Vans,918
+2022,7,1,2022-07-01,BC,Diesel,Passenger cars,0
+2022,7,1,2022-07-01,BC,Diesel,Pickup trucks,2366
+2022,7,1,2022-07-01,BC,Diesel,Vans,246
+2022,7,1,2022-07-01,BC,Electric,Passenger cars,3755
+2022,7,1,2022-07-01,BC,Electric,Pickup trucks,263
+2022,7,1,2022-07-01,BC,Electric,Vans,42
+2022,7,1,2022-07-01,BC,Hybrid,Passenger cars,643
+2022,7,1,2022-07-01,BC,Hybrid,Pickup trucks,452
+2022,7,1,2022-07-01,BC,Hybrid,Vans,138
+2022,7,1,2022-07-01,BC,Hybrid,Passenger cars,219
+2022,7,1,2022-07-01,BC,Hybrid,Pickup trucks,0
+2022,7,1,2022-07-01,BC,Hybrid,Vans,25
+2022,10,1,2022-10-01,CAN,Gas,Passenger cars,43268
+2022,10,1,2022-10-01,CAN,Gas,Pickup trucks,64260
+2022,10,1,2022-10-01,CAN,Gas,Vans,8108
+2022,10,1,2022-10-01,CAN,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,CAN,Diesel,Pickup trucks,15070
+2022,10,1,2022-10-01,CAN,Diesel,Vans,782
+2022,10,1,2022-10-01,CAN,Electric,Passenger cars,8930
+2022,10,1,2022-10-01,CAN,Electric,Pickup trucks,1030
+2022,10,1,2022-10-01,CAN,Electric,Vans,311
+2022,10,1,2022-10-01,CAN,Hybrid,Passenger cars,2917
+2022,10,1,2022-10-01,CAN,Hybrid,Pickup trucks,2920
+2022,10,1,2022-10-01,CAN,Hybrid,Vans,1017
+2022,10,1,2022-10-01,CAN,Hybrid,Passenger cars,723
+2022,10,1,2022-10-01,CAN,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,CAN,Hybrid,Vans,205
+2022,10,1,2022-10-01,PEI,Gas,Passenger cars,211
+2022,10,1,2022-10-01,PEI,Gas,Pickup trucks,289
+2022,10,1,2022-10-01,PEI,Gas,Vans,14
+2022,10,1,2022-10-01,PEI,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,PEI,Diesel,Pickup trucks,50
+2022,10,1,2022-10-01,PEI,Diesel,Vans,2
+2022,10,1,2022-10-01,PEI,Electric,Passenger cars,19
+2022,10,1,2022-10-01,PEI,Electric,Pickup trucks,1
+2022,10,1,2022-10-01,PEI,Electric,Vans,0
+2022,10,1,2022-10-01,PEI,Hybrid,Passenger cars,6
+2022,10,1,2022-10-01,PEI,Hybrid,Pickup trucks,22
+2022,10,1,2022-10-01,PEI,Hybrid,Vans,4
+2022,10,1,2022-10-01,PEI,Hybrid,Passenger cars,3
+2022,10,1,2022-10-01,PEI,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,PEI,Hybrid,Vans,0
+2022,10,1,2022-10-01,NB,Gas,Passenger cars,935
+2022,10,1,2022-10-01,NB,Gas,Pickup trucks,1740
+2022,10,1,2022-10-01,NB,Gas,Vans,112
+2022,10,1,2022-10-01,NB,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,NB,Diesel,Pickup trucks,262
+2022,10,1,2022-10-01,NB,Diesel,Vans,6
+2022,10,1,2022-10-01,NB,Electric,Passenger cars,45
+2022,10,1,2022-10-01,NB,Electric,Pickup trucks,13
+2022,10,1,2022-10-01,NB,Electric,Vans,1
+2022,10,1,2022-10-01,NB,Hybrid,Passenger cars,40
+2022,10,1,2022-10-01,NB,Hybrid,Pickup trucks,46
+2022,10,1,2022-10-01,NB,Hybrid,Vans,7
+2022,10,1,2022-10-01,NB,Hybrid,Passenger cars,11
+2022,10,1,2022-10-01,NB,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,NB,Hybrid,Vans,2
+2022,10,1,2022-10-01,QUE,Gas,Passenger cars,12360
+2022,10,1,2022-10-01,QUE,Gas,Pickup trucks,12290
+2022,10,1,2022-10-01,QUE,Gas,Vans,1713
+2022,10,1,2022-10-01,QUE,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,QUE,Diesel,Pickup trucks,3077
+2022,10,1,2022-10-01,QUE,Diesel,Vans,213
+2022,10,1,2022-10-01,QUE,Electric,Passenger cars,3976
+2022,10,1,2022-10-01,QUE,Electric,Pickup trucks,256
+2022,10,1,2022-10-01,QUE,Electric,Vans,140
+2022,10,1,2022-10-01,QUE,Hybrid,Passenger cars,658
+2022,10,1,2022-10-01,QUE,Hybrid,Pickup trucks,630
+2022,10,1,2022-10-01,QUE,Hybrid,Vans,213
+2022,10,1,2022-10-01,QUE,Hybrid,Passenger cars,337
+2022,10,1,2022-10-01,QUE,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,QUE,Hybrid,Vans,79
+2022,10,1,2022-10-01,ON,Gas,Passenger cars,18960
+2022,10,1,2022-10-01,ON,Gas,Pickup trucks,23623
+2022,10,1,2022-10-01,ON,Gas,Vans,3621
+2022,10,1,2022-10-01,ON,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,ON,Diesel,Pickup trucks,4472
+2022,10,1,2022-10-01,ON,Diesel,Vans,362
+2022,10,1,2022-10-01,ON,Electric,Passenger cars,2594
+2022,10,1,2022-10-01,ON,Electric,Pickup trucks,344
+2022,10,1,2022-10-01,ON,Electric,Vans,82
+2022,10,1,2022-10-01,ON,Hybrid,Passenger cars,998
+2022,10,1,2022-10-01,ON,Hybrid,Pickup trucks,1274
+2022,10,1,2022-10-01,ON,Hybrid,Vans,434
+2022,10,1,2022-10-01,ON,Hybrid,Passenger cars,171
+2022,10,1,2022-10-01,ON,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,ON,Hybrid,Vans,66
+2022,10,1,2022-10-01,MB,Gas,Passenger cars,948
+2022,10,1,2022-10-01,MB,Gas,Pickup trucks,2558
+2022,10,1,2022-10-01,MB,Gas,Vans,270
+2022,10,1,2022-10-01,MB,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,MB,Diesel,Pickup trucks,484
+2022,10,1,2022-10-01,MB,Diesel,Vans,7
+2022,10,1,2022-10-01,MB,Electric,Passenger cars,39
+2022,10,1,2022-10-01,MB,Electric,Pickup trucks,26
+2022,10,1,2022-10-01,MB,Electric,Vans,5
+2022,10,1,2022-10-01,MB,Hybrid,Passenger cars,40
+2022,10,1,2022-10-01,MB,Hybrid,Pickup trucks,94
+2022,10,1,2022-10-01,MB,Hybrid,Vans,50
+2022,10,1,2022-10-01,MB,Hybrid,Passenger cars,6
+2022,10,1,2022-10-01,MB,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,MB,Hybrid,Vans,3
+2022,10,1,2022-10-01,SAS,Gas,Passenger cars,552
+2022,10,1,2022-10-01,SAS,Gas,Pickup trucks,3064
+2022,10,1,2022-10-01,SAS,Gas,Vans,201
+2022,10,1,2022-10-01,SAS,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,SAS,Diesel,Pickup trucks,958
+2022,10,1,2022-10-01,SAS,Diesel,Vans,4
+2022,10,1,2022-10-01,SAS,Electric,Passenger cars,27
+2022,10,1,2022-10-01,SAS,Electric,Pickup trucks,13
+2022,10,1,2022-10-01,SAS,Electric,Vans,3
+2022,10,1,2022-10-01,SAS,Hybrid,Passenger cars,25
+2022,10,1,2022-10-01,SAS,Hybrid,Pickup trucks,105
+2022,10,1,2022-10-01,SAS,Hybrid,Vans,18
+2022,10,1,2022-10-01,SAS,Hybrid,Passenger cars,3
+2022,10,1,2022-10-01,SAS,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,SAS,Hybrid,Vans,2
+2022,10,1,2022-10-01,BC,Gas,Passenger cars,4377
+2022,10,1,2022-10-01,BC,Gas,Pickup trucks,6826
+2022,10,1,2022-10-01,BC,Gas,Vans,868
+2022,10,1,2022-10-01,BC,Diesel,Passenger cars,0
+2022,10,1,2022-10-01,BC,Diesel,Pickup trucks,1979
+2022,10,1,2022-10-01,BC,Diesel,Vans,113
+2022,10,1,2022-10-01,BC,Electric,Passenger cars,1952
+2022,10,1,2022-10-01,BC,Electric,Pickup trucks,215
+2022,10,1,2022-10-01,BC,Electric,Vans,60
+2022,10,1,2022-10-01,BC,Hybrid,Passenger cars,894
+2022,10,1,2022-10-01,BC,Hybrid,Pickup trucks,309
+2022,10,1,2022-10-01,BC,Hybrid,Vans,155
+2022,10,1,2022-10-01,BC,Hybrid,Passenger cars,145
+2022,10,1,2022-10-01,BC,Hybrid,Pickup trucks,0
+2022,10,1,2022-10-01,BC,Hybrid,Vans,35
+2023,1,1,2023-01-01,CAN,Gas,Passenger cars,40563
+2023,1,1,2023-01-01,CAN,Gas,Pickup trucks,68164
+2023,1,1,2023-01-01,CAN,Gas,Vans,10042
+2023,1,1,2023-01-01,CAN,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,CAN,Diesel,Pickup trucks,14481
+2023,1,1,2023-01-01,CAN,Diesel,Vans,1202
+2023,1,1,2023-01-01,CAN,Electric,Passenger cars,8302
+2023,1,1,2023-01-01,CAN,Electric,Pickup trucks,1400
+2023,1,1,2023-01-01,CAN,Electric,Vans,417
+2023,1,1,2023-01-01,CAN,Hybrid,Passenger cars,3944
+2023,1,1,2023-01-01,CAN,Hybrid,Pickup trucks,3017
+2023,1,1,2023-01-01,CAN,Hybrid,Vans,539
+2023,1,1,2023-01-01,CAN,Hybrid,Passenger cars,223
+2023,1,1,2023-01-01,CAN,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,CAN,Hybrid,Vans,376
+2023,1,1,2023-01-01,PEI,Gas,Passenger cars,137
+2023,1,1,2023-01-01,PEI,Gas,Pickup trucks,286
+2023,1,1,2023-01-01,PEI,Gas,Vans,18
+2023,1,1,2023-01-01,PEI,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,PEI,Diesel,Pickup trucks,76
+2023,1,1,2023-01-01,PEI,Diesel,Vans,0
+2023,1,1,2023-01-01,PEI,Electric,Passenger cars,14
+2023,1,1,2023-01-01,PEI,Electric,Pickup trucks,9
+2023,1,1,2023-01-01,PEI,Electric,Vans,0
+2023,1,1,2023-01-01,PEI,Hybrid,Passenger cars,26
+2023,1,1,2023-01-01,PEI,Hybrid,Pickup trucks,11
+2023,1,1,2023-01-01,PEI,Hybrid,Vans,3
+2023,1,1,2023-01-01,PEI,Hybrid,Passenger cars,2
+2023,1,1,2023-01-01,PEI,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,PEI,Hybrid,Vans,5
+2023,1,1,2023-01-01,NB,Gas,Passenger cars,776
+2023,1,1,2023-01-01,NB,Gas,Pickup trucks,1685
+2023,1,1,2023-01-01,NB,Gas,Vans,139
+2023,1,1,2023-01-01,NB,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,NB,Diesel,Pickup trucks,264
+2023,1,1,2023-01-01,NB,Diesel,Vans,4
+2023,1,1,2023-01-01,NB,Electric,Passenger cars,33
+2023,1,1,2023-01-01,NB,Electric,Pickup trucks,16
+2023,1,1,2023-01-01,NB,Electric,Vans,4
+2023,1,1,2023-01-01,NB,Hybrid,Passenger cars,57
+2023,1,1,2023-01-01,NB,Hybrid,Pickup trucks,49
+2023,1,1,2023-01-01,NB,Hybrid,Vans,5
+2023,1,1,2023-01-01,NB,Hybrid,Passenger cars,0
+2023,1,1,2023-01-01,NB,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,NB,Hybrid,Vans,5
+2023,1,1,2023-01-01,QUE,Gas,Passenger cars,10160
+2023,1,1,2023-01-01,QUE,Gas,Pickup trucks,11513
+2023,1,1,2023-01-01,QUE,Gas,Vans,2083
+2023,1,1,2023-01-01,QUE,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,QUE,Diesel,Pickup trucks,2748
+2023,1,1,2023-01-01,QUE,Diesel,Vans,245
+2023,1,1,2023-01-01,QUE,Electric,Passenger cars,3190
+2023,1,1,2023-01-01,QUE,Electric,Pickup trucks,356
+2023,1,1,2023-01-01,QUE,Electric,Vans,196
+2023,1,1,2023-01-01,QUE,Hybrid,Passenger cars,766
+2023,1,1,2023-01-01,QUE,Hybrid,Pickup trucks,631
+2023,1,1,2023-01-01,QUE,Hybrid,Vans,90
+2023,1,1,2023-01-01,QUE,Hybrid,Passenger cars,84
+2023,1,1,2023-01-01,QUE,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,QUE,Hybrid,Vans,148
+2023,1,1,2023-01-01,ON,Gas,Passenger cars,18492
+2023,1,1,2023-01-01,ON,Gas,Pickup trucks,25223
+2023,1,1,2023-01-01,ON,Gas,Vans,5047
+2023,1,1,2023-01-01,ON,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,ON,Diesel,Pickup trucks,4423
+2023,1,1,2023-01-01,ON,Diesel,Vans,523
+2023,1,1,2023-01-01,ON,Electric,Passenger cars,2365
+2023,1,1,2023-01-01,ON,Electric,Pickup trucks,354
+2023,1,1,2023-01-01,ON,Electric,Vans,103
+2023,1,1,2023-01-01,ON,Hybrid,Passenger cars,1791
+2023,1,1,2023-01-01,ON,Hybrid,Pickup trucks,1185
+2023,1,1,2023-01-01,ON,Hybrid,Vans,270
+2023,1,1,2023-01-01,ON,Hybrid,Passenger cars,85
+2023,1,1,2023-01-01,ON,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,ON,Hybrid,Vans,195
+2023,1,1,2023-01-01,MB,Gas,Passenger cars,903
+2023,1,1,2023-01-01,MB,Gas,Pickup trucks,2545
+2023,1,1,2023-01-01,MB,Gas,Vans,262
+2023,1,1,2023-01-01,MB,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,MB,Diesel,Pickup trucks,365
+2023,1,1,2023-01-01,MB,Diesel,Vans,13
+2023,1,1,2023-01-01,MB,Electric,Passenger cars,33
+2023,1,1,2023-01-01,MB,Electric,Pickup trucks,19
+2023,1,1,2023-01-01,MB,Electric,Vans,7
+2023,1,1,2023-01-01,MB,Hybrid,Passenger cars,84
+2023,1,1,2023-01-01,MB,Hybrid,Pickup trucks,72
+2023,1,1,2023-01-01,MB,Hybrid,Vans,11
+2023,1,1,2023-01-01,MB,Hybrid,Passenger cars,4
+2023,1,1,2023-01-01,MB,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,MB,Hybrid,Vans,2
+2023,1,1,2023-01-01,SAS,Gas,Passenger cars,681
+2023,1,1,2023-01-01,SAS,Gas,Pickup trucks,3497
+2023,1,1,2023-01-01,SAS,Gas,Vans,220
+2023,1,1,2023-01-01,SAS,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,SAS,Diesel,Pickup trucks,860
+2023,1,1,2023-01-01,SAS,Diesel,Vans,11
+2023,1,1,2023-01-01,SAS,Electric,Passenger cars,26
+2023,1,1,2023-01-01,SAS,Electric,Pickup trucks,10
+2023,1,1,2023-01-01,SAS,Electric,Vans,3
+2023,1,1,2023-01-01,SAS,Hybrid,Passenger cars,47
+2023,1,1,2023-01-01,SAS,Hybrid,Pickup trucks,112
+2023,1,1,2023-01-01,SAS,Hybrid,Vans,13
+2023,1,1,2023-01-01,SAS,Hybrid,Passenger cars,1
+2023,1,1,2023-01-01,SAS,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,SAS,Hybrid,Vans,0
+2023,1,1,2023-01-01,BC,Gas,Passenger cars,4711
+2023,1,1,2023-01-01,BC,Gas,Pickup trucks,7327
+2023,1,1,2023-01-01,BC,Gas,Vans,959
+2023,1,1,2023-01-01,BC,Diesel,Passenger cars,0
+2023,1,1,2023-01-01,BC,Diesel,Pickup trucks,1973
+2023,1,1,2023-01-01,BC,Diesel,Vans,291
+2023,1,1,2023-01-01,BC,Electric,Passenger cars,2348
+2023,1,1,2023-01-01,BC,Electric,Pickup trucks,531
+2023,1,1,2023-01-01,BC,Electric,Vans,70
+2023,1,1,2023-01-01,BC,Hybrid,Passenger cars,863
+2023,1,1,2023-01-01,BC,Hybrid,Pickup trucks,421
+2023,1,1,2023-01-01,BC,Hybrid,Vans,89
+2023,1,1,2023-01-01,BC,Hybrid,Passenger cars,32
+2023,1,1,2023-01-01,BC,Hybrid,Pickup trucks,0
+2023,1,1,2023-01-01,BC,Hybrid,Vans,12
+2023,4,1,2023-04-01,CAN,Gas,Passenger cars,59995
+2023,4,1,2023-04-01,CAN,Gas,Pickup trucks,77261
+2023,4,1,2023-04-01,CAN,Gas,Vans,14710
+2023,4,1,2023-04-01,CAN,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,CAN,Diesel,Pickup trucks,17060
+2023,4,1,2023-04-01,CAN,Diesel,Vans,1193
+2023,4,1,2023-04-01,CAN,Electric,Passenger cars,8132
+2023,4,1,2023-04-01,CAN,Electric,Pickup trucks,1273
+2023,4,1,2023-04-01,CAN,Electric,Vans,638
+2023,4,1,2023-04-01,CAN,Hybrid,Passenger cars,6629
+2023,4,1,2023-04-01,CAN,Hybrid,Pickup trucks,3562
+2023,4,1,2023-04-01,CAN,Hybrid,Vans,1149
+2023,4,1,2023-04-01,CAN,Hybrid,Passenger cars,718
+2023,4,1,2023-04-01,CAN,Hybrid,Pickup trucks,1
+2023,4,1,2023-04-01,CAN,Hybrid,Vans,770
+2023,4,1,2023-04-01,PEI,Gas,Passenger cars,256
+2023,4,1,2023-04-01,PEI,Gas,Pickup trucks,333
+2023,4,1,2023-04-01,PEI,Gas,Vans,33
+2023,4,1,2023-04-01,PEI,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,PEI,Diesel,Pickup trucks,73
+2023,4,1,2023-04-01,PEI,Diesel,Vans,4
+2023,4,1,2023-04-01,PEI,Electric,Passenger cars,9
+2023,4,1,2023-04-01,PEI,Electric,Pickup trucks,7
+2023,4,1,2023-04-01,PEI,Electric,Vans,0
+2023,4,1,2023-04-01,PEI,Hybrid,Passenger cars,26
+2023,4,1,2023-04-01,PEI,Hybrid,Pickup trucks,4
+2023,4,1,2023-04-01,PEI,Hybrid,Vans,7
+2023,4,1,2023-04-01,PEI,Hybrid,Passenger cars,1
+2023,4,1,2023-04-01,PEI,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,PEI,Hybrid,Vans,8
+2023,4,1,2023-04-01,NB,Gas,Passenger cars,1159
+2023,4,1,2023-04-01,NB,Gas,Pickup trucks,2101
+2023,4,1,2023-04-01,NB,Gas,Vans,233
+2023,4,1,2023-04-01,NB,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,NB,Diesel,Pickup trucks,344
+2023,4,1,2023-04-01,NB,Diesel,Vans,2
+2023,4,1,2023-04-01,NB,Electric,Passenger cars,51
+2023,4,1,2023-04-01,NB,Electric,Pickup trucks,17
+2023,4,1,2023-04-01,NB,Electric,Vans,1
+2023,4,1,2023-04-01,NB,Hybrid,Passenger cars,124
+2023,4,1,2023-04-01,NB,Hybrid,Pickup trucks,60
+2023,4,1,2023-04-01,NB,Hybrid,Vans,23
+2023,4,1,2023-04-01,NB,Hybrid,Passenger cars,8
+2023,4,1,2023-04-01,NB,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,NB,Hybrid,Vans,5
+2023,4,1,2023-04-01,QUE,Gas,Passenger cars,15903
+2023,4,1,2023-04-01,QUE,Gas,Pickup trucks,14244
+2023,4,1,2023-04-01,QUE,Gas,Vans,3863
+2023,4,1,2023-04-01,QUE,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,QUE,Diesel,Pickup trucks,3481
+2023,4,1,2023-04-01,QUE,Diesel,Vans,257
+2023,4,1,2023-04-01,QUE,Electric,Passenger cars,3441
+2023,4,1,2023-04-01,QUE,Electric,Pickup trucks,387
+2023,4,1,2023-04-01,QUE,Electric,Vans,330
+2023,4,1,2023-04-01,QUE,Hybrid,Passenger cars,1439
+2023,4,1,2023-04-01,QUE,Hybrid,Pickup trucks,815
+2023,4,1,2023-04-01,QUE,Hybrid,Vans,258
+2023,4,1,2023-04-01,QUE,Hybrid,Passenger cars,281
+2023,4,1,2023-04-01,QUE,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,QUE,Hybrid,Vans,370
+2023,4,1,2023-04-01,ON,Gas,Passenger cars,26512
+2023,4,1,2023-04-01,ON,Gas,Pickup trucks,26518
+2023,4,1,2023-04-01,ON,Gas,Vans,5980
+2023,4,1,2023-04-01,ON,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,ON,Diesel,Pickup trucks,4477
+2023,4,1,2023-04-01,ON,Diesel,Vans,606
+2023,4,1,2023-04-01,ON,Electric,Passenger cars,2191
+2023,4,1,2023-04-01,ON,Electric,Pickup trucks,382
+2023,4,1,2023-04-01,ON,Electric,Vans,169
+2023,4,1,2023-04-01,ON,Hybrid,Passenger cars,2957
+2023,4,1,2023-04-01,ON,Hybrid,Pickup trucks,1189
+2023,4,1,2023-04-01,ON,Hybrid,Vans,491
+2023,4,1,2023-04-01,ON,Hybrid,Passenger cars,210
+2023,4,1,2023-04-01,ON,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,ON,Hybrid,Vans,258
+2023,4,1,2023-04-01,MB,Gas,Passenger cars,1210
+2023,4,1,2023-04-01,MB,Gas,Pickup trucks,2742
+2023,4,1,2023-04-01,MB,Gas,Vans,308
+2023,4,1,2023-04-01,MB,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,MB,Diesel,Pickup trucks,472
+2023,4,1,2023-04-01,MB,Diesel,Vans,4
+2023,4,1,2023-04-01,MB,Electric,Passenger cars,43
+2023,4,1,2023-04-01,MB,Electric,Pickup trucks,26
+2023,4,1,2023-04-01,MB,Electric,Vans,7
+2023,4,1,2023-04-01,MB,Hybrid,Passenger cars,137
+2023,4,1,2023-04-01,MB,Hybrid,Pickup trucks,93
+2023,4,1,2023-04-01,MB,Hybrid,Vans,35
+2023,4,1,2023-04-01,MB,Hybrid,Passenger cars,7
+2023,4,1,2023-04-01,MB,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,MB,Hybrid,Vans,5
+2023,4,1,2023-04-01,SAS,Gas,Passenger cars,836
+2023,4,1,2023-04-01,SAS,Gas,Pickup trucks,3373
+2023,4,1,2023-04-01,SAS,Gas,Vans,288
+2023,4,1,2023-04-01,SAS,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,SAS,Diesel,Pickup trucks,973
+2023,4,1,2023-04-01,SAS,Diesel,Vans,12
+2023,4,1,2023-04-01,SAS,Electric,Passenger cars,30
+2023,4,1,2023-04-01,SAS,Electric,Pickup trucks,23
+2023,4,1,2023-04-01,SAS,Electric,Vans,2
+2023,4,1,2023-04-01,SAS,Hybrid,Passenger cars,73
+2023,4,1,2023-04-01,SAS,Hybrid,Pickup trucks,131
+2023,4,1,2023-04-01,SAS,Hybrid,Vans,24
+2023,4,1,2023-04-01,SAS,Hybrid,Passenger cars,3
+2023,4,1,2023-04-01,SAS,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,SAS,Hybrid,Vans,7
+2023,4,1,2023-04-01,BC,Gas,Passenger cars,6393
+2023,4,1,2023-04-01,BC,Gas,Pickup trucks,8365
+2023,4,1,2023-04-01,BC,Gas,Vans,1878
+2023,4,1,2023-04-01,BC,Diesel,Passenger cars,0
+2023,4,1,2023-04-01,BC,Diesel,Pickup trucks,2579
+2023,4,1,2023-04-01,BC,Diesel,Vans,209
+2023,4,1,2023-04-01,BC,Electric,Passenger cars,1996
+2023,4,1,2023-04-01,BC,Electric,Pickup trucks,339
+2023,4,1,2023-04-01,BC,Electric,Vans,112
+2023,4,1,2023-04-01,BC,Hybrid,Passenger cars,1168
+2023,4,1,2023-04-01,BC,Hybrid,Pickup trucks,603
+2023,4,1,2023-04-01,BC,Hybrid,Vans,171
+2023,4,1,2023-04-01,BC,Hybrid,Passenger cars,177
+2023,4,1,2023-04-01,BC,Hybrid,Pickup trucks,0
+2023,4,1,2023-04-01,BC,Hybrid,Vans,74
+2023,7,1,2023-07-01,CAN,Gas,Passenger cars,52626
+2023,7,1,2023-07-01,CAN,Gas,Pickup trucks,75448
+2023,7,1,2023-07-01,CAN,Gas,Vans,14076
+2023,7,1,2023-07-01,CAN,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,CAN,Diesel,Pickup trucks,15502
+2023,7,1,2023-07-01,CAN,Diesel,Vans,1310
+2023,7,1,2023-07-01,CAN,Electric,Passenger cars,10243
+2023,7,1,2023-07-01,CAN,Electric,Pickup trucks,2025
+2023,7,1,2023-07-01,CAN,Electric,Vans,513
+2023,7,1,2023-07-01,CAN,Hybrid,Passenger cars,6706
+2023,7,1,2023-07-01,CAN,Hybrid,Pickup trucks,2990
+2023,7,1,2023-07-01,CAN,Hybrid,Vans,1192
+2023,7,1,2023-07-01,CAN,Hybrid,Passenger cars,1416
+2023,7,1,2023-07-01,CAN,Hybrid,Pickup trucks,1
+2023,7,1,2023-07-01,CAN,Hybrid,Vans,347
+2023,7,1,2023-07-01,PEI,Gas,Passenger cars,211
+2023,7,1,2023-07-01,PEI,Gas,Pickup trucks,318
+2023,7,1,2023-07-01,PEI,Gas,Vans,29
+2023,7,1,2023-07-01,PEI,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,PEI,Diesel,Pickup trucks,57
+2023,7,1,2023-07-01,PEI,Diesel,Vans,3
+2023,7,1,2023-07-01,PEI,Electric,Passenger cars,20
+2023,7,1,2023-07-01,PEI,Electric,Pickup trucks,14
+2023,7,1,2023-07-01,PEI,Electric,Vans,0
+2023,7,1,2023-07-01,PEI,Hybrid,Passenger cars,22
+2023,7,1,2023-07-01,PEI,Hybrid,Pickup trucks,18
+2023,7,1,2023-07-01,PEI,Hybrid,Vans,9
+2023,7,1,2023-07-01,PEI,Hybrid,Passenger cars,7
+2023,7,1,2023-07-01,PEI,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,PEI,Hybrid,Vans,3
+2023,7,1,2023-07-01,NB,Gas,Passenger cars,932
+2023,7,1,2023-07-01,NB,Gas,Pickup trucks,2017
+2023,7,1,2023-07-01,NB,Gas,Vans,275
+2023,7,1,2023-07-01,NB,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,NB,Diesel,Pickup trucks,272
+2023,7,1,2023-07-01,NB,Diesel,Vans,7
+2023,7,1,2023-07-01,NB,Electric,Passenger cars,48
+2023,7,1,2023-07-01,NB,Electric,Pickup trucks,22
+2023,7,1,2023-07-01,NB,Electric,Vans,4
+2023,7,1,2023-07-01,NB,Hybrid,Passenger cars,113
+2023,7,1,2023-07-01,NB,Hybrid,Pickup trucks,47
+2023,7,1,2023-07-01,NB,Hybrid,Vans,19
+2023,7,1,2023-07-01,NB,Hybrid,Passenger cars,17
+2023,7,1,2023-07-01,NB,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,NB,Hybrid,Vans,0
+2023,7,1,2023-07-01,QUE,Gas,Passenger cars,13848
+2023,7,1,2023-07-01,QUE,Gas,Pickup trucks,12989
+2023,7,1,2023-07-01,QUE,Gas,Vans,3143
+2023,7,1,2023-07-01,QUE,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,QUE,Diesel,Pickup trucks,2874
+2023,7,1,2023-07-01,QUE,Diesel,Vans,314
+2023,7,1,2023-07-01,QUE,Electric,Passenger cars,4177
+2023,7,1,2023-07-01,QUE,Electric,Pickup trucks,712
+2023,7,1,2023-07-01,QUE,Electric,Vans,255
+2023,7,1,2023-07-01,QUE,Hybrid,Passenger cars,1414
+2023,7,1,2023-07-01,QUE,Hybrid,Pickup trucks,481
+2023,7,1,2023-07-01,QUE,Hybrid,Vans,246
+2023,7,1,2023-07-01,QUE,Hybrid,Passenger cars,656
+2023,7,1,2023-07-01,QUE,Hybrid,Pickup trucks,1
+2023,7,1,2023-07-01,QUE,Hybrid,Vans,174
+2023,7,1,2023-07-01,ON,Gas,Passenger cars,23415
+2023,7,1,2023-07-01,ON,Gas,Pickup trucks,26921
+2023,7,1,2023-07-01,ON,Gas,Vans,6075
+2023,7,1,2023-07-01,ON,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,ON,Diesel,Pickup trucks,4361
+2023,7,1,2023-07-01,ON,Diesel,Vans,585
+2023,7,1,2023-07-01,ON,Electric,Passenger cars,3129
+2023,7,1,2023-07-01,ON,Electric,Pickup trucks,523
+2023,7,1,2023-07-01,ON,Electric,Vans,76
+2023,7,1,2023-07-01,ON,Hybrid,Passenger cars,3040
+2023,7,1,2023-07-01,ON,Hybrid,Pickup trucks,1172
+2023,7,1,2023-07-01,ON,Hybrid,Vans,526
+2023,7,1,2023-07-01,ON,Hybrid,Passenger cars,322
+2023,7,1,2023-07-01,ON,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,ON,Hybrid,Vans,105
+2023,7,1,2023-07-01,MB,Gas,Passenger cars,1150
+2023,7,1,2023-07-01,MB,Gas,Pickup trucks,3004
+2023,7,1,2023-07-01,MB,Gas,Vans,384
+2023,7,1,2023-07-01,MB,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,MB,Diesel,Pickup trucks,444
+2023,7,1,2023-07-01,MB,Diesel,Vans,8
+2023,7,1,2023-07-01,MB,Electric,Passenger cars,59
+2023,7,1,2023-07-01,MB,Electric,Pickup trucks,28
+2023,7,1,2023-07-01,MB,Electric,Vans,3
+2023,7,1,2023-07-01,MB,Hybrid,Passenger cars,150
+2023,7,1,2023-07-01,MB,Hybrid,Pickup trucks,84
+2023,7,1,2023-07-01,MB,Hybrid,Vans,39
+2023,7,1,2023-07-01,MB,Hybrid,Passenger cars,11
+2023,7,1,2023-07-01,MB,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,MB,Hybrid,Vans,3
+2023,7,1,2023-07-01,SAS,Gas,Passenger cars,664
+2023,7,1,2023-07-01,SAS,Gas,Pickup trucks,3679
+2023,7,1,2023-07-01,SAS,Gas,Vans,295
+2023,7,1,2023-07-01,SAS,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,SAS,Diesel,Pickup trucks,907
+2023,7,1,2023-07-01,SAS,Diesel,Vans,11
+2023,7,1,2023-07-01,SAS,Electric,Passenger cars,40
+2023,7,1,2023-07-01,SAS,Electric,Pickup trucks,21
+2023,7,1,2023-07-01,SAS,Electric,Vans,2
+2023,7,1,2023-07-01,SAS,Hybrid,Passenger cars,78
+2023,7,1,2023-07-01,SAS,Hybrid,Pickup trucks,100
+2023,7,1,2023-07-01,SAS,Hybrid,Vans,28
+2023,7,1,2023-07-01,SAS,Hybrid,Passenger cars,7
+2023,7,1,2023-07-01,SAS,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,SAS,Hybrid,Vans,4
+2023,7,1,2023-07-01,BC,Gas,Passenger cars,5567
+2023,7,1,2023-07-01,BC,Gas,Pickup trucks,7920
+2023,7,1,2023-07-01,BC,Gas,Vans,1520
+2023,7,1,2023-07-01,BC,Diesel,Passenger cars,0
+2023,7,1,2023-07-01,BC,Diesel,Pickup trucks,2216
+2023,7,1,2023-07-01,BC,Diesel,Vans,241
+2023,7,1,2023-07-01,BC,Electric,Passenger cars,2291
+2023,7,1,2023-07-01,BC,Electric,Pickup trucks,513
+2023,7,1,2023-07-01,BC,Electric,Vans,132
+2023,7,1,2023-07-01,BC,Hybrid,Passenger cars,1135
+2023,7,1,2023-07-01,BC,Hybrid,Pickup trucks,513
+2023,7,1,2023-07-01,BC,Hybrid,Vans,154
+2023,7,1,2023-07-01,BC,Hybrid,Passenger cars,311
+2023,7,1,2023-07-01,BC,Hybrid,Pickup trucks,0
+2023,7,1,2023-07-01,BC,Hybrid,Vans,40
+2023,10,1,2023-10-01,CAN,Gas,Passenger cars,44453
+2023,10,1,2023-10-01,CAN,Gas,Pickup trucks,67171
+2023,10,1,2023-10-01,CAN,Gas,Vans,9824
+2023,10,1,2023-10-01,CAN,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,CAN,Diesel,Pickup trucks,16730
+2023,10,1,2023-10-01,CAN,Diesel,Vans,1322
+2023,10,1,2023-10-01,CAN,Electric,Passenger cars,8191
+2023,10,1,2023-10-01,CAN,Electric,Pickup trucks,2050
+2023,10,1,2023-10-01,CAN,Electric,Vans,345
+2023,10,1,2023-10-01,CAN,Hybrid,Passenger cars,5463
+2023,10,1,2023-10-01,CAN,Hybrid,Pickup trucks,2490
+2023,10,1,2023-10-01,CAN,Hybrid,Vans,1569
+2023,10,1,2023-10-01,CAN,Hybrid,Passenger cars,946
+2023,10,1,2023-10-01,CAN,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,CAN,Hybrid,Vans,327
+2023,10,1,2023-10-01,PEI,Gas,Passenger cars,198
+2023,10,1,2023-10-01,PEI,Gas,Pickup trucks,287
+2023,10,1,2023-10-01,PEI,Gas,Vans,35
+2023,10,1,2023-10-01,PEI,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,PEI,Diesel,Pickup trucks,56
+2023,10,1,2023-10-01,PEI,Diesel,Vans,2
+2023,10,1,2023-10-01,PEI,Electric,Passenger cars,14
+2023,10,1,2023-10-01,PEI,Electric,Pickup trucks,10
+2023,10,1,2023-10-01,PEI,Electric,Vans,3
+2023,10,1,2023-10-01,PEI,Hybrid,Passenger cars,18
+2023,10,1,2023-10-01,PEI,Hybrid,Pickup trucks,18
+2023,10,1,2023-10-01,PEI,Hybrid,Vans,6
+2023,10,1,2023-10-01,PEI,Hybrid,Passenger cars,3
+2023,10,1,2023-10-01,PEI,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,PEI,Hybrid,Vans,2
+2023,10,1,2023-10-01,NB,Gas,Passenger cars,895
+2023,10,1,2023-10-01,NB,Gas,Pickup trucks,1748
+2023,10,1,2023-10-01,NB,Gas,Vans,196
+2023,10,1,2023-10-01,NB,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,NB,Diesel,Pickup trucks,299
+2023,10,1,2023-10-01,NB,Diesel,Vans,7
+2023,10,1,2023-10-01,NB,Electric,Passenger cars,53
+2023,10,1,2023-10-01,NB,Electric,Pickup trucks,20
+2023,10,1,2023-10-01,NB,Electric,Vans,5
+2023,10,1,2023-10-01,NB,Hybrid,Passenger cars,84
+2023,10,1,2023-10-01,NB,Hybrid,Pickup trucks,51
+2023,10,1,2023-10-01,NB,Hybrid,Vans,17
+2023,10,1,2023-10-01,NB,Hybrid,Passenger cars,9
+2023,10,1,2023-10-01,NB,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,NB,Hybrid,Vans,4
+2023,10,1,2023-10-01,QUE,Gas,Passenger cars,11776
+2023,10,1,2023-10-01,QUE,Gas,Pickup trucks,11058
+2023,10,1,2023-10-01,QUE,Gas,Vans,2274
+2023,10,1,2023-10-01,QUE,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,QUE,Diesel,Pickup trucks,3224
+2023,10,1,2023-10-01,QUE,Diesel,Vans,302
+2023,10,1,2023-10-01,QUE,Electric,Passenger cars,3783
+2023,10,1,2023-10-01,QUE,Electric,Pickup trucks,866
+2023,10,1,2023-10-01,QUE,Electric,Vans,113
+2023,10,1,2023-10-01,QUE,Hybrid,Passenger cars,1029
+2023,10,1,2023-10-01,QUE,Hybrid,Pickup trucks,496
+2023,10,1,2023-10-01,QUE,Hybrid,Vans,218
+2023,10,1,2023-10-01,QUE,Hybrid,Passenger cars,511
+2023,10,1,2023-10-01,QUE,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,QUE,Hybrid,Vans,200
+2023,10,1,2023-10-01,ON,Gas,Passenger cars,20654
+2023,10,1,2023-10-01,ON,Gas,Pickup trucks,24616
+2023,10,1,2023-10-01,ON,Gas,Vans,4064
+2023,10,1,2023-10-01,ON,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,ON,Diesel,Pickup trucks,4853
+2023,10,1,2023-10-01,ON,Diesel,Vans,676
+2023,10,1,2023-10-01,ON,Electric,Passenger cars,2488
+2023,10,1,2023-10-01,ON,Electric,Pickup trucks,550
+2023,10,1,2023-10-01,ON,Electric,Vans,159
+2023,10,1,2023-10-01,ON,Hybrid,Passenger cars,2702
+2023,10,1,2023-10-01,ON,Hybrid,Pickup trucks,905
+2023,10,1,2023-10-01,ON,Hybrid,Vans,758
+2023,10,1,2023-10-01,ON,Hybrid,Passenger cars,209
+2023,10,1,2023-10-01,ON,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,ON,Hybrid,Vans,62
+2023,10,1,2023-10-01,MB,Gas,Passenger cars,766
+2023,10,1,2023-10-01,MB,Gas,Pickup trucks,2482
+2023,10,1,2023-10-01,MB,Gas,Vans,291
+2023,10,1,2023-10-01,MB,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,MB,Diesel,Pickup trucks,412
+2023,10,1,2023-10-01,MB,Diesel,Vans,12
+2023,10,1,2023-10-01,MB,Electric,Passenger cars,29
+2023,10,1,2023-10-01,MB,Electric,Pickup trucks,26
+2023,10,1,2023-10-01,MB,Electric,Vans,2
+2023,10,1,2023-10-01,MB,Hybrid,Passenger cars,94
+2023,10,1,2023-10-01,MB,Hybrid,Pickup trucks,51
+2023,10,1,2023-10-01,MB,Hybrid,Vans,33
+2023,10,1,2023-10-01,MB,Hybrid,Passenger cars,5
+2023,10,1,2023-10-01,MB,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,MB,Hybrid,Vans,1
+2023,10,1,2023-10-01,SAS,Gas,Passenger cars,595
+2023,10,1,2023-10-01,SAS,Gas,Pickup trucks,3430
+2023,10,1,2023-10-01,SAS,Gas,Vans,248
+2023,10,1,2023-10-01,SAS,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,SAS,Diesel,Pickup trucks,1170
+2023,10,1,2023-10-01,SAS,Diesel,Vans,5
+2023,10,1,2023-10-01,SAS,Electric,Passenger cars,23
+2023,10,1,2023-10-01,SAS,Electric,Pickup trucks,17
+2023,10,1,2023-10-01,SAS,Electric,Vans,3
+2023,10,1,2023-10-01,SAS,Hybrid,Passenger cars,52
+2023,10,1,2023-10-01,SAS,Hybrid,Pickup trucks,78
+2023,10,1,2023-10-01,SAS,Hybrid,Vans,31
+2023,10,1,2023-10-01,SAS,Hybrid,Passenger cars,2
+2023,10,1,2023-10-01,SAS,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,SAS,Hybrid,Vans,0
+2023,10,1,2023-10-01,BC,Gas,Passenger cars,4279
+2023,10,1,2023-10-01,BC,Gas,Pickup trucks,7562
+2023,10,1,2023-10-01,BC,Gas,Vans,1060
+2023,10,1,2023-10-01,BC,Diesel,Passenger cars,0
+2023,10,1,2023-10-01,BC,Diesel,Pickup trucks,2227
+2023,10,1,2023-10-01,BC,Diesel,Vans,233
+2023,10,1,2023-10-01,BC,Electric,Passenger cars,1480
+2023,10,1,2023-10-01,BC,Electric,Pickup trucks,404
+2023,10,1,2023-10-01,BC,Electric,Vans,43
+2023,10,1,2023-10-01,BC,Hybrid,Passenger cars,894
+2023,10,1,2023-10-01,BC,Hybrid,Pickup trucks,391
+2023,10,1,2023-10-01,BC,Hybrid,Vans,272
+2023,10,1,2023-10-01,BC,Hybrid,Passenger cars,132
+2023,10,1,2023-10-01,BC,Hybrid,Pickup trucks,0
+2023,10,1,2023-10-01,BC,Hybrid,Vans,36
+2024,1,1,2024-01-01,CAN,Gas,Passenger cars,44183
+2024,1,1,2024-01-01,CAN,Gas,Pickup trucks,59589
+2024,1,1,2024-01-01,CAN,Gas,Vans,10077
+2024,1,1,2024-01-01,CAN,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,CAN,Diesel,Pickup trucks,15692
+2024,1,1,2024-01-01,CAN,Diesel,Vans,1025
+2024,1,1,2024-01-01,CAN,Electric,Passenger cars,5709
+2024,1,1,2024-01-01,CAN,Electric,Pickup trucks,1628
+2024,1,1,2024-01-01,CAN,Electric,Vans,271
+2024,1,1,2024-01-01,CAN,Hybrid,Passenger cars,5050
+2024,1,1,2024-01-01,CAN,Hybrid,Pickup trucks,3023
+2024,1,1,2024-01-01,CAN,Hybrid,Vans,2349
+2024,1,1,2024-01-01,CAN,Hybrid,Passenger cars,1685
+2024,1,1,2024-01-01,CAN,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,CAN,Hybrid,Vans,191
+2024,1,1,2024-01-01,PEI,Gas,Passenger cars,121
+2024,1,1,2024-01-01,PEI,Gas,Pickup trucks,255
+2024,1,1,2024-01-01,PEI,Gas,Vans,26
+2024,1,1,2024-01-01,PEI,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,PEI,Diesel,Pickup trucks,72
+2024,1,1,2024-01-01,PEI,Diesel,Vans,0
+2024,1,1,2024-01-01,PEI,Electric,Passenger cars,10
+2024,1,1,2024-01-01,PEI,Electric,Pickup trucks,5
+2024,1,1,2024-01-01,PEI,Electric,Vans,1
+2024,1,1,2024-01-01,PEI,Hybrid,Passenger cars,27
+2024,1,1,2024-01-01,PEI,Hybrid,Pickup trucks,19
+2024,1,1,2024-01-01,PEI,Hybrid,Vans,6
+2024,1,1,2024-01-01,PEI,Hybrid,Passenger cars,5
+2024,1,1,2024-01-01,PEI,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,PEI,Hybrid,Vans,2
+2024,1,1,2024-01-01,NB,Gas,Passenger cars,822
+2024,1,1,2024-01-01,NB,Gas,Pickup trucks,1486
+2024,1,1,2024-01-01,NB,Gas,Vans,198
+2024,1,1,2024-01-01,NB,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,NB,Diesel,Pickup trucks,318
+2024,1,1,2024-01-01,NB,Diesel,Vans,4
+2024,1,1,2024-01-01,NB,Electric,Passenger cars,30
+2024,1,1,2024-01-01,NB,Electric,Pickup trucks,12
+2024,1,1,2024-01-01,NB,Electric,Vans,5
+2024,1,1,2024-01-01,NB,Hybrid,Passenger cars,107
+2024,1,1,2024-01-01,NB,Hybrid,Pickup trucks,51
+2024,1,1,2024-01-01,NB,Hybrid,Vans,29
+2024,1,1,2024-01-01,NB,Hybrid,Passenger cars,18
+2024,1,1,2024-01-01,NB,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,NB,Hybrid,Vans,2
+2024,1,1,2024-01-01,QUE,Gas,Passenger cars,9903
+2024,1,1,2024-01-01,QUE,Gas,Pickup trucks,9956
+2024,1,1,2024-01-01,QUE,Gas,Vans,2114
+2024,1,1,2024-01-01,QUE,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,QUE,Diesel,Pickup trucks,2995
+2024,1,1,2024-01-01,QUE,Diesel,Vans,259
+2024,1,1,2024-01-01,QUE,Electric,Passenger cars,2628
+2024,1,1,2024-01-01,QUE,Electric,Pickup trucks,547
+2024,1,1,2024-01-01,QUE,Electric,Vans,115
+2024,1,1,2024-01-01,QUE,Hybrid,Passenger cars,1010
+2024,1,1,2024-01-01,QUE,Hybrid,Pickup trucks,458
+2024,1,1,2024-01-01,QUE,Hybrid,Vans,486
+2024,1,1,2024-01-01,QUE,Hybrid,Passenger cars,766
+2024,1,1,2024-01-01,QUE,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,QUE,Hybrid,Vans,75
+2024,1,1,2024-01-01,ON,Gas,Passenger cars,20945
+2024,1,1,2024-01-01,ON,Gas,Pickup trucks,21367
+2024,1,1,2024-01-01,ON,Gas,Vans,4533
+2024,1,1,2024-01-01,ON,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,ON,Diesel,Pickup trucks,4468
+2024,1,1,2024-01-01,ON,Diesel,Vans,476
+2024,1,1,2024-01-01,ON,Electric,Passenger cars,1596
+2024,1,1,2024-01-01,ON,Electric,Pickup trucks,469
+2024,1,1,2024-01-01,ON,Electric,Vans,49
+2024,1,1,2024-01-01,ON,Hybrid,Passenger cars,2260
+2024,1,1,2024-01-01,ON,Hybrid,Pickup trucks,1315
+2024,1,1,2024-01-01,ON,Hybrid,Vans,1122
+2024,1,1,2024-01-01,ON,Hybrid,Passenger cars,388
+2024,1,1,2024-01-01,ON,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,ON,Hybrid,Vans,71
+2024,1,1,2024-01-01,MB,Gas,Passenger cars,1276
+2024,1,1,2024-01-01,MB,Gas,Pickup trucks,2652
+2024,1,1,2024-01-01,MB,Gas,Vans,234
+2024,1,1,2024-01-01,MB,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,MB,Diesel,Pickup trucks,499
+2024,1,1,2024-01-01,MB,Diesel,Vans,9
+2024,1,1,2024-01-01,MB,Electric,Passenger cars,39
+2024,1,1,2024-01-01,MB,Electric,Pickup trucks,40
+2024,1,1,2024-01-01,MB,Electric,Vans,5
+2024,1,1,2024-01-01,MB,Hybrid,Passenger cars,121
+2024,1,1,2024-01-01,MB,Hybrid,Pickup trucks,71
+2024,1,1,2024-01-01,MB,Hybrid,Vans,59
+2024,1,1,2024-01-01,MB,Hybrid,Passenger cars,21
+2024,1,1,2024-01-01,MB,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,MB,Hybrid,Vans,2
+2024,1,1,2024-01-01,SAS,Gas,Passenger cars,777
+2024,1,1,2024-01-01,SAS,Gas,Pickup trucks,3188
+2024,1,1,2024-01-01,SAS,Gas,Vans,212
+2024,1,1,2024-01-01,SAS,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,SAS,Diesel,Pickup trucks,1033
+2024,1,1,2024-01-01,SAS,Diesel,Vans,6
+2024,1,1,2024-01-01,SAS,Electric,Passenger cars,23
+2024,1,1,2024-01-01,SAS,Electric,Pickup trucks,19
+2024,1,1,2024-01-01,SAS,Electric,Vans,0
+2024,1,1,2024-01-01,SAS,Hybrid,Passenger cars,43
+2024,1,1,2024-01-01,SAS,Hybrid,Pickup trucks,83
+2024,1,1,2024-01-01,SAS,Hybrid,Vans,56
+2024,1,1,2024-01-01,SAS,Hybrid,Passenger cars,8
+2024,1,1,2024-01-01,SAS,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,SAS,Hybrid,Vans,2
+2024,1,1,2024-01-01,BC,Gas,Passenger cars,4897
+2024,1,1,2024-01-01,BC,Gas,Pickup trucks,5883
+2024,1,1,2024-01-01,BC,Gas,Vans,1240
+2024,1,1,2024-01-01,BC,Diesel,Passenger cars,0
+2024,1,1,2024-01-01,BC,Diesel,Pickup trucks,2008
+2024,1,1,2024-01-01,BC,Diesel,Vans,162
+2024,1,1,2024-01-01,BC,Electric,Passenger cars,1125
+2024,1,1,2024-01-01,BC,Electric,Pickup trucks,373
+2024,1,1,2024-01-01,BC,Electric,Vans,76
+2024,1,1,2024-01-01,BC,Hybrid,Passenger cars,943
+2024,1,1,2024-01-01,BC,Hybrid,Pickup trucks,461
+2024,1,1,2024-01-01,BC,Hybrid,Vans,332
+2024,1,1,2024-01-01,BC,Hybrid,Passenger cars,367
+2024,1,1,2024-01-01,BC,Hybrid,Pickup trucks,0
+2024,1,1,2024-01-01,BC,Hybrid,Vans,26
