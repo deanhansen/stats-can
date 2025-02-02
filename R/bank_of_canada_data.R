@@ -1,8 +1,8 @@
-library('tidyverse')
 library('statcanR')
-import::from(.from = "plyr", mapvalues)
+library('tidyverse')
 
-boc_raw <- statcan_download_data("10-10-0139-01", lang = "eng")
+## ...
+boc_raw <- statcan_download_data(tableNumber = "10-10-0139-01", lang = "eng")
 
 boc <- 
   boc_raw  |> 

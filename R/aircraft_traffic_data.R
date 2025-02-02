@@ -16,12 +16,12 @@ aircraft_traffic <-
     ) |> 
   dplyr::select("REF_DATE", "AIRCRAFT_MOVEMENT_DESC", "NUMBER_OF_AIRCRAFT_MOVEMENTS", "YEAR")
 
-readr::write_csv(aircraft_traffic, "data-raw/aircraft_traffic_data.csv")
+readr::write_csv(aircraft_traffic, file = "data-raw/aircraft_traffic_data.csv")
 
 
 # Aircraft Weight ------------------------------------------------------------------
 
-aircraft_weight_raw <- statcanR::statcan_download_data("23-10-0301-01", lang = "eng")
+aircraft_weight_raw <- statcanR::statcan_download_data(tableNumber = "23-10-0301-01", lang = "eng")
 
 aircraft_weight <- 
   aircraft_weight_raw |> 
