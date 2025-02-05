@@ -2,7 +2,7 @@ library('statcanR')
 library('tidyverse')
 
 ## ...
-population_estimates_raw <- statcan_download_data(tableNumber = "17-10-0005-01", lang =  "eng")
+population_estimates_raw <- statcanR::statcan_download_data(tableNumber = "17-10-0005-01", lang =  "eng")
 
 ## ...
 # AGE_GROUP_LEVELS <- paste(seq(0, 99, by = 1), "years")

@@ -1,7 +1,10 @@
-source("statscan_utils/data_loading.R")
+library('statcanR')
+library('dplyr')
 
-electric_power_generation_raw <- statcan_download_data_tidy("25-10-0015-01", "eng")
+## ...
+electric_power_generation_raw <- statcanR::statcan_download_data(tableNumber = "25-10-0015-01", lang = "eng")
 
+## ...
 electric_power_generation <-
   electric_power_generation_raw |> 
   dplyr::rename(
@@ -22,5 +25,3 @@ electric_power_generation |>
   filter(GEO == "Canada") |> 
   ggplot(aes(REF_DATE,PROP, fill=TYPE_OF_ELECTRICITY_GENERATION)) +
   geom_bar(stat = "identity", position = "fill")
-
-View(electric_power_generation_raw)
