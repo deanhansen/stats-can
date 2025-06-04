@@ -1,22 +1,27 @@
 library('statcanR')
+library('readr')
 library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
 
 ## ...
-demographic_growth_components_raw <- statcanR::statcan_download_data(tableNumber = "17-10-0008-01", lang = "eng")
+demographic_growth_components_raw <- statcan_download_data(tableNumber = "17-10-0008-01", lang = "eng")
 
 ## ...
 demographic_growth_components <-
-  demographic_growth_components_raw |> 
-  dplyr::rename(
-    "GROWTH_COMPONENT_DESC" = `Components of population growth`,
-    "PERSONS" = "VALUE"
+  demographic_growth_components_raw |>
+  as_tibble() |> 
+  clean_names() |> 
+  rename("persons" = "value") |> 
+  mutate(
+    year  = year(ref_date),
+    month = month(ref_date)
     ) |> 
-  dplyr::mutate(
-    YEAR  = lubridate::year(REF_DATE),
-    MONTH = lubridate::month(REF_DATE)
-  ) |> 
-  dplyr::select("REF_DATE", "REF_PERIOD", "GEO", "GROWTH_COMPONENT_DESC", 
-                "PERSONS", "YEAR", "MONTH")
+  select("ref_date", "ref_period", "geo", "components_of_population_growth", 
+         "persons", "year", "month")
 
 ## ...
-readr::write_csv(demographic_growth_components, file = "data-raw/demographic_growth_components_data.csv")
+write_csv(demographic_growth_components, file = "data-raw/demographic_growth_components_data.csv")

@@ -1,47 +1,51 @@
-## Source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=9810035301
-
 library('statcanR')
-library('tidyverse')
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
 
-## ...
-religion_raw <- 
-  statcanR::statcan_download_data(tableNumber = "98-10-0353-01", lang = "eng") |> 
-  dplyr::select(-seq(9, 57, by = 2)) |>
-  dplyr::as_tibble() |>
-  dplyr::rename_with(
-    .cols = dplyr::starts_with("Religion"), 
-    .fn   = \(x) stringr::str_split_i(string = x, pattern = ":", i = 2) |> stringr::str_split_i(pattern = "\\[", i = 1)
-    ) |> 
-  dplyr::rename(
-    "AGE"        = "Age (15C)",
-    "GENDER"     = "Gender (3)",
-    "STATISTICS" = "Statistics (2)"
-  ) |> 
-  tidyr::pivot_longer(
-    cols      = "Total - Religion":"No religion and secular perspectives",
-    names_to  = "RELIGION",
-    values_to = "TOTAL_ADHERANTS"
-    ) |>
-  dplyr::select("REF_DATE", "GEO", "AGE", "GENDER",
-                "STATISTICS", "RELIGION", "TOTAL_ADHERANTS")
-
-## Values of `AGE` we want to keep for plotting
-AGE_VALUES <- c("0 to 14 years", "15 to 19 years", "20 to 24 years", "25 to 34 years", 
+## Values of `age` we want to keep for plotting
+age_values <- c("0 to 14 years", "15 to 19 years", "20 to 24 years", "25 to 34 years", 
                 "35 to 44 years", "45 to 54 years", "55 to 64 years", "65 to 74 years", 
                 "75 years and over")
 
 ## ...
-religion <-
-  religion_raw |> 
-  dplyr::filter(STATISTICS == "2021 Counts", STATISTICS == "2021 Counts", GENDER != "Total - Gender", AGE %in% AGE_VALUES) |> 
-  dplyr::mutate(
-    GENDER          = factor(GENDER, levels = c("Men+", "Women+"), labels = c("Men", "Women")),
-    AGE             = factor(AGE,    levels = AGE_VALUES),
-    TOTAL_ADHERANTS = as.integer(TOTAL_ADHERANTS),
-    YEAR            = lubridate::year(REF_DATE)
-  ) |> 
-  dplyr::select("YEAR", "GEO", "AGE", "GENDER", 
-                "RELIGION", "TOTAL_ADHERANTS")
+religion_raw <- statcan_download_data(tableNumber = "98-10-0353-01", lang = "eng")
 
 ## ...
-readr::write_csv(x = religion, file = "data-raw/religion_data.csv")
+religion <- 
+  religion_raw |> 
+  select(-seq(9, 57, by = 2)) |>
+  as_tibble() |>
+  clean_names() |> 
+  rename_with(
+    .cols = starts_with("religion"), 
+    .fn   = ~str_split_i(string = .x, pattern = "religion_25_", i = 2)
+    ) |>  
+  rename(
+    "age"        = "age_15c",
+    "gender"     = "gender_3",
+    "statistics" = "statistics_2"
+    ) |> 
+  pivot_longer(
+    cols      = "total_religion_1":"no_religion_and_secular_perspectives_25",
+    names_to  = "religion_name",
+    values_to = "total_followers"
+    ) |>
+  filter(statistics == "2021 Counts", age %in% age_values) |> 
+  mutate(
+    age             = factor(age, levels = age_values),
+    total_followers = as.integer(total_followers),
+    year            = year(ref_date),
+    month           = month(ref_date)
+    ) |> 
+  select("ref_date", "geo", "age", "gender",
+         "statistics", "religion_name", "total_followers", "year",
+         "month")
+
+## ...
+write_csv(religion, file = "data-raw/religion_data.csv")

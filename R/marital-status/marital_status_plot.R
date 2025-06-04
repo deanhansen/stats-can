@@ -1,34 +1,26 @@
-library('tidyverse')
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
+library('ggplot2')
 library('scales')
+library('ggview')
 
-marital_status <- read_csv(file = "marital_status/marital_status_data.csv")
+## ...
+marital_status <- read_csv(file = "data-raw/marital_status_data.csv")
 
-ggplot(marital_status %>% filter(INDICATOR == "median" & GENDER != "Total" & GEO != "Canada"),
-       aes(x = REF_DATE, y = VALUE, color = PRIOR_MARITAL_STATUS, group = PRIOR_MARITAL_STATUS)) +
-  
-  geom_point(size = 2, shape = 3) +
+## ...
+marital_status |> 
+  filter(geo == "Canada", legal_marital_status_prior_to_marriage == "Never legally married", gender_composition_of_the_couple == "Total – Gender composition", str_detect(string = indicator, pattern = "Median")) |>  
+  ggplot(
+    aes(x = year, y = age_in_years, colour = gender)
+    ) +
+  geom_point(size = 0.5) +
   geom_smooth() +
-  
-  # Scales
-  scale_y_continuous(breaks = c(25, 30, 35, 40, 45, 50, 55, 60, 65, 70)) +
-  
-  # Labels
-  labs(title = "Median Age of Marriage",
-       subtitle = "A Tale of Two Sexes",
-       x = "",
-       y = "") +
-  
-  # Themes
-  theme_minimal() +
-  theme(
-    plot.title = element_text(size = 16, face = "bold", hjust = .5),
-    plot.subtitle = element_text(size = 14, hjust = .5, margin = margin(b = 10)),
-    plot.caption = element_text(size = 8, hjust = 0, margin = margin(t = 10)),
-    legend.title = element_blank(),
-    legend.text = element_text(size = 10, margin = margin(r = 10)),
-    panel.grid.minor.x = element_blank(),
-    panel.grid.minor.y = element_blank(),
-    axis.title.x = element_text(size = 12, face = "bold", vjust = 2, angle = 45, hjust = 1),
-    axis.title.y = element_text(size = 12, face = "bold", vjust = 0, angle = 45)
-  ) +
-  facet_wrap(~GENDER)
+  scale_x_continuous(n.breaks = 10, minor_breaks = NULL) +
+  scale_y_continuous(n.breaks = 5,  minor_breaks = NULL, labels = label_number(suffix = " yrs. old")) +
+  labs(title = "Median Age of First Marraige by Gender", caption = "Note: if we had to guess, the trend lines for Men and Women continue\nabove/below the green curve. So, I'd say the median age of marriage\nis somewhere around 31 for Men and 29 for Women.")

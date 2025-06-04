@@ -1,24 +1,35 @@
 library('statcanR')
+library('readr')
 library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
+
+
+# Construction Wages by Trade and Wage Type -------------------------------
 
 ## ...
-construction_wages_raw <- statcanR::statcan_download_data(tableNumber = "18-10-0139-01", lang = "eng")
+construction_wages_raw <- statcan_download_data(tableNumber = "18-10-0139-01", lang = "eng")
 
 ## ...
 construction_wages <-
   construction_wages_raw |> 
-  dplyr::rename(
-    "TRADE"       = `Construction trades`,
-    "WAGE_TYPE"   = `Type of wage rates`,
-    "HOURLY_WAGE" = "VALUE"
-  ) |>
-  dplyr::filter(WAGE_TYPE == "Basic construction union wage rates") |>
+  as_tibble() |> 
+  clean_names() |> 
+  rename(
+    "construction_trades_desc" = "construction_trades",
+    "hourly_wage_rate"         = "value"
+    ) |>
+  filter(type_of_wage_rates == "Basic construction union wage rates") |>
   mutate(
-    YEAR  = lubridate::year(REF_DATE),
-    MONTH = lubridate::month(REF_DATE)
+    year  = year(ref_date),
+    month = month(ref_date)
     ) |> 
-  dplyr::select("REF_DATE", "GEO",  "TRADE", "HOURLY_WAGE", 
-                "YEAR", "MONTH")
+  select("ref_date", "geo", "construction_trades_desc", "hourly_wage_rate",
+         "year", "month")
 
 ## ...
-readr::write_csv(x = construction_wages, file = "data-raw/construction_wages_data.csv")
+write_csv(x = construction_wages, file = "data-raw/construction_wages_data.csv")

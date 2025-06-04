@@ -1,106 +1,26 @@
-library('tidyverse')
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
+library('ggplot2')
 library('scales')
-library('shadowtext')
-library('patchwork')
-library('showtext')
-library('sysfonts')
-showtext_auto()
+library('ggview')
 
-GREEN <- "#2FC1D3"
-BLUE <- "#076FA1"
-BLUE_DARKER <- "#1f2e7a"
-GREY_DARKER <- "#5C5B5D"
-BLACK <- "#0d0d0d"
-RED_DARK <- "#852e57"
+## ...
+motor_vehicle_registrations <- read_csv(file = "data-raw/motor_vehicle_registrations_data.csv")
 
-
-motor_vehicle_registrations <- #load the data
-  read_csv(
-    "motor_vehicle_registrations/motor_vehicle_registrations.csv",
-    col_types = cols(
-      GEO = readr::col_factor(), 
-      FUEL_TYPE = readr::col_factor(),
-      VEHICLE_TYPE = readr::col_factor()
-      )
-    ) |>
-  mutate(
-    GEO = fct_recode(
-      GEO,
-      "CAN" = "Canada",
-      "PEI" = "Prince Edward Island",
-      "NB"  = "New Brunswick",
-      "QUE" = "Quebec",
-      "ON"  = "Ontario",
-      "MB"  = "Manitoba",
-      "SAS" = "Saskatchewan",
-      "BC"  = "British Columbia and the Territories"
-    ),
-    FUEL_TYPE = fct_recode(
-      FUEL_TYPE,
-      "Gas"      = "Gasoline", 
-      "Diesel"   = "Diesel", 
-      "Electric" = "Battery electric", 
-      "Hybrid"   = "Hybrid electric",
-      "Hybrid"   = "Plug-in hybrid electric"
-    )
-  )
-
-motor_vehicle_registrations_g <-
-  motor_vehicle_registrations |> 
-  filter(
-    GEO == "CAN"
-  ) |>
-  select(
-    REF_DATE, 
-    FUEL_TYPE,
-    VEHICLE_TYPE,
-    NUMBER_OF_CARS
-  ) |> 
-  group_by(
-    REF_DATE,
-    FUEL_TYPE
-  ) |> 
-  dplyr::reframe(
-    VALUE = sum(NUMBER_OF_CARS)
-  )
-
-g <- #create ggplot object
-  motor_vehicle_registrations_g |>
-  ggplot(aes(x = REF_DATE, y = VALUE))
-
-g + 
-  geom_area(aes(fill = FUEL_TYPE)) +
-  scale_fill_manual(
-    values = c(GREEN, BLUE, BLUE_DARKER, GREY_DARKER),
-    aesthetics = "fill"
+## ...
+motor_vehicle_registrations |> 
+  filter(geo == "CAN", str_detect(string = fuel_type, pattern = "All", negate = TRUE), str_detect(string = vehicle_type, pattern = "Total", negate = TRUE)) |> 
+  ggplot(
+    aes(x = ref_date, y = number_of_vehicles, group = fuel_type, colour = fuel_type)
     ) +
-  scale_x_date(date_breaks = "1 year",
-    labels = scales::label_date(),
-    date_labels = "%b-%Y",
-    name = ""
-  ) +
-  scale_y_continuous(
-    expand = c(0, 0),
-    limits = c(0,400000),
-    labels = scales::label_comma()
-  ) +
-  labs(
-    x = "Year",
-    y = "",
-    fill = "",
-    title = "New Motor Vehicle Registrations",
-    subtitle = "By Fuel Type",
-    caption = "**data unavailable for Alberta, New Brunswick and Nova Scotia
-    Source: https://statcan.gc.ca/"
-  ) +
-  theme(
-    plot.title.position = "plot",
-    text = element_text(size = 28),
-    plot.title = element_text(family = "sans", face = "bold", size = 50),
-    plot.caption.position = "plot",
-    legend.position = "top",
-    legend.text = element_text(family = "sans", size = 28),
-    panel.grid = element_blank(),
-    panel.grid.major.y = element_line(color = "#A8BAC4", linewidth = 0.25),
-    panel.background = element_rect(fill = "white")
-  )
+  geom_point() +
+  geom_line() +
+  scale_x_date(date_breaks = "1 year", minor_breaks = NULL, labels = label_date(format = "%y'")) +
+  scale_y_continuous(labels = label_comma(), n.breaks = 6, minor_breaks = NULL) +
+  facet_wrap(~vehicle_type)

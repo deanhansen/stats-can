@@ -1,27 +1,27 @@
 library('statcanR')
+library('readr')
 library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
 
 ## ...
-electric_power_generation_raw <- statcanR::statcan_download_data(tableNumber = "25-10-0015-01", lang = "eng")
+electric_power_generation_raw <- statcan_download_data(tableNumber = "25-10-0015-01", lang = "eng")
 
 ## ...
 electric_power_generation <-
-  electric_power_generation_raw |> 
-  dplyr::rename(
-    CLASS_OF_ELECTRICITY_PRODUCER = `Class of electricity producer`,
-    TYPE_OF_ELECTRICITY_GENERATION = `Type of electricity generation`
-  ) |> 
-  filter(!is.na(VALUE)) |> 
-  filter(CLASS_OF_ELECTRICITY_PRODUCER != "Total all classes of electricity producer") |> 
-  filter(!TYPE_OF_ELECTRICITY_GENERATION %in% c("Total all types of electricity generation", "Total electricity production from combustible fuels", "Total electricity production from biomass", "Total electricity production from non-renewable combustible fuels")) |> 
-  mutate(VALUE = ifelse(VALUE < 0, 0, VALUE))
-  
-electric_power_generation |> 
-  group_by(REF_DATE, GEO, TYPE_OF_ELECTRICITY_GENERATION) |>
+  electric_power_generation_raw |>
+  as_tibble() |> 
+  clean_names() |> 
+  rename("mega_watt_hours" = "value") |> 
   mutate(
-    PROP = (VALUE / sum(VALUE)) * 100
-  ) |> 
-  select(REF_DATE, GEO, TYPE_OF_ELECTRICITY_GENERATION, PROP) |> 
-  filter(GEO == "Canada") |> 
-  ggplot(aes(REF_DATE,PROP, fill=TYPE_OF_ELECTRICITY_GENERATION)) +
-  geom_bar(stat = "identity", position = "fill")
+    year  = year(ref_date),
+    month = month(ref_date)
+    ) |> 
+  select("ref_date", "geo", "class_of_electricity_producer", "type_of_electricity_generation",
+         "uom", "mega_watt_hours", "year", "month")
+
+## ...
+write_csv(electric_power_generation, file = "data-raw/electric_power_generation_data.csv")

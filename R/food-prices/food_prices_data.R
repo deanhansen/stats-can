@@ -1,24 +1,28 @@
-library('tidyverse')
 library('statcanR')
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
 
-table <- "18-10-0004-03"
-food_prices_raw <- statcan_download_data(table, lang = "eng")
+## ...
+food_prices_raw <- statcan_download_data(table = "18-10-0004-03", lang = "eng")
 
+## ...
 food_prices <-
   food_prices_raw  |> 
-  select(REF_DATE, GEO, `Products and product groups`, UOM, TERMINATED, VALUE) |>
-  rename(PRODUCT_TYPE = `Products and product groups`) |>
-  filter(
-    !is.na(VALUE), 
-    TERMINATED != "t", 
-    UOM == "2002=100", 
-    GEO %in% c("Canada", "Ontario")
-    ) |> 
+  as_tibble() |> 
+  clean_names() |> 
+  rename("food_price_index" = "value") |> 
+  filter(terminated != "t", !is.na(food_price_index)) |> 
   mutate(
-    YEAR = year(REF_DATE),
-    MONTH = month(REF_DATE),
-    DAY = day(REF_DATE)
-  ) |> 
-  select(REF_DATE, GEO, PRODUCT_TYPE, VALUE, YEAR, MONTH, DAY)
+    year  = year(ref_date),
+    month = month(ref_date)
+    ) |> 
+  select("ref_date", "geo", "products_and_product_groups", "food_price_index",
+         "uom", "year", "month")
 
-write_csv(food_prices, file = "food_prices/food_prices_data.csv")
+## ...
+write_csv(food_prices, file = "data-raw/food_prices_data.csv")

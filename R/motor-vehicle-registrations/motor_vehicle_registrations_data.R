@@ -1,39 +1,28 @@
 library('statcanR')
-library('tidyverse')
-source("utils/data_loading.R")
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
 
-#use personal tidy version of statcan_download_data
-motor_vehicle_registrations_raw <- statcan_download_data_tidy("20-10-0024-01", lang = "eng")
+## ...
+motor_vehicle_registrations_raw <- statcan_download_data(tableNumber = "20-10-0024-01", lang = "eng")
 
+## ...
 motor_vehicle_registrations <- 
-  motor_vehicle_registrations_raw |> 
-  dplyr::rename(
-    FUEL_TYPE = `Fuel type`,
-    VEHICLE_TYPE = `Vehicle type`,
-    NUMBER_OF_CARS = VALUE
-    ) |> 
-  select(
-    -Statistics,
-    -INDICATOR,
-    -UOM
-  ) |> 
+  motor_vehicle_registrations_raw |>
+  as_tibble() |> 
+  clean_names() |> 
+  rename("number_of_vehicles" = "value") |> 
+  filter(!is.na(number_of_vehicles)) |> 
   mutate(
-    YEAR = lubridate::year(REF_DATE),
-    MONTH = lubridate::month(REF_DATE),
-    DAY = lubridate::day(REF_DATE),
-    ) |> 
-  filter(
-    !is.na(NUMBER_OF_CARS)
-    ) |> 
-  filter(
-    FUEL_TYPE %in% c("Gasoline", "Diesel", "Battery electric", "Hybrid electric", "Plug-in hybrid electric")
-    ) |> 
-  filter(
-    VEHICLE_TYPE %in% c("Passenger cars", "Pickup trucks", "Vans")
-    ) |> 
-  mutate(
-    GEO = fct_recode(
-      GEO,
+    year      = year(ref_date),
+    month     = month(ref_date),
+    geo       = fct_recode(
+      geo,
       "CAN" = "Canada",
       "PEI" = "Prince Edward Island",
       "NB"  = "New Brunswick",
@@ -43,24 +32,20 @@ motor_vehicle_registrations <-
       "SAS" = "Saskatchewan",
       "BC"  = "British Columbia and the Territories"
     ),
-    FUEL_TYPE = fct_recode(
-      FUEL_TYPE,
-      "Gas"      = "Gasoline", 
-      "Diesel"   = "Diesel", 
-      "Electric" = "Battery electric", 
-      "Hybrid"   = "Hybrid electric",
-      "Hybrid"   = "Plug-in hybrid electric"
-    )
-  ) |> 
-  select(
-    YEAR,
-    MONTH,
-    DAY,
-    REF_DATE,
-    GEO,
-    FUEL_TYPE,
-    VEHICLE_TYPE,
-    NUMBER_OF_CARS
-    )
+    fuel_type = fct_recode(
+      fuel_type,
+      "Gas"             = "Gasoline", 
+      "Diesel"          = "Diesel", 
+      "Electric"        = "Battery electric", 
+      "Hybrid Electric" = "Hybrid electric",
+      "Hybrid Electric" = "Plug-in hybrid electric",
+      "Other"           = "Other fuel types"
+      ),
+    year      = year(ref_date),
+    month     = month(ref_date)
+    ) |> 
+  select("ref_date", "geo", "fuel_type", "vehicle_type", 
+         "number_of_vehicles", "year", "month")
 
-write_csv(motor_vehicle_registrations, "motor_vehicle_registrations/motor_vehicle_registrations.csv")
+## ...
+write_csv(motor_vehicle_registrations, file = "data-raw/motor_vehicle_registrations_data.csv")

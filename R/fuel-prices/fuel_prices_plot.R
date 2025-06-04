@@ -1,40 +1,48 @@
-library('tidyverse')
+library('readr')
+library('dplyr')
+library('tidyr')
+library('janitor')
+library('stringr')
+library('lubridate')
+library('forcats')
+library('purrr')
+library('ggplot2')
 library('scales')
+library('ggview')
 library('gganimate')
+
 
 # Data --------------------------------------------------------------------
 
-fuel_prices <- readr::read_csv("data-raw/fuel_prices_data.csv")
-crude_oil   <- readr::read_csv("data-raw/crude_oil_data.csv")
+fuel_prices <- read_csv("data-raw/fuel_prices_data.csv")
 
-crude_oil_imports_exports <- 
-  crude_oil |> 
-  dplyr::filter(SUPPLY_AND_DISPOSITION %in% c("Imports", "Exports"))
-
-
-# gas plots -------------------------------------------------------------------
+# Average Monthly Price of Gasoline in Toronto -------------------------------------------------------------------
 
 fuel_prices |> 
-  dplyr::filter(
-    stringr::str_detect(string = FUEL_TYPE, pattern = "self service"),
-    GEO == "Toronto, Ontario"
+  filter(str_detect(string = type_of_fuel, pattern = "self service"), geo == "Toronto, Ontario", year > 2010L) |> 
+  mutate(
+    type_of_fuel = str_split_i(string = type_of_fuel, pattern = "at|self|or", i = 1) |> str_remove_all("unleaded") |> str_trim(),
+    type_of_fuel = fct_inorder(type_of_fuel)
     ) |> 
-  ggplot(aes(x = REF_DATE, y = AVG_FUEL_PRICE_IN_DOLLARS_PER_LITRE, color = FUEL_TYPE, fill = FUEL_TYPE)) +
+  ggplot(
+    aes(x = ref_date, y = monthly_average_retail_price_in_dollars_per_litre, color = type_of_fuel, fill = type_of_fuel)
+    ) +
   geom_line(linewidth = 0.05, show.legend = FALSE) +
   geom_area(alpha = 0.25, show.legend = FALSE) +
   scale_x_date(
-    expand      = expansion(0), 
-    date_breaks = "4 years",
-    labels      = scales::label_date(format = "%Y")
+    expand      = expansion(0.1), 
+    date_breaks = "3 years",
+    labels      = label_date(format = "%Y")
     ) +
   scale_y_continuous(
-    labels = scales::label_currency(), 
-    breaks = scales::pretty_breaks(n = 10),
+    expand = expansion(0), 
+    labels = label_currency(), 
+    breaks = pretty_breaks(n = 15),
     limits = c(0, 2.6)
     ) +
   scale_colour_manual(values = c("steelblue", "violetred", "magenta3")) +
   scale_fill_manual(values = c("steelblue4", "violetred4", "magenta4")) +
-  labs(title = "Average Gas Prices in Toronto", subtitle = "A Tale of Rising Prices") +
+  labs(title = "Average Price of Gas in Toronto", subtitle = "A Tale of Rising Costs") +
   theme(
     text                  = element_text(family = "Comic Sans MS"),
     plot.title            = element_text(size = 16, face = "bold", hjust = 0),
@@ -51,35 +59,5 @@ fuel_prices |>
     legend.position       = "bottom",
     legend.background     = element_rect(fill = "white"),
     legend.box.background = element_rect(linewidth = 0.5, linetype = 1, color = "white")
-  ) +
-  facet_wrap(~FUEL_TYPE, nrow = 1)
-
-
-# crude oil plots ---------------------------------------------------------
-g <- 
-  crude_oil_imports_exports |> 
-  ggplot(aes(x = REF_DATE, y = VALUE))
-
-g + 
-  geom_col(aes(fill = SUPPLY_AND_DISPOSITION), width = 15) +
-  geom_point(alpha = 4, col = BLUE, cex = 2) +
-  scale_fill_manual(
-    values = c(RED, BROWN_DARKER),
-    aesthetics = "fill") +
-  labs(
-    x = "Year",
-    y = "",
-    fill = "Suppy and Disposition",
-    title = "Imports and Exports of Crude Oil",
-    subtitle = "'16 to '23",
-    caption = "Source: https://statcan.gc.ca/"
     ) +
-  theme(
-    axis.title.y = element_text(angle = 360, vjust = 0),
-    plot.title.position = "panel",
-    plot.caption.position = "plot",
-    legend.position = "bottom",
-    legend.box.background = element_rect(colour = GREY),
-    panel.background = element_rect(fill = "#fef8e6"),
-    panel.grid = element_blank()
-    )
+  facet_wrap(~type_of_fuel, nrow = 1)
