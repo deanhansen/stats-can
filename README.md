@@ -4,6 +4,6 @@ As one of the premier statistical agencies in the world, Statistics Canada offer
 
 This repo contains a series of R scripts that I've used and continue to use to learn more about Canada!
 
-<p>
-  <img src="man/GIF/Canada Population Pyramid.gif" height="400" width="600" style="border: 5px solid grey; display: block; margin-left: auto; margin-right: auto;">
-</p>
+<div align="center">
+  <img src="man/GIF/Canada Population Pyramid.gif" height="400" width="600">
+</div>
